@@ -1,13 +1,15 @@
+
+
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR black]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR orange]TV[/COLOR] [COLOR white]|||[/COLOR][COLOR black]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
-<thumbnail>https://ia801508.us.archive.org/32/items/fillmes_201909/TV.jpg</thumbnail>
-<externallink>>
-<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg>
+<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR orange]TV[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<thumbnail>https://ia601508.us.archive.org/32/items/fillmes_201909/TV.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- TV AO VIVO -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - TV AO VIVO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +17,14 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR black]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR gold]FILMES[/COLOR] [COLOR white]|||[/COLOR][COLOR black]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR gold]FILMES[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
 <thumbnail>https://ia801508.us.archive.org/32/items/fillmes_201909/Fillmes.jpg</thumbnail>
-<externallink>>
-<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg>
+<externallink>https://</externallink>
+<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- OS MELHORES FILMES SEMPRE -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - OS MELHORED FILMES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,14 +32,14 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR black]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR lime]SÉRIES[/COLOR] [COLOR white]|||[/COLOR][COLOR black]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
-<thumbnail>https://ia601508.us.archive.org/32/items/fillmes_201909/seires.jpg</thumbnail>
-<externallink>>
-<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg>
+<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR limegreen]SÉRIES[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<thumbnail>https://ia801508.us.archive.org/32/items/fillmes_201909/seires.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- AS MELHORES SÉRIES SEMPRE ATUALIZADAS -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES SEMPRE ATUALIZADAS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -45,14 +47,14 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR black]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR RED]DESENHOS[/COLOR] [COLOR white]|||[/COLOR][COLOR black]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR red]DESENHOS[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
 <thumbnail>https://ia801508.us.archive.org/32/items/fillmes_201909/Desenho.jpg</thumbnail>
-<externallink>>
-<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg>
+<externallink>https://</externallink>
+<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR]- TUDO PARA A CRIANÇADA -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - TUDO PARA A CRINÇADA - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
