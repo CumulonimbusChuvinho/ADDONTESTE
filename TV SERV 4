@@ -1,753 +1,350 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LwtXftR.png" group-title="CANAIS ABERTOS",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+http://0.0.0.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band.png" group-title="CANAIS ABERTOS",[COLOR white][B]BAND[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/9376F5C2-08FC-44AA-87e4-9D7E2B6C337E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_rj.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO RJ[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO NORDESTE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/cyp-C4092F99E8AA42AE93b59A3C262B.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globo_sp.png" group-title="CANAIS ABERTOS",[COLOR white][B]GLOBO SP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0E71CD25-6207-4EB0-8545-DF56BF0F931E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record.png" group-title="CANAIS ABERTOS",[COLOR white][B]RECORD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/redetv.png" group-title="CANAIS ABERTOS",[COLOR white][B]REDE TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/25819AE5-B0CB-40FC-9274-A2F2EDD1FF86.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sbt.png" group-title="CANAIS ABERTOS",[COLOR white][B]SBT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A89AB93D-F7EE-421B-92ab-684C48F218DD.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tvaparecida.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]TV APARECIDA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/cyp-38256037D6124DBCbd57DED7B058.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cultura.jpg" group-title="CANAIS ABERTOS",[COLOR white][B]TV CULTURA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/4861F8C2-0DB8-4268-9815-D28C928CE4F7.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/viva.png" group-title="CANAIS ABERTOS",[COLOR white][B]VIVA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
 
 
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11730
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11729
-#EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11728
-#EXTINF:-1,APENAS UM SHOW
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12657
-#EXTINF:-1,ARMAÇÃO ILIMITADA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12656
-#EXTINF:-1,ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11727
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11122
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11726
-#EXTINF:-1,BABY TV SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11725
-#EXTINF:-1,BACKYARDIGANS
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12632
-#EXTINF:-1,Band FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12905
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11185
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11111
-#EXTINF:-1,Band News HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11121
-#EXTINF:-1,BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11724
-#EXTINF:-1,BAND SP FHD H265
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11723
-#EXTINF:-1,BAND SP SD.
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11721
-#EXTINF:-1,BAND SP SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11722
-#EXTINF:-1,Band Sports FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11181
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11136
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11720
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11717
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11716
-#EXTINF:-1,BLOOMBERG HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11510
-#EXTINF:-1,BOOMBERANG HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12902
-#EXTINF:-1,BOOMERANG FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12909
-#EXTINF:-1,BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11715
-#EXTINF:-1,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11713
-#EXTINF:-1,CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11712
-#EXTINF:-1,CANAL BRASIL
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11098
-#EXTINF:-1,CANAL FUTURA HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11711
-#EXTINF:-1,CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11710
-#EXTINF:-1,CAPITÃO PLANETA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12654
-#EXTINF:-1,CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11714
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11179
-#EXTINF:-1,CAVERNA DO DRAGÃO
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12647
-#EXTINF:-1,CBS NEWS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11507
-#EXTINF:-1,CHANGEMAN
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12653
-#EXTINF:-1,CHARLIE BROWN E SNOOPY
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12652
-#EXTINF:-1,CINEMAX SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11709
-#EXTINF:-1,COMBATE FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11135
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11706
-#EXTINF:-1,Combate HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12889
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11705
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11698
-#EXTINF:-1,COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11134
-#EXTINF:-1,COMEDY FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11110
-#EXTINF:-1,CURTA! SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11697
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11696
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11695
-#EXTINF:-1,DISCOVERY H&H SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11694
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12908
-#EXTINF:-1,DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11693
-#EXTINF:-1,DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11692
-#EXTINF:-1,DISCOVERY TURBO FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11180
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11138
-#EXTINF:-1,DISNEY CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11691
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11690
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11689
-#EXTINF:-1,DISNEY JUNIOR FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12906
-#EXTINF:-1,DISNEY JUNIOR FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11688
-#EXTINF:-1,DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11687
-#EXTINF:-1,DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11686
-#EXTINF:-1,DISNEY XD FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11685
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11684
-#EXTINF:-1,DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11683
-#EXTINF:-1,DOG TV FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11505
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11682
-#EXTINF:-1,EIPLUS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11680
-#EXTINF:-1,EIPLUS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11681
-#EXTINF:-1,ENERGY (ESP)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11523
-#EXTINF:-1,ESPN  HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11178
-#EXTINF:-1,ESPN 2 FHD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11677
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12891
-#EXTINF:-1,ESPN 2 SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11676
-#EXTINF:-1,ESPN BRASIL 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11675
-#EXTINF:-1,ESPN BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11673
-#EXTINF:-1,ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12915
-#EXTINF:-1,ESPN BRASIL HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11674
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12916
-#EXTINF:-1,ESPN EXTRA FHD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11672
-#EXTINF:-1,ESPN EXTRA FHD 2
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11189
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11506
-#EXTINF:-1,ESPN EXTRA SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11671
-#EXTINF:-1,ESPN EXTRA SD 2
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11187
-#EXTINF:-1,Espn FHD 2
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11182
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11678
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11679
-#EXTINF:-1,FAMÍLIA DINOSSAURO
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12646
-#EXTINF:-1,FILM & ARTS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11670
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11669
-#EXTINF:-1,FLASHMAN
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12626
-#EXTINF:-1,FONTE TV
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11477
-#EXTINF:-1,FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11668
-#EXTINF:-1,FOX FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11667
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11119
-#EXTINF:-1,FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11132
-#EXTINF:-1,FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11666
-#EXTINF:-1,FOX LIVE HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11109
-#EXTINF:-1,Fox Premium 1 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11133
-#EXTINF:-1,FOX PREMIUM 2 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12892
-#EXTINF:-1,FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12890
-#EXTINF:-1,FOX SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11665
-#EXTINF:-1,Fox Sports 2 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11175
-#EXTINF:-1,Fox Sports 2 HD (2)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11177
-#EXTINF:-1,FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11664
-#EXTINF:-1,Fox Sports FHD (2)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11176
-#EXTINF:-1,FOX SPORTS FHD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11663
-#EXTINF:-1,Fox Sports HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11174
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11662
-#EXTINF:-1,GATO FELIX
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12644
-#EXTINF:-1,GLOBO BH HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11657
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11656
-#EXTINF:-1,GLOBO DF HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11655
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11652
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11654
-#EXTINF:-1,GLOBO EPTV SÃO CARLOS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11653
-#EXTINF:-1,GLOBO ES HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11514
-#EXTINF:-1,GLOBO FHD GAZETA SUL
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11191
-#EXTINF:-1,GLOBO FHD RJ
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11193
-#EXTINF:-1,GLOBO FHD SP
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11173
-#EXTINF:-1,GLOBO GAZETA SUL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11190
-#EXTINF:-1,GLOBO HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11172
-#EXTINF:-1,GLOBO HD RJ
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11192
-#EXTINF:-1,GLOBO INTER TV CABUGI SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11651
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11512
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11511
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11650
-#EXTINF:-1,GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11097
-#EXTINF:-1,GLOBO NEWS HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11648
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11647
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11646
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11645
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11644
-#EXTINF:-1,GLOBO REDE AMAZONICA HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11643
-#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11642
-#EXTINF:-1,GLOBO RIO SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11641
-#EXTINF:-1,GLOBO RJ HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11640
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11639
-#EXTINF:-1,GLOBO SJRP SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11638
-#EXTINF:-1,GLOBO SP FHD H265
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11661
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11660
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11659
-#EXTINF:-1,GLOBO SP
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11658
-#EXTINF:-1,GLOBO TV  TRIBUNA SANTOS SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11637
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIÂNIA SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11636
-#EXTINF:-1,GLOBO TV BAHIA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11635
-#EXTINF:-1,GLOBO TV CENTRO AMÉRICA CUIBÁ SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11634
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11547
-#EXTINF:-1,GLOBO TV TEM BAURU SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11633
-#EXTINF:-1,GLOBO TV TEM SOROCABA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11649
-#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11632
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11545
-#EXTINF:-1,GLOBO VERDES MARES HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11513
-#EXTINF:-1,GLOOB FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12907
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11631
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11630
-#EXTINF:-1,GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11629
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11628
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11627
-#EXTINF:-1,HBO 2 FHD.
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11170
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11626
-#EXTINF:-1,HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11625
-#EXTINF:-1,HBO FHD.
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11168
-#EXTINF:-1,HBO HD.
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11171
-#EXTINF:-1,HBO PLUS FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11123
-#EXTINF:-1,HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11624
-#EXTINF:-1,HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11108
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11623
-#EXTINF:-1,HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11622
-#EXTINF:-1,HBO2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11169
-#EXTINF:-1,HE-MAN
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12643
-#EXTINF:-1,H2 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12899
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11127
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11621
-#EXTINF:-1,HISTORY FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12911
-#EXTINF:-1,HISTORY HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12912
-#EXTINF:-1,HORA DE AVENTURA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12631
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12898
-#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11620
-#EXTINF:-1,ID-INVESTIGAÇÃO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11118
-#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11619
-#EXTINF:-1,LIFETIME SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11618
-#EXTINF:-1,LIGA DA JUSTIÇA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12642
-#EXTINF:-1,MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11617
-#EXTINF:-1,MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11616
-#EXTINF:-1,MAX FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11131
-#EXTINF:-1,MAX PRIME SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11615
-#EXTINF:-1,MAX SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11614
-#EXTINF:-1,MAX SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11107
-#EXTINF:-1,MAX UP SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11613
-#EXTINF:-1,MAXPRIME FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11112
-#EXTINF:-1,MAXPRIME HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12897
-#EXTINF:-1,MAXPRIME SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11106
-#EXTINF:-1,MEGAPIX FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11120
-#EXTINF:-1,MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11612
-#EXTINF:-1,MLB HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11508
-#EXTINF:-1,MTV LIVE FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11115
-#EXTINF:-1,MTV LIVE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11105
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11611
-#EXTINF:-1,MULTISHOW  HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11113
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11610
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11609
-#EXTINF:-1,MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11608
-#EXTINF:-1,MIAMI TV
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13608
-#EXTINF:-1,MIAMI TV HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13610
-#EXTINF:-1,MIAMI TV LATINO
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13607
-#EXTINF:-1,MIAMI TV LATINO HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/13609
-#EXTINF:-1,NATGEO HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11151
-#EXTINF:-1,NATGEO KIDS FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11116
-#EXTINF:-1,NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11607
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11606
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12896
-#EXTINF:-1,NATGEOKIDS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11104
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11605
-#EXTINF:-1,NBR TV
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11481
-#EXTINF:-1,NHK WORLD HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11124
-#EXTINF:-1,NICK JR FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12910
-#EXTINF:-1,Nick Jr HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11150
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11604
-#EXTINF:-1,NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11603
-#EXTINF:-1,NINJA JIRAIYA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12640
-#EXTINF:-1,NUESTRA TELE INTERNACIONAL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11412
-#EXTINF:-1,O FANTÁSTICO MUNDO DE BOBBY
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12639
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11602
-#EXTINF:-1,PFC 1 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11147
-#EXTINF:-1,PFC 1 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11149
-#EXTINF:-1,PFC 2 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11146
-#EXTINF:-1,PFC 2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11143
-#EXTINF:-1,PFC 3 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11145
-#EXTINF:-1,PFC 3 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11142
-#EXTINF:-1,PFC 4 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11144
-#EXTINF:-1,PFC 4 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11148
-#EXTINF:-1,PFC 5 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12903
-#EXTINF:-1,PFC 6 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12904
-#EXTINF:-1,PLAY TV SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11601
-#EXTINF:-1,PLAYBOY FHD.
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11141
-#EXTINF:-1,PLAYBOY HD.
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11184
-#EXTINF:-1,PLAYBOY HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12913
-#EXTINF:-1,PLAYBOY SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11600
-#EXTINF:-1,PLAYKIDS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11599
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11598
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11597
-#EXTINF:-1,PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11596
-#EXTINF:-1,PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11594
-#EXTINF:-1,PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11595
-#EXTINF:-1,PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11593
-#EXTINF:-1,PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11592
-#EXTINF:-1,PREMIERE 8 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11591
-#EXTINF:-1,PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11590
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11589
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11588
-#EXTINF:-1,RECORD BRASILIA FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11587
-#EXTINF:-1,RECORD BRASILIA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11586
-#EXTINF:-1,RECORD FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11575
-#EXTINF:-1,RECORD FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11130
-#EXTINF:-1,RECORD HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12895
-#EXTINF:-1,RECORD ITAPOAN FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11585
-#EXTINF:-1,RECORD ITAPOAN
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11584
-#EXTINF:-1,RECORD MINAS FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11583
-#EXTINF:-1,RECORD MINAS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11582
-#EXTINF:-1,RECORD NEWS FHD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11581
-#EXTINF:-1,Record News FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12886
-#EXTINF:-1,RECORD NEWS SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11580
-#EXTINF:-1,RECORD RIO FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11579
-#EXTINF:-1,RECORD RIO SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11578
-#EXTINF:-1,RECORD RS FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11577
-#EXTINF:-1,RECORD RS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11576
-#EXTINF:-1,RECORD SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11574
-#EXTINF:-1,RECORD SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11188
-#EXTINF:-1,RECORD SP FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12887
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11573
-#EXTINF:-1,RED BULL TV  FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11504
-#EXTINF:-1,REDE MINAS
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11473
-#EXTINF:-1,REDE SUPER TV
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11411
-#EXTINF:-1,REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11499
-#EXTINF:-1,REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11498
-#EXTINF:-1,SBT ALT
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11465
-#EXTINF:-1,SBT FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11140
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11139
-#EXTINF:-1,Sbt HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12888
-#EXTINF:-1,SCOOBY DOO
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12628
-#EXTINF:-1,SEXTREME SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11572
-#EXTINF:-1,SEXY HOT FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11137
-#EXTINF:-1,SEXY HOT HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11158
-#EXTINF:-1,SEXY HOT SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11571
-#EXTINF:-1,SHOPTIME TV
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11471
-#EXTINF:-1,SPACE FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11117
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11570
-#EXTINF:-1,Sportv 2 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11156
-#EXTINF:-1,SPORTV 2 HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11569
-#EXTINF:-1,Sportv 2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11153
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11568
-#EXTINF:-1,Sportv 3 FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11155
-#EXTINF:-1,SPORTV 3 HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11567
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11152
-#EXTINF:-1,SPORTV 3 SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11566
-#EXTINF:-1,SPORTV FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11157
-#EXTINF:-1,SPORTV FHD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11565
-#EXTINF:-1,Sportv FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12914
-#EXTINF:-1,Sportv HD (2)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11154
-#EXTINF:-1,SPORTV HD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11564
-#EXTINF:-1,SPORTV SD 
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11563
-#EXTINF:-1,STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11562
-#EXTINF:-1,SUPER AMIGOS
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12620
-#EXTINF:-1,SUPER VICKY
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12619
-#EXTINF:-1,TBS FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12901
-#EXTINF:-1,TBS FHD H265
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11129
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12894
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11103
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11561
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11560
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11183
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11167
-#EXTINF:-1,TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11559
-#EXTINF:-1,TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11558
-#EXTINF:-1,TELECINE FUN FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11166
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11165
-#EXTINF:-1,TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11557
-#EXTINF:-1,TELECINE PIPOCA FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11164
-#EXTINF:-1,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11163
-#EXTINF:-1,TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11556
-#EXTINF:-1,TELECINE PREMIUM FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11162
-#EXTINF:-1,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11161
-#EXTINF:-1,TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11555
-#EXTINF:-1,TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11160
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11159
-#EXTINF:-1,TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11554
-#EXTINF:-1,HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11553
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11099
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11552
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11551
-#EXTINF:-1,TNT SERIES FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12900
-#EXTINF:-1,TNT SERIES FHD H265
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11128
-#EXTINF:-1,TNT SERIES FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11550
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12893
-#EXTINF:-1,TNT SÉRIES SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11549
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11102
-#EXTINF:-1,TOONCAST SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11548
-#EXTINF:-1,TV ALTERNATIVA (GAZETA MA)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11475
-#EXTINF:-1,TV ARAPUAN
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11472
-#EXTINF:-1,TV BRASIL DF
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11482
-#EXTINF:-1,TV CARIOCA HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11509
-#EXTINF:-1,TV CATVE (CULTURA PR)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11488
-#EXTINF:-1,TV CENTRAL
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11489
-#EXTINF:-1,TV DIFUSORA SUL
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11476
-#EXTINF:-1,TV MASTER
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11470
-#EXTINF:-1,TV O POVO
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11484
-#EXTINF:-1,TV PAMPA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11468
-#EXTINF:-1,TV PANTANAL MS
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11474
-#EXTINF:-1,TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11546
-#EXTINF:-1,TV SANTA CECÍLIA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/12885
-#EXTINF:-1,TV SERRA DOURADA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11478
-#EXTINF:-1,TV SIM (RECORD NEWS ES)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11479
-#EXTINF:-1,TV UNIAO NATAL
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11469
-#EXTINF:-1,TV UNIAO
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11485
-#EXTINF:-1,TV UNIVERSAL 1
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11492
-#EXTINF:-1,TV UNIVERSAL 2 HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11494
-#EXTINF:-1,TV UNIVERSAL 2 SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11493
-#EXTINF:-1,TV VITORIA
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11480
-#EXTINF:-1,TVCI
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11487
-#EXTINF:-1,TVE (TV BRASIL BA)
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11486
-#EXTINF:-1,TVE RS
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11467
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11186
-#EXTINF:-1,UNIVERSAL TV FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11544
-#EXTINF:-1,UNIVERSAL TV SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11543
-#EXTINF:-1,VH1 MEGAHITS SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11542
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11541
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11540
-#EXTINF:-1,WARNER CHANNEL FHD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11539
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11125
-#EXTINF:-1,WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11538
-#EXTINF:-1,WARNER SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11100
-#EXTINF:-1,WOOHOO SD
-plugin://plugin.video.f4mTester/?name=CRYING-IN-THE-BED-TV&streamtype=TSDOWNLOADER&amp;url=http://srv01.iptvquantum.co:80/murilo/murilo/11537
+################################################################################# DOCUMENTÁRIOS
 
-LISTA ACHADA ATRAVÉS DE LIVRE PROCURA NA INTERNET SEU TROUXA....
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mV8ckcy.png" group-title="DOCUMENTÁRIOS",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/animal_planet.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]ANIMAL PLANET[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_channel.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/E3D2EB66-67DF-49EC-8eea-A24045A4A43F.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_civilization.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY CIVILIZATION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/8CB72126-1270-4E09-a665-15E795921E44.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_home_health.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0A919ADC-82C8-4259-af50-B459EB091CE3.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_science.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+hplugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/CA91C27F-50C9-4A62-8cc3-88344231A5E5.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_turbo.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY TURBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/2E48E980-C169-4CCE-8349-9F46C28572FB.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_world.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY WORLD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/8FC3538A-EBEA-4941-9eea-C14E6A9281A2.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_theater.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]DISCOVERY THEATHER[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0BD6BE4E-0C48-4D33-b988-F4D3206BDFE7.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fishtv.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]FISHTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/117B9999-F674-46FC-9bad-2538AB606DA5.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/history.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]HISTORY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/58C743B4-554C-4A5C-918a-E34420842EA8.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/h2.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]H2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]NAT GEO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/01B287C6-63DB-4C2F-99b5-B1CA684E1866.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeo_wild.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]NAT GEO WILD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/EFB5A924-D3FD-4288-9493-DF88E50AEFF6.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/trutv.png" group-title="DOCUMENTÁRIOS",[COLOR white][B]TRUTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/5D6C34CE-6824-407D-9d03-97EA487BB30D.ts
+
+################################################################################# ESPORTES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yTvUrIr.png" group-title="ESPORTES",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/allsports.png" group-title="ESPORTES",[COLOR white][B]ALL SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bandsports.png" group-title="ESPORTES",[COLOR white][B]BAND SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/mdPmLXj7Z4ON54iJDPNbWaiyZLyZU0Xl.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/combate.png" group-title="ESPORTES",[COLOR white][B]COMBATE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx.png" group-title="ESPORTES",[COLOR white][B]EI Maxx[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/eimaxx2.png" group-title="ESPORTES",[COLOR white][B]EI Maxx 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn_brasil.png" group-title="ESPORTES",[COLOR white][B]ESPN BRASIL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/EF2501AD-C1A1-4B88A-baba-4CEF4B5D356.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espn.png" group-title="ESPORTES",[COLOR white][B]ESPN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/56D43D18-A44D-493Fa0c4-DA930F3CD127.ts
+
+#EXTINF:-1 tvg-logo="https://github.com/tvfogo/Logos/raw/master/espn2.jpg" group-title="ESPORTES",[COLOR white][B]ESPN 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/EF2501AD-C1A1-4B8A-baba-4CEF4B5D3561.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/espnextra.jpg" group-title="ESPORTES",[COLOR white][B]ESPN EXTRA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/04FC1508-FAF2-49E6-944f-4821DD152F32.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/lou03n5lzubyfxzpa56v8lx15t0dswro.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/foxsports2.png" group-title="ESPORTES",[COLOR white][B]FOX SPORTS 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/9BCC50D8-5036-4E31-b223-A15E543AD01C.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/fa438bc17f8e511baeb385eb36b6fd54.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/B3G2G2DE-23FF-1S72-A125-CA23SGC3S3T3.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sportv.png" group-title="ESPORTES",[COLOR white][B]SPORTV 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/005a976eea4c1007c79c9a917a254d1f.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE CLUBES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/FE900457-AE7F-4887-88c6-C7536730CC2B.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A4D507A1-D45B-482C-87bc-E3E74634E735.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 3[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/5FC2CEB5-C409-4291-b858-DA53CDAE87F5.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 4[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/5BA0EFD2-8BD0-40B9-bbbe-0BC662D4832D.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 5[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/E4DCF817-BAF0-4EDE-86f5-60CD79018EE5.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 6[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/462B7807-1E95-4713-8c43-F865885A65E6.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 7[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/5B98B7F8-3AD1-4E19-9d0a-51C4D091343F.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 8[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/cyp-644e34a6889c49bfbfab58e44471.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/premiere.png" group-title="ESPORTES",[COLOR white][B]PREMIERE 9[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/95CA6681-41E8-440A-aa5e-C1DA574669E9.ts
+
+################################################################################# FILMES & SÉRIES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0LklQw.png" group-title="FILMES & SÉRIES",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/amc.png" group-title="FILMES & SÉRIES",[COLOR white][B]AMC[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/ae.png" group-title="FILMES & SÉRIES",[COLOR white][B]A&E[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/axn.png" group-title="FILMES & SÉRIES",[COLOR white][B]AXN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/4503BECE-DCEC-40D9-aa03-CF85F7B0ADB4.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cinemax.png" group-title="FILMES & SÉRIES",[COLOR white][B]CINEMAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/3CAE4BE6-1960-40EB-ab26-8EC37D983EB0.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/comedy_central.png" group-title="FILMES & SÉRIES",[COLOR white][B]COMEDY CENTRAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_life.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX LIFE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX PREMIUM 1[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fox_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]FOX PREMIUM 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/fx.png" group-title="FILMES & SÉRIES",[COLOR white][B]FX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo2.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO 2[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_plus.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO PLUS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_family.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO FAMILY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/hbo_signature.png" group-title="FILMES & SÉRIES",[COLOR white][B]HBO SIGNATURE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/54BFA6BE-FFA2-4BA2-a4ac-6B86B553C157.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_up.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX UP[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0288CECA-5616-4234-bf1a-4E33F4AD925C.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/max_prime.png" group-title="FILMES & SÉRIES",[COLOR white][B]MAX PRIME[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A85FC536-963C-4367-97a7-CFAC0EA0FD1E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/megapix.png" group-title="FILMES & SÉRIES",[COLOR white][B]MEGAPIX[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/D85A8E66-8B2A-4A9A-8ece-C152789B8ADF.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/paramount.png" group-title="FILMES & SÉRIES",[COLOR white][B]PARAMOUNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/34179B81-87C5-4711-8d8e-1B8D8E23D177.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/sony.png" group-title="FILMES & SÉRIES",[COLOR white][B]SONY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/space.png" group-title="FILMES & SÉRIES",[COLOR white][B]SPACE[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/D7E6E135-5520-406B-a08e-A51674E80667.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/syfy.png" group-title="FILMES & SÉRIES",[COLOR white][B]SYFY[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/studio_universal.png" group-title="FILMES & SÉRIES",[COLOR white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/C84F9203-7C0B-48DC-8020-04BAEC20A6FC.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tbs.png" group-title="FILMES & SÉRIES",[COLOR white][B]TBS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt.png" group-title="FILMES & SÉRIES",[COLOR white][B]TNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/48A21980-EA88-4BA3-b128-267444A96B53.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tnt-series.png" group-title="FILMES & SÉRIES",[COLOR white][B]TNT SERIES[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_action.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE ACTION[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/39BF6921-889C-43C9-aef5-4E11BD9D6653.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_pipoca.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE PIPOCA[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0895A939-61BE-4D12-b427-27123DB260E0.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_premium.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE PREMIUM[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/106FA860-511B-400C-b1e5-A9252CB8EE8A.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_fun.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE FUN[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/7DB0D9C7-2185-49EB-bbb8-0B717185979E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_cult.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE CULT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tc_touch.png" group-title="FILMES & SÉRIES",[COLOR white][B]TELECINE TOUCH[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/D45874BB-F421-4633-addf-0F8D59749CA8.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/universal_channel.png" group-title="FILMES & SÉRIES",[COLOR white][B]UNIVERSAL CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/warner_channel.png" group-title="FILMES & SÉRIES",[COLOR white][B]WARNER CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
+
+################################################################################# INFANTIL
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrq6JQp.png" group-title="INFANTIL",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/cartoon_network.png" group-title="INFANTIL",[COLOR white][B]CARTOON NETWORK[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/boomerang.png" group-title="INFANTIL",[COLOR white][B]BOOMERANG[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0FB8A79C-18D3-4B08-b51d-D7AC5B1D1532.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_channel.png" group-title="INFANTIL",[COLOR white][B]DISNEY CHANNEL[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/CA776AB1-E01C-49D4-b8cd-4757343C65B4.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/discovery_kids.png" group-title="INFANTIL",[COLOR white][B]DISCOVERY KIDS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/ap1ebnx7uvtu8z5l6antbyhyu83azfpu.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_junior.png" group-title="INFANTIL",[COLOR white][B]DISNEY JUNIOR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/39F4DB3E-9C76-4C09-8e9e-035473586DF2.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/disney_xd.png" group-title="INFANTIL",[COLOR white][B]DISNEY XD[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/0C303831-31F6-4DC7-ab23-BA6C3B8AB103.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gloob.png" group-title="INFANTIL",[COLOR white][B]GLOOB[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/1E14D87D-9DAA-469D-be48-33CF682FDC4D.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick_jr.png" group-title="INFANTIL",[COLOR white][B]NICK JUNIOR[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A83BF159-3B5E-46E2-a1cd-796E687767D3.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/nick.png" group-title="INFANTIL",[COLOR white][B]NICKELODEON[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A7EB627F-7ECC-483C-b2db-AEA4F74838CE.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/tooncast.png" group-title="INFANTIL",[COLOR white][B]TOONCAST[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/778A0091-5DA8-417D-bd14-5DF4AB94240F.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/natgeokids.png" group-title="INFANTIL",[COLOR white][B]NATGEO KIDS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
+
+################################################################################# MÚSICAS & VARIEDADES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5WhofI.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
+http://0.0.0.0
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mtv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MTV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/B2B33ABE-FAD3-466C-bd77-E80E6ECFD235.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/gnt.jpg" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]GNT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/lifetime.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]LIFETIME[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/49C2E698-388C-46BF-8f3b-8734641AC499.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/multishow.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MULTISHOW[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/ECF9E512-B7ED-48C5-8f1d-7A018EEFDDA7.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/playtv.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]PLAY TV[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/19608283-36A9-4536-8b77-B5AB82CAA26E.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/bis.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]BIS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/EBA9713D-5D7E-4724-a1a7-C15AA741CC99.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]VH1 MEGAHITS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/cyp-E4B26F02258046979810ABAF5C7F.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/vh1.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]VH1[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/D2CC6786-2684-4BF6-83d1-14B961FE2AB4.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/mais_globosat.png" group-title="MÚSICAS & VARIEDADES",[COLOR white][B]MAIS GLOBOSAT[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/6A9FCCB4-7148-4F7B-9c9b-0A773989DE95.ts
+
+################################################################################# NOTÍCIAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qrOmPHN.png" group-title="NOTÍCIAS",[COLOR white][B][B][COLOR red]|||[/COLOR][COLOR white]|||[/COLOR][COLOR red]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/band_news.png" group-title="NOTÍCIAS",[COLOR white][B]BAND NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A92D0C31-58A1-41D7-bdd0-1F60F3C78153.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/globonews.png" group-title="NOTÍCIAS",[COLOR white][B]GLOBO NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/15DE5608-6BF5-46AA-8014-F4B47265CC59.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tvfogo/Logos/master/record_news.png" group-title="NOTÍCIAS",[COLOR white][B]RECORD NEWS[/B][/COLOR][COLOR yellow] [B]ON[/B][/COLOR]
+plugin://plugin.video.f4mTester/?name=TvFogoHD&streamtype=TSDOWNLOADER&amp;url=http://192.119.9.66/live/A8B8E44D-982E-4315-9817-BB3468F4D7CC.ts
