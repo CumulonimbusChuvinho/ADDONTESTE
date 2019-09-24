@@ -1,1265 +1,459 @@
-#EXTM3U
-#EXTINF:-1,POWER COUPLE BRASIL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30236
-#EXTINF:-1,POWER COUPLE BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30235
-#EXTINF:-1,COPA NORDESTE 1 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20069
-#EXTINF:-1,COPA NORDESTE 1 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20070
-#EXTINF:-1,COPA NORDESTE 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20067
-#EXTINF:-1,COPA NORDESTE 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20068
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4404
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8139
-#EXTINF:-1,A&E FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9344
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7448
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7691
-#EXTINF:-1,AMC FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9343
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20891
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20890
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20893
-#EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20892
-#EXTINF:-1,AGRO CANAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/5983
-#EXTINF:-1,ALL SPORT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6812
-#EXTINF:-1,ALJAZEERA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7550
-#EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4403
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6142
-#EXTINF:-1,ANIMAL PLANET FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13205
-#EXTINF:-1,ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20887
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24628
-#EXTINF:-1,ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7904
-#EXTINF:-1,ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10235
-#EXTINF:-1,ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20880
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4402
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6140
-#EXTINF:-1,AXN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13212
-#EXTINF:-1,AXN SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20884
-#EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20882
-#EXTINF:-1,ARIRANG TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4407
-#EXTINF:-1,BABY TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4401
-#EXTINF:-1,BABY TV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20870
-#EXTINF:-1,BABY TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20871
-#EXTINF:-1,BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4399
-#EXTINF:-1,BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10296
-#EXTINF:-1,BAND NEWS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11536
-#EXTINF:-1,BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20869
-#EXTINF:-1,BAND BAHIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30427
-#EXTINF:-1,BAND GOIANIA FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30438
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4400
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6882
-#EXTINF:-1,BAND FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25008
-#EXTINF:-1,BAND SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20875
-#EXTINF:-1,BAND HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20874
-#EXTINF:-1,BAND PARANA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24927
-#EXTINF:-1,BAND RJ HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25542
-#EXTINF:-1,BAND ARACAJU HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24752
-#EXTINF:-1,BAND GOIANIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25019
-#EXTINF:-1,BAND RS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25018
-#EXTINF:-1,BAND TV TAROBA PARANA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24924
-#EXTINF:-1,BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/18203
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4398
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6138
-#EXTINF:-1,BAND SPORTS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11535
-#EXTINF:-1,BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20864
-#EXTINF:-1,BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20863
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6964
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6881
-#EXTINF:-1,BIS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11547
-#EXTINF:-1,BIS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20868
-#EXTINF:-1,BIS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20866
-#EXTINF:-1,BLOOMBERG TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7424
-#EXTINF:-1,BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4396
-#EXTINF:-1,BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10294
-#EXTINF:-1,BOOMERANG FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11534
-#EXTINF:-1,BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20857
-#EXTINF:-1,CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6963
-#EXTINF:-1,CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10293
-#EXTINF:-1,CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20838
-#EXTINF:-1,CANAL RURAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20837
-#EXTINF:-1,CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4395
-#EXTINF:-1,CANAL SONY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6961
-#EXTINF:-1,CANAL SONY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13202
-#EXTINF:-1,CANAL SONY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20529
-#EXTINF:-1,CANAL SONY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20527
-#EXTINF:-1,CANCAO NOVA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6173
-#EXTINF:-1,CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4394
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7817
-#EXTINF:-1,CARTOON NETWORK FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13210
-#EXTINF:-1,CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20845
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20844
-#EXTINF:-1,CINEMAX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4393
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7802
-#EXTINF:-1,CINEMAX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24630
-#EXTINF:-1,CINEMAX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20834
-#EXTINF:-1,CNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20841
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4392
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6172
-#EXTINF:-1,COMBATE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8152
-#EXTINF:-1,COMBATE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20832
-#EXTINF:-1,COMBATE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20831
-#EXTINF:-1,COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4391
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10292
-#EXTINF:-1,COMEDY CENTRAL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24920
-#EXTINF:-1,COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20828
-#EXTINF:-1,COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20827
-#EXTINF:-1,CNN ESPANHOL
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10290
-#EXTINF:-1,CURTA! SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10291
-#EXTINF:-1,CURTA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20826
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4390
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6132
-#EXTINF:-1,DISCOVERY CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11548
-#EXTINF:-1,DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20825
-#EXTINF:-1,DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20824
-#EXTINF:-1,DISCOVERY CIVILIZATION SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10236
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7862
-#EXTINF:-1,DISCOVERY CIVILIZATION FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13208
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20820
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4389
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6131
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11533
-#EXTINF:-1,DISCOVERY HOME & HELTH SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20814
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20813
-#EXTINF:-1,DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4388
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7538
-#EXTINF:-1,DISCOVERY KIDS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11532
-#EXTINF:-1,DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20818
-#EXTINF:-1,DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20816
-#EXTINF:-1,DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10237
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7861
-#EXTINF:-1,DISCOVERY SCIENCE FHD (DUAL ADUIO)
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13206
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20811
-#EXTINF:-1,DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10289
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6130
-#EXTINF:-1,DISCOVERY THEATER FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11530
-#EXTINF:-1,DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20806
-#EXTINF:-1,DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4386
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6877
-#EXTINF:-1,DISCOVERY TURBO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11531
-#EXTINF:-1,DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20809
-#EXTINF:-1,DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20808
-#EXTINF:-1,DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10288
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6128
-#EXTINF:-1,DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20801
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4385
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7902
-#EXTINF:-1,DISNEY CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11546
-#EXTINF:-1,DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20799
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20797
-#EXTINF:-1,DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4384
-#EXTINF:-1,DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10286
-#EXTINF:-1,DISNEY JUNIOR FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13207
-#EXTINF:-1,DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20795
-#EXTINF:-1,DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20794
-#EXTINF:-1,DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4383
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20791
-#EXTINF:-1,DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20792
-#EXTINF:-1,DAZN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30422
-#EXTINF:-1,DW SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20790
-#EXTINF:-1,DW SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4425
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4382
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10285
-#EXTINF:-1,E! SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20789
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20788
-#EXTINF:-1,ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7988
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6143
-#EXTINF:-1,ESPN 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11521
-#EXTINF:-1,ESPN 2  HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20787
-#EXTINF:-1,ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4380
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6124
-#EXTINF:-1,ESPN BRASIL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11557
-#EXTINF:-1,ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20784
-#EXTINF:-1,ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20783
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4381
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6127
-#EXTINF:-1,ESPN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11545
-#EXTINF:-1,ESPN SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20780
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20773
-#EXTINF:-1,ESPN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20779
-#EXTINF:-1,FISH TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4377
-#EXTINF:-1,ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24788
-#EXTINF:-1,ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24789
-#EXTINF:-1,FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13196
-#EXTINF:-1,FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7534
-#EXTINF:-1,FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20756
-#EXTINF:-1,FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6959
-#EXTINF:-1,FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20757
-#EXTINF:-1,FOX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9141
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6122
-#EXTINF:-1,FOX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20759
-#EXTINF:-1,FOX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4375
-#EXTINF:-1,FOX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20760
-#EXTINF:-1,FOX LIFE FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25009
-#EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6876
-#EXTINF:-1,FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20761
-#EXTINF:-1,FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4374
-#EXTINF:-1,FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20762
-#EXTINF:-1,FOX NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6835
-#EXTINF:-1,FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10279
-#EXTINF:-1,FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20763
-#EXTINF:-1,FOX PREMIUM 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11529
-#EXTINF:-1,FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10278
-#EXTINF:-1,FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20764
-#EXTINF:-1,FOX SPORTS 2 FHD (DUAL ALDIO)
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8151
-#EXTINF:-1,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6117
-#EXTINF:-1,FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20767
-#EXTINF:-1,FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4372
-#EXTINF:-1,FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20768
-#EXTINF:-1,FOX SPORTS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11556
-#EXTINF:-1,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6118
-#EXTINF:-1,FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20771
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4373
-#EXTINF:-1,FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20772
-#EXTINF:-1,FUTURA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10277
-#EXTINF:-1,FUTURA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20753
-#EXTINF:-1,FX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13199
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6116
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20775
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4371
-#EXTINF:-1,FX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20777
-#EXTINF:-1,GLOBO INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24928
-#EXTINF:-1,GLOBO TV RIO SUL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24757
-#EXTINF:-1,GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24750
-#EXTINF:-1,GLOBO TV SERGIPE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24629
-#EXTINF:-1,GLOBO TV ASA BRANCA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24308
-#EXTINF:-1,GLOBO TV TEM ITAPETININGA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24631
-#EXTINF:-1,GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10239
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7530
-#EXTINF:-1,GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22769
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10234
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7932
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22767
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9471
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22765
-#EXTINF:-1,TV PARANAIBA RECORD UBERLANDIA MG HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30424
-#EXTINF:-1,TV SANTA CRUZ GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30431
-#EXTINF:-1,TV SUBAE GLOBO BAHIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30430
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7528
-#EXTINF:-1,GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22760
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10276
-#EXTINF:-1,GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22761
-#EXTINF:-1,GLOBO EPTV SUL MINAS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22762
-#EXTINF:-1,GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10240
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7527
-#EXTINF:-1,GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22759
-#EXTINF:-1,Globo NSC Florianopolis
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30227
-#EXTINF:-1,NSC TV  JOINVILE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10232
-#EXTINF:-1,NSC TV BLUMENAU SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/5973
-#EXTINF:-1,GLOBO RBS TV POA FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25011
-#EXTINF:-1,GLOBO RBS TV POA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25007
-#EXTINF:-1,GLOBO RBS TV POA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9469
-#EXTINF:-1,GLOBO TV VANGUARDA TAUBATE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10233
-#EXTINF:-1,GLOBO RIO PRETO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9468
-#EXTINF:-1,GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30230
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6113
-#EXTINF:-1,GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22756
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7547
-#EXTINF:-1,GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22753
-#EXTINF:-1,GLOBO TV GAZETA ES HD (MANUTENÇÃO)
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24959
-#EXTINF:-1,GLOBO TV GAZETA ES SD (MANUTENÇÃO)
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24958
-#EXTINF:-1,TV GAZETA SP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30425
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22732
-#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22735
-#EXTINF:-1,GLOBO FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22734
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22737
-#EXTINF:-1,GLOBO TV VERDES MARES SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22733
-#EXTINF:-1,GLOBO RPC CURITIBA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7866
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22750
-#EXTINF:-1,GLOBO SOROCABA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7684
-#EXTINF:-1,GLOBO SP FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25012
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7529
-#EXTINF:-1,GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22755
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4431
-#EXTINF:-1,GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22757
-#EXTINF:-1,GLOBO TV ANHANGUERA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10272
-#EXTINF:-1,GLOBO TV ANHANGUERA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22004
-#EXTINF:-1,GLOBO TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9465
-#EXTINF:-1,GLOBO TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22738
-#EXTINF:-1,GLOBO EPTV CENTRAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22006
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22766
-#EXTINF:-1,Globo InterTV Grande Minas
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30226
-#EXTINF:-1,GLOBO INT SERRA MAR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22005
-#EXTINF:-1,GLOBO INTERTV CABUGI SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22763
-#EXTINF:-1,GLOBO INTERTV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22748
-#EXTINF:-1,GLOBO AMAZONICA  HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/21985
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22017
-#EXTINF:-1,GLOBO TV FRONTEIRA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22749
-#EXTINF:-1,GLOBO TV INTEGRACAO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22745
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22736
-#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22744
-#EXTINF:-1,GLOBO TV SUDOESTE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/22741
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10238
-#EXTINF:-1,GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7539
-#EXTINF:-1,GLOBO NEWS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25010
-#EXTINF:-1,GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7442
-#EXTINF:-1,GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11043
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4432
-#EXTINF:-1,GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11243
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7526
-#EXTINF:-1,GLOOB HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20749
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4369
-#EXTINF:-1,GLOOB SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20750
-#EXTINF:-1,GIDEOES TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25914
-#EXTINF:-1,GLOOBINHO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25013
-#EXTINF:-1,GLOOBINHO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10271
-#EXTINF:-1,GLOOBINHO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20701
-#EXTINF:-1,GLOOBINHO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10270
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6956
-#EXTINF:-1,GNT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20752
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4368
-#EXTINF:-1,GNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20751
-#EXTINF:-1,H2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13187
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6111
-#EXTINF:-1,H2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20698
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4367
-#EXTINF:-1,H2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20700
-#EXTINF:-1,HBO FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11566
-#EXTINF:-1,HBO HD (LEGENDADO)-ANALISE
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30228
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20694
-#EXTINF:-1,HBO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6108
-#EXTINF:-1,HBO SD (LEGENDADO)-ANALISE
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30229
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20696
-#EXTINF:-1,HBO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4366
-#EXTINF:-1,HBO 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11567
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6110
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20690
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4365
-#EXTINF:-1,HBO 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20692
-#EXTINF:-1,HBO FAMILY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11568
-#EXTINF:-1,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6109
-#EXTINF:-1,HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20687
-#EXTINF:-1,HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4364
-#EXTINF:-1,HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20688
-#EXTINF:-1,HBO PLUS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13190
-#EXTINF:-1,HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6106
-#EXTINF:-1,HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20920
-#EXTINF:-1,HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4363
-#EXTINF:-1,HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20684
-#EXTINF:-1,HBO SIGNATURE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11570
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6105
-#EXTINF:-1,HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20678
-#EXTINF:-1,HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4361
-#EXTINF:-1,HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20679
-#EXTINF:-1,HISTORY CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13211
-#EXTINF:-1,HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6104
-#EXTINF:-1,HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20468
-#EXTINF:-1,HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4314
-#EXTINF:-1,HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20469
-#EXTINF:-1,HIT TV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20675
-#EXTINF:-1,IMPD TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25915
-#EXTINF:-1,IDEAL TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20674
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9143
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6869
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20672
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4360
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20673
-#EXTINF:-1,LIFETIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11540
-#EXTINF:-1,LIFETIME HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7525
-#EXTINF:-1,LIFETIME HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20668
-#EXTINF:-1,LIFETIME SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7876
-#EXTINF:-1,LIFETIME SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20670
-#EXTINF:-1,MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9262
-#EXTINF:-1,MAIS GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20665
-#EXTINF:-1,MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6953
-#EXTINF:-1,MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20666
-#EXTINF:-1,MAX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13189
-#EXTINF:-1,MAX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10266
-#EXTINF:-1,MAX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20662
-#EXTINF:-1,MAX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4358
-#EXTINF:-1,MAX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20664
-#EXTINF:-1,MAX PRIME FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25014
-#EXTINF:-1,MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7850
-#EXTINF:-1,MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20657
-#EXTINF:-1,MAX PRIME SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4357
-#EXTINF:-1,MAX PRIME SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20658
-#EXTINF:-1,MAX UP FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25015
-#EXTINF:-1,MAX UP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10265
-#EXTINF:-1,MAX UP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20659
-#EXTINF:-1,MAX UP SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4355
-#EXTINF:-1,MAX UP SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20660
-#EXTINF:-1,MEGAPIX FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8146
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6101
-#EXTINF:-1,MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20653
-#EXTINF:-1,MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4354
-#EXTINF:-1,MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20654
-#EXTINF:-1,MTV FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11573
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7524
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20644
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4353
-#EXTINF:-1,MTV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20646
-#EXTINF:-1,MULTISHOW FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13201
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6867
-#EXTINF:-1,MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20648
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4352
-#EXTINF:-1,MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20650
-#EXTINF:-1,MUSIC BOX BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7848
-#EXTINF:-1,MUSIC BOX BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20655
-#EXTINF:-1,NATGEO KIDS FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13198
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10261
-#EXTINF:-1,NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20632
-#EXTINF:-1,NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4350
-#EXTINF:-1,NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20642
-#EXTINF:-1,NATGEO WILD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11528
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6099
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20640
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4349
-#EXTINF:-1,NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20641
-#EXTINF:-1,NATIONAL GEOGRAPHY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13188
-#EXTINF:-1,NATIONAL GEOGRAPHY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6098
-#EXTINF:-1,NATIONAL GEOGRAPHY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20629
-#EXTINF:-1,NATIONAL GEOGRAPHY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4348
-#EXTINF:-1,NATIONAL GEOGRAPHY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20630
-#EXTINF:-1,NBR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6950
-#EXTINF:-1,NBR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20625
-#EXTINF:-1,NHK HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4347
-#EXTINF:-1,NHK SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6949
-#EXTINF:-1,NICK JR FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11527
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10260
-#EXTINF:-1,NICK JR HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20631
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4346
-#EXTINF:-1,NICK JR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20637
-#EXTINF:-1,NICKELODEON FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11526
-#EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7537
-#EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20635
-#EXTINF:-1,NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4345
-#EXTINF:-1,NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20636
-#EXTINF:-1,NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6948
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6947
-#EXTINF:-1,OFF HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20622
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4344
-#EXTINF:-1,OFF SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20623
-#EXTINF:-1,PARAMOUNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13185
-#EXTINF:-1,PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6945
-#EXTINF:-1,PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20619
-#EXTINF:-1,PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6946
-#EXTINF:-1,PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20621
-#EXTINF:-1,PLAY TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20617
-#EXTINF:-1,PPV 1
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20586
-#EXTINF:-1,PPV 2
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20585
-#EXTINF:-1,PPV 3
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20584
-#EXTINF:-1,PPV 4
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20583
-#EXTINF:-1,PPV 5
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20582
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4333
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6089
-#EXTINF:-1,PREMIERE CLUBES FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9144
-#EXTINF:-1,PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20596
-#EXTINF:-1,PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20599
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4341
-#EXTINF:-1,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6093
-#EXTINF:-1,PREMIERE 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8149
-#EXTINF:-1,PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20595
-#EXTINF:-1,PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20615
-#EXTINF:-1,PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4340
-#EXTINF:-1,PRIME BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4332
-#EXTINF:-1,PRIME BOX BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20587
-#EXTINF:-1,RAI ITALIA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20581
-#EXTINF:-1,RBI SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20580
-#EXTINF:-1,RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6942
-#EXTINF:-1,RCI SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20579
-#EXTINF:-1,REAL MADRID TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6183
-#EXTINF:-1,RECORD TV ATALAIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24751
-#EXTINF:-1,RECORD FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13183
-#EXTINF:-1,RECORD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7836
-#EXTINF:-1,RECORD HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20571
-#EXTINF:-1,RECORD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4423
-#EXTINF:-1,RECORD SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20572
-#EXTINF:-1,RECORD GOIANIA FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30437
-#EXTINF:-1,RECORD GOIANIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30439
-#EXTINF:-1,RECORD SAO JOSE DO RIO PRETO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30432
-#EXTINF:-1,RECORD TV BELEM HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30426
-#EXTINF:-1,RECORD TV LITORAL SANTOS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30423
-#EXTINF:-1,REDE RECORD MINAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30435
-#EXTINF:-1,TV CABRALIA RECORD BAHIA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30429
-#EXTINF:-1,RECORD PARANA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/18148
-#EXTINF:-1,RECORD SP HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/18168
-#EXTINF:-1,RECORD SANTA CATARINA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/18153
-#EXTINF:-1,RECORD TV GOIAS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/18151
-#EXTINF:-1,RECORD ES SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6817
-#EXTINF:-1,RECORD RJ HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25543
-#EXTINF:-1,RECORD RS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25017
-#EXTINF:-1,RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10255
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6941
-#EXTINF:-1,RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20557
-#EXTINF:-1,REDE BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4421
-#EXTINF:-1,REDE BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20573
-#EXTINF:-1,REDE TV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6940
-#EXTINF:-1,REDE TV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20574
-#EXTINF:-1,REDE TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4420
-#EXTINF:-1,REDE TV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20575
-#EXTINF:-1,REDE TV RS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25304
-#EXTINF:-1,TV PAMPA - REDE TV RS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/30436
-#EXTINF:-1,REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6939
-#EXTINF:-1,REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20576
-#EXTINF:-1,RIT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20578
-#EXTINF:-1,SBT ARACAJU HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24753
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6889
-#EXTINF:-1,SBT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20554
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4331
-#EXTINF:-1,SBT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20555
-#EXTINF:-1,SBT JORNAL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24956
-#EXTINF:-1,SBT PARANA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24925
-#EXTINF:-1,SBT SC HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24923
-#EXTINF:-1,SBT PE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20552
-#EXTINF:-1,SBT RS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25303
-#EXTINF:-1,SBT PI FHD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13182
-#EXTINF:-1,SBT PI HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24755
-#EXTINF:-1,SBT RJ HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25544
-#EXTINF:-1,SBT GO HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6931
-#EXTINF:-1,SIC INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20525
-#EXTINF:-1,SPACE FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13197
-#EXTINF:-1,SPACE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6085
-#EXTINF:-1,SPACE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20532
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4328
-#EXTINF:-1,SPACE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20533
-#EXTINF:-1,SPORTV 2 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11539
-#EXTINF:-1,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6084
-#EXTINF:-1,SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20540
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4326
-#EXTINF:-1,SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20541
-#EXTINF:-1,SPORTV 3 FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11538
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6083
-#EXTINF:-1,SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20536
-#EXTINF:-1,SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4325
-#EXTINF:-1,SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20537
-#EXTINF:-1,SPORTV FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11563
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6082
-#EXTINF:-1,SPORTV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20544
-#EXTINF:-1,SPORTV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4327
-#EXTINF:-1,SPORTV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20545
-#EXTINF:-1,STUDIO UNIVERSAL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13194
-#EXTINF:-1,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7874
-#EXTINF:-1,STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20546
-#EXTINF:-1,STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4324
-#EXTINF:-1,STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20547
-#EXTINF:-1,SUNDANCE TV HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20524
-#EXTINF:-1,SYFY FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13195
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7795
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20550
-#EXTINF:-1,SYFY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4323
-#EXTINF:-1,SYFY SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20551
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/7873
-#EXTINF:-1,TBS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20521
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4322
-#EXTINF:-1,TBS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20522
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11003
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4321
-#EXTINF:-1,TCM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20496
-#EXTINF:-1,TELECINE ACTION FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8141
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6080
-#EXTINF:-1,TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20517
-#EXTINF:-1,TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4320
-#EXTINF:-1,TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20518
-#EXTINF:-1,TELECINE CULT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8143
-#EXTINF:-1,TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10247
-#EXTINF:-1,TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20513
-#EXTINF:-1,TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4319
-#EXTINF:-1,TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20514
-#EXTINF:-1,TELECINE FUN FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11561
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6079
-#EXTINF:-1,TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20509
-#EXTINF:-1,TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4318
-#EXTINF:-1,TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20510
-#EXTINF:-1,TELECINE PIPOCA FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8144
-#EXTINF:-1,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6078
-#EXTINF:-1,TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20505
-#EXTINF:-1,TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4317
-#EXTINF:-1,TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20506
-#EXTINF:-1,TELECINE PREMIUM FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/8140
-#EXTINF:-1,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6077
-#EXTINF:-1,TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20501
-#EXTINF:-1,TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4316
-#EXTINF:-1,TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20502
-#EXTINF:-1,TELECINE TOUCH FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/25016
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6076
-#EXTINF:-1,TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20497
-#EXTINF:-1,TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4315
-#EXTINF:-1,TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20498
-#EXTINF:-1,TERRA VIVA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6936
-#EXTINF:-1,TERRA VIVA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20471
-#EXTINF:-1,OFF FHD (DUAL AULDIO)
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/9152
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4313
-#EXTINF:-1,TLC HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24786
-#EXTINF:-1,TLC SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20520
-#EXTINF:-1,TNT FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13181
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6074
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20493
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4312
-#EXTINF:-1,TNT SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20494
-#EXTINF:-1,TNT SERIES FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13186
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6073
-#EXTINF:-1,TNT SERIES HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20489
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4311
-#EXTINF:-1,TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20490
-#EXTINF:-1,TOONCAST HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20485
-#EXTINF:-1,TOONCAST SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4310
-#EXTINF:-1,TOONCAST SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20486
-#EXTINF:-1,TRUTV SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6935
-#EXTINF:-1,TV APARECIDA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4438
-#EXTINF:-1,TV BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4442
-#EXTINF:-1,TV BRASIL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20482
-#EXTINF:-1,TV CAMARA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10245
-#EXTINF:-1,TV CAMARA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20483
-#EXTINF:-1,TV CIDADE OESTE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20484
-#EXTINF:-1,TV CLIMATEMPO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20478
-#EXTINF:-1,TV CULTURA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4412
-#EXTINF:-1,TV CULTURA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20473
-#EXTINF:-1,TV DIARIO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4411
-#EXTINF:-1,TV ESCOLA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/5975
-#EXTINF:-1,TV ESCOLA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20477
-#EXTINF:-1,TV ESPANHA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20470
-#EXTINF:-1,TV EVANGELIZAR SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6206
-#EXTINF:-1,TV JUSTICA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/5970
-#EXTINF:-1,TV JUSTICA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20475
-#EXTINF:-1,TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6933
-#EXTINF:-1,TV RA TIM BUM SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20476
-#EXTINF:-1,TV RA TIM BUM HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/24787
-#EXTINF:-1,TV SENADO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10246
-#EXTINF:-1,TV5 MONDE SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6178
-#EXTINF:-1,TVE HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4440
-#EXTINF:-1,UNIVERSAL CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/13192
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/5987
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20464
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4308
-#EXTINF:-1,UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20465
-#EXTINF:-1,VH1 MEGA HITS HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10361
-#EXTINF:-1,VH1 MEGA HITS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20459
-#EXTINF:-1,VH1 MEGA HITS SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/10243
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6848
-#EXTINF:-1,VIVA HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20460
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6928
-#EXTINF:-1,VIVA SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20461
-#EXTINF:-1,WARNER CHANNEL FHD 
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/11525
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/6072
-#EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20456
-#EXTINF:-1,WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4307
-#EXTINF:-1,WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20457
-#EXTINF:-1,WOOHOO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/4306
-#EXTINF:-1,WOOHOO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20453
-#EXTINF:-1,ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=TWTutoriais-TV&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Estela/Estela/20450
+EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAIS",SBT PI- Canal FutucAndroiD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" tvg-id="tv serra dourada" group-title="CANAIS",SBT GOCanal FutucAndroiD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO-Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/1.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO SD-Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/22356
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD" tvg-logo="https://2.bp.blogspot.com/-Fj37MKkXH5c/W55N2q9YhLI/AAAAAAAACfo/tMB8LPvBtaEFBy1b3g6Q_aTsTHWQ8yshgCLcBGAs/s1600/recordsp.png" group-title="CANAIS",RECORD TV SP SD- Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1710
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS", REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS",REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="via morena"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS",VIA MORENA- Canal FutucAndroiD
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv diário"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_MD5iIrjmj5ScV9-fwwm9L-nxefjFfjl9A-XAQLAqqzwFduBW" tvg-id="0" group-title="CANAIS",DISNEY- Canal FutucAndroiD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+
+#EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/124.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Srg7wCz.jpg" tvg-id="0" group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37112.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wVaBbB0V5hsJl_0BE4EvSloZj0CmAq1rB84uEGWhYgmkM7sE" group-title="CANAIS",AXN- Canal FutucAndroiD
+http://painel.ebanonet.com.br:25461/1303/1303/6140
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv" tvg-id="0" group-title="CANAIS",ANIMAL PLANET- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37128.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="CANAIS INTERNACIONAIS",HBO2- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" tvg-id="0" group-title="CANAIS",FOX LIFE FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/230.ts
+
+#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" tvg-id="0" group-title="CANAIS",FOX LIFE - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1038
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="CANAIS",FOX MOVIES- Canal FutucAndroiD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" tvg-id="0" group-title="CANAIS",FOX PREMIUM 1- Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/928
+
+
+#EXTINF:-1 tvg-logo="http://aovivonatv.com/fotos/fccdfe721dfa6782ec748b5b8c15b776.jpg" tvg-id="0" group-title="CANAIS",FOX PREMIUM 2 - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/20816
+
+#EXTINF:-1 tvg-logo="http://aovivonatv.com/fotos/fccdfe721dfa6782ec748b5b8c15b776.jpg" tvg-id="0" group-title="CANAIS",FOX PREMIUM 2 FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/232.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR70shyfJmW0ABnluYhuJnl1vY83sUfGac--rA-9et32zJBMJVR" tvg-id="0" group-title="CANAIS",TBS FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/121.ts
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-77-canal-max-up.png" tvg-id="0" group-title="CANAIS",MAX UP FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/183.ts
+
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-77-canal-max-up.png" tvg-id="0" group-title="CANAIS",MAX UP - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1005
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVBsyo5HzfZTLi3Ph0bNKBoBX4mNW3olMNqecid3MLlFIVHMmf" tvg-id="0" group-title="CANAIS",HBO FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/132.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="CANAIS",TV NA ILHA- Canal FutucAndroiD
+http://stmv4.srvstm.com/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1030442366
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" tvg-id="0" group-title="CANAIS",TELE CINE ACTION FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/133.ts
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="CANAIS",TELECINE ACTION SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/935
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" tvg-id="0" group-title="CANAIS",TELE CINE PREMIUM FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/137.ts
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" tvg-id="0" group-title="CANAIS",TELE CINE PREMIUM - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/2415
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" tvg-id="0" group-title="CANAIS",TELE CINE FUN FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/134.ts
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" tvg-id="0" group-title="CANAIS",TELE CINE FAN SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/931
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156144/telecine-action-hd.png?v=636446361920170000" tvg-id="0" group-title="CANAIS",TELE CINE ACTION- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37040.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/telecine-cult-1509133083260.png?1527898040931" tvg-id="0" group-title="CANAIS",TELE CINE CULT- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37039.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/telecine-cult-1509133083260.png?1527898040931" tvg-id="0" group-title="CANAIS",TELE CINE CULT SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/933
+
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="CANAIS",TELECINE TOUCH SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/926
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" tvg-id="0" group-title="CANAIS",TELE CINE PIPOCA SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/929
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" tvg-id="0" group-title="CANAIS",TELE CINE PIPOCA- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37038.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_aEgTedPqUK4/SJkmVoXnSZI/AAAAAAAAIZA/noJaHMLcfUo/s400/warner+logo.jpg" tvg-id="0" group-title="CANAIS",WARNER FHD- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/45.ts
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_aEgTedPqUK4/SJkmVoXnSZI/AAAAAAAAIZA/noJaHMLcfUo/s400/warner+logo.jpg" tvg-id="0" group-title="CANAIS",WARNER - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/896
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAIS",TCM - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/925
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAIS",TCM- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37037.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1qImkGTS4tIrklxASF74RGYUl6OBaoAjrKV5R_BWCZlQcf4OH" tvg-id="0" group-title="CANAIS",UNIVERSAL CHANNEL - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/940
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/03/novo-programa-studio-universal.jpg" tvg-id="0" group-title="CANAIS",STUDIO UNIVERSAL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37043.ts
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-e4Hwf6_-Zwc/VaBmzm0DgUI/AAAAAAAAkyU/A4fPY75Fj40/s1600/Fox_life_it.png" tvg-id="0" group-title="CANAIS",FOX LIFE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37100.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg" tvg-id="0" group-title="CANAIS",FOX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37101.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg " tvg-id="0" group-title="CANAIS",FOX SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1329
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NUqhIGIog6Q/V7pfdwICc0I/AAAAAAAAvlg/Kh_2NtCAbjEN6wBeUs9_pj3-N2tCtnWowCLcB/s1600/fx_tr.png" tvg-id="0" group-title="CANAIS",FX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37097.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" tvg-id="0" group-title="CANAIS",SPACE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37046.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" tvg-id="0" group-title="CANAIS",SPACE SD- Canal FutucAndroiD
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkIsS3-7Wmy4Kp1qDpogzH6u8bcCIanU3JurrW4DzUsGB0U1Ez" tvg-id="0" group-title="CANAIS",TNT- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37035.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFzV5J_zz_hsBWLvy3jQeZDeDGdKo69tJovz6biAUCgcsZw3Jv" tvg-id="0" group-title="CANAIS",TNT SÉRIES- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37034.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YmxDFQHZqss/WLhZqBih87I/AAAAAAAAOEg/bJWEJTjhTAAYnTpAq_tWP6Cd_Q23Vm12wCLcB/s1600/maxresdefault.jpg" tvg-id="0" group-title="CANAIS",GNT- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37088.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN2I5v-LLrb32Bq74oyZcPmNixd5NrwiMEcpXLHEOPYdBphPhP" tvg-id="0" group-title="CANAIS",HBO- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37087.ts
+
+#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/Nzc7MDA_/16169c06f52570d620fc3dc6481e698c.png" tvg-id="0" group-title="CANAIS",HBO 2- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37086.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" tvg-id="0" group-title="CANAIS",HBO PLUS- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37083.ts
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" tvg-id="0" group-title="CANAIS",HBO PLUS - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1014
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO_Lwy8FxYIib6Mz0aBgTa8vin9v5rTHsgf32RyaDP3CEbYKR2" tvg-id="0" group-title="CANAIS",HBO FAMILY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37085.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" tvg-id="0" group-title="CANAIS",HBO SIGNATURE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37082.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" tvg-id="0" group-title="CANAIS",HBO SIGNATURE - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/2488
+
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="https://3.bp.blogspot.com/-OFc1gLDWPyc/WhXBylyd_LI/AAAAAAAABUg/8syI7aa2Ox4BKq5EP4sUFZfe0uCbPg_AQCLcBGAs/s1600/maxprime.png" group-title="CANAIS",MAX PRIME SD - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/1006
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839816129778487296/NQRyFRJB_400x400.jpg" tvg-id="0" group-title="CANAIS",HISTORY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37081.ts
+
+#EXTINF:-1 tvg-logo="https://cdn.cmjornal.pt/images/2018-07/img_770x433$2018_07_03_18_18_36_754250.jpg" tvg-id="0" group-title="CANAIS",DISNEY JR- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37110.m3u8
+
+#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/disney-channel-logo-2015-600x300.jpg" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37111.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk" tvg-id="0" group-title="CANAIS",CARTOON NETWORK- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQPoE9IYSZTfG7iaO233ciV6zHzB6o50ufbTwXHhc5YhRCvyokw" tvg-id="0" group-title="CANAIS",NICK JR- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37065.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM6B8R4WaQ3vprwns5YoQv6JTOmO2lydzZQccChQK8pPXxBy4" tvg-id="0" group-title="CANAIS",NICK- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37064.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRESoEe2lrbZ2PB2iaoy7X9iy-gN8_O1YQekHfGG-MiQT0dF2O5" tvg-id="0" group-title="CANAIS",TOONCAST- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37033.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentralLogo.jpg" tvg-id="0" group-title="CANAIS",COMED CENTRAL
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37118.m3u8
+
+#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" tvg-id="0" group-title="CANAIS",VIVA - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/23981
+
+#EXTINF:-1 tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" tvg-id="0" group-title="CANAIS",REDE NEW- Canal FutucAndroiD
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmX31HFuXGoPHLZOGqQJIW7uOTaoaBYtMA8C6TgxsGoTnrxTfqCg" tvg-id="0" group-title="CANAIS",OFF- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37063.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Canalsonyhd.png/revision/latest?cb=20160412192803" tvg-id="0" group-title="CANAIS",SONY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36987.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSxubfc61mrtFdMdwhaL8wzh7-mpKuu40OcrSAiuXvXlXUKfA7" tvg-id="0" group-title="CANAIS",SONY SD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37007.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-Vf65YehC1Jjmy_CHT7878ZqFjfmkw5MSoabtbPK3YAw9qoK" tvg-id="0" group-title="CANAIS",PARAMOUNT CHANNEL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37062.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618497065283416064/B50suy-t_400x400.png" tvg-id="0" group-title="CANAIS",CINEMAX- Canal FutucAndroiD
+http://tv.factoryiptv.com/live//Celso02/Celso02/37120.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqNDkEpNas5s3PtamWEXjXg3lQ-eXt4hwhH-pAsKTRrMe2mzXV" tvg-id="0" group-title="CANAIS",MAX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37076.m3u8
+
+#EXTINF:-1 tvg-logo="http://t.likeiptv.com/maxprime1.jpg" tvg-id="0" group-title="CANAIS",MAX PRIME- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37075.m3u8
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/video-thumbnails/maxup.jpeg" tvg-id="0" group-title="CANAIS",MAX UP- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37073.m3u8
+
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" tvg-id="0" group-title="CANAIS",MEGAPIX- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37072.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv50BqIB-okyMch2yqsE1ivk1gOjpyB2J-cXf6MBo0KgsLyQcS" tvg-id="0" group-title="CANAIS",STUDIO UNIVERSAL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37043.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReGtmCoB6_Tu_p-24Gy-tVAMopKmxHKbwrAD9s2EAMCFwzc3zG" tvg-id="0" group-title="CANAIS",SYFY- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37042.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 1- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37057.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 2- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37060.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 3- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37059.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 4- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37058.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37017.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37016.ts
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/157011/espn-2-hd.png?v=636712200523100000" tvg-id="0" group-title="CANAIS",ESPN 2- Canal FutucAndroiD
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/123.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN BRASIL- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/37104.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN+- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/36976.ts
+
+#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" tvg-id="0" group-title="CANAIS",FOX SPORTS- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/141.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS2.png" tvg-id="0" group-title="CANAIS",FOX SPORTS 2- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/139.ts
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102012/untitled-1_15.png?itok=r79vmWZd" tvg-id="0" group-title="CANAIS",SPORTV- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/143.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA" tvg-id="0" group-title="CANAIS",SPORTV 2- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/138.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmDKLFNlkxuVvxFht_1Jo-_03e4j35-5f7H4zIRlI6rkug4yA" tvg-id="0" group-title="CANAIS",SPORTV 3- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/136.ts
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" tvg-id="0" group-title="CANAIS",FOX SPORTS- Canal FutucAndroiD
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK-uNJfIUQQ2irOBcomGbXHFbEZHtrGjjg_CfNCVR7t-U7GAAk" tvg-id="0" group-title="CANAIS",REAL MADRID TV- Canal FutucAndroiD
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d0a56bd4618d5d85e49f87519751b6.jpg" tvg-id="0" group-title="CANAIS",SEVILLA TV- Canal FutucAndroiD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBkPRxBNPdNGtFf53p2aP-luRBYX1Bqnw3aviAULH1GEHev6m5" tvg-id="0" group-title="CANAIS",ALL SPORTS- Canal FutucAndroiD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-id="0" group-title="CANAIS",COMBATE HD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36986.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-id="0" group-title="CANAIS",COMBATE - Canal FutucAndroiD
+http://lista.digitalgroup.me:80/robert1/robert1/22439
+
+#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2015/04/espn.jpg" tvg-id="0" group-title="CANAIS",ESPN BRASIL - Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37104.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/espnmaisb.png" tvg-id="0" group-title="CANAIS",ESPN PLUS- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36976.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuHh-mQXPlrJFdhDXTr_hypLHNbRko2Vu9r4gL8dXVe0GI-GtJ" tvg-id="0" group-title="CANAIS",FOX SPORTS SD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37099.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/bm3a1vUwvq80R1imVAW35qs2mss=/0x5:1100x738/1200x800/filters:focal(0x5:1100x738)/cdn.vox-cdn.com/uploads/chorus_image/image/5378209/fox_20sports_202.0.jpg" tvg-id="0" group-title="CANAIS",FOX SPORTS 2- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37098.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNYMFmVWvKegS57UBwLD1M1T0flACJrmUyslZ0tTxIzhd7_1dN" tvg-id="0" group-title="CANAIS",REDE BRASIL- Canal FutucAndroiD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxhIxYpHaW_Gy-STCJvN3N-GrIVY7WqjLQIvBXpPfyhuad5dgB" tvg-id="0" group-title="CANAIS",TV CULTURA MG- Canal FutucAndroiD
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2J7ya2oQXq85w4fMdiBhGuxxV4M8Y9HxukI8hzKzzCKxNx0O" tvg-id="0" group-title="CANAIS",FUTEBOL- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/140.ts
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" tvg-id="0" group-title="CANAIS",REDE FAMÍLIA- Canal FutucAndroiD
+https://5a7bcfb834235.streamlock.net/zw901/smil:zw901.smil/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" tvg-id="0" group-title="CANAIS",HOP CHANNEL- Canal FutucAndroiD
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" tvg-id="0" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzEa63M07BZNTXGvY85k-RKA4j3e8r3NQB4HBNN5VhC8ZUQ7u" tvg-id="0" group-title="CANAIS",RECORD- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/2020/2020/36051.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK" tvg-id="0" group-title="CANAIS",PRIME- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/37053.ts
+
+#EXTINF:-1 tvg-id="tv Record" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="CANAIS",RECORD TV GUARÁ- Canal FutucAndroiD
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-id="0"tvg-logo="https://1.bp.blogspot.com/-pvKHwq5Akao/W1r_17iDezI/AAAAAAAAAD4/XScCm8AL0n0bGDi6IqsU32LYz7Ys-iD0ACLcBGAs/s1600/logotipo-tv-aparecida.png" group-title="CANAIS",TV APARECIDA- Canal FutucAndroiD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="band" tvg-name="band" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS",BAND- Canal FutucAndroiD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w587755610.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS ",BAND- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS",BAND SD- Canal FutucAndroiD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="CANAIS",GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" tvg-id="0" group-title="CANAIS",AMAZON SAT- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" tvg-id="0" group-title="CANAIS",TVE BA HD- Canal FutucAndroiD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+
+#EXTINF:-1 tvg-id="0" tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://goo.gl/Ua7iiL?" tvg-id="0" group-title="CANAIS",TNT- Canal FutucAndroiD
+http://177.139.171.102:27030/live/alvaro/17/2.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="CANAIS INTERNACIONAIS ",HBO2 HD- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" tvg-id="0" group-title="CANAIS",RAI MOVIES- Canal FutucAndroiD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" tvg-id="0" group-title="CANAIS",CLASSIQUE TV- Canal FutucAndroiD
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" tvg-id="0" group-title="CANAIS",CARIOCA NET- Canal FutucAndroiD
+http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" tvg-id="0" group-title="CANAIS",RECORD NEWS- Canal FutucAndroiD
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w114717025.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" tvg-id="0" group-title="CANAIS",RECORD NEWS- Canal FutucAndroiD
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" tvg-id="0" group-title="CANAIS",DW NEWS- Canal FutucAndroiD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-id="dw News" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="CANAIS",HISTORY LAB- Canal FutucAndroiD
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV 
+
+#EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="CANAIS",TELE BARN
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" tvg-id="0" group-title="CANAIS",LOCOMOTION- Canal FutucAndroiD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cvVK7m.png?1" tvg-id="0" group-title="CANAIS",COMBATE- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37119.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WZ5X5IlbvJk/W46Xoxnru6I/AAAAAAABJWU/X3det7UxEjEjFk8tCNXZ9iTzwFSQo8wpwCJoC/w317-h318-n/gplus919542092.png" tvg-id="0" group-title="CANAIS",DESENHOS 24 HORAS- Canal FutucAndroiD
+http://tv.factoryiptv.com:80/live/1752/1752/39775.ts
+
+#EXTINF:-1 tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" tvg-id="0" group-title="CANAIS",ABN KIDS- Canal FutucAndroiD
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis" tvg-id="0" group-title="CANAIS",GOSPEL CARTOON- Canal FutucAndroiD
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" tvg-id="0" group-title="CANAIS",TV TEEN NET- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",HIT TV- Canal FutucAndroiD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",HIT TV- Canal FutucAndroiD
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" tvg-id="0" group-title="CANAIS",HIT MUSIC- Canal FutucAndroiD
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" tvg-id="0" group-title="CANAIS",RETRÔ TV- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCp72c6.png" tvg-id="0" group-title="CANAIS",CENTRAL TV CURITIBA- Canal FutucAndroiD
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" tvg-id="0" group-title="CANAIS",TV CIDADE OESTE RN- Canal FutucAndroiD
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0TyXIA.png" tvg-id="0" group-title="CANAIS",TV PANTANAL MS- Canal FutucAndroiD
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w636935633.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" tvg-id="0" group-title="CANAIS",RETRÔ MUSIC- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" tvg-id="0" group-title="CANAIS",ARG:CANAL 26 HD- Canal FutucAndroiD
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" tvg-id="0" group-title="CANAIS",ARG:TELPIN CANAL 2 HD- Canal FutucAndroiD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" tvg-id="0" group-title="CANAIS",ARG:TELPIN CANAL 2 SD- Canal FutucAndroiD
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
