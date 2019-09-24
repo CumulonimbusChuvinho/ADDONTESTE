@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR orange]TV[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR black]|[/COLOR] [COLOR orange]TV[/COLOR] [COLOR black]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR gold]FILMES[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR black]|[/COLOR] [COLOR gold]FILMES[/COLOR] [COLOR black]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/20/items/lancae/Fillmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/FILMES</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR limegreen]SÉRIES[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR black]|[/COLOR] [COLOR limegreen]SÉRIES[/COLOR] [COLOR black]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/20/items/lancae/seires.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIES</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
@@ -47,7 +47,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR black]|||[/COLOR] [COLOR red]DESENHOS[/COLOR] [COLOR black]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR black]|[/COLOR] [COLOR red]DESENHOS[/COLOR] [COLOR black]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/20/items/lancae/Desenho.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/INFANTIL</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
