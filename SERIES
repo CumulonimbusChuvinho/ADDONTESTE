@@ -1,86 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
  
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]CHERNOBYL -[/COLOR][COLOR yellow][B] (2019) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]CHERNOBYL -[/COLOR][COLOR yellow][B] (2019) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia601505.us.archive.org/29/items/CHERFANART/cher.jpg</thumbnail>
 <fanart>https://archive.org/download/CHERFANART/CHERFANART.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20CHERNOBIL</externallink>
 <info>[COLOR yellow]|[/COLOR]Homens e mulheres corajosos agem heroicamente para mitigar danos catastróficos quando a Usina Nuclear de Chernobyl sofre um acidente nuclear em 25 de abril de 1986.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]STRANGER THINGS - 3ª Temporada[/COLOR][COLOR yellow][B] (2019) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]STRANGER THINGS - 3ª Temporada[/COLOR][COLOR yellow][B] (2019) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia601402.us.archive.org/24/items/st3fanart/st3.jpg</thumbnail>
 <fanart>https://archive.org/download/st3fanart/ST3FANART.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20STRANGER%20THINGS%20-%203%C2%AA%20Temporada</externallink>
 <info>[COLOR yellow]|[/COLOR]Romance no ar. Um shopping novinho em folha. Ratazanas enlouquecidas correndo para o perigo. É o verão de 1985 em Hawkins. E um verão pode mudar tudo.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]O MECANISMO -[/COLOR][COLOR yellow][B] (2018-2019) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]O MECANISMO -[/COLOR][COLOR yellow][B] (2018-2019) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia601403.us.archive.org/15/items/fanmec/mec1.jpg</thumbnail>
 <fanart>https://archive.org/download/fanmec/fanmec.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20O%20MECANISMO</externallink>
 <info>[COLOR yellow]|[/COLOR]A 1ª temporada de O Mecanismo começou a ser exibida em 23 de março de 2018. Uma investigação sobre suspeitas de corrupção envolvendo estatais e empreiteiras se torna um dos maiores escândalos políticos do Brasil. Inspirada em fatos reais.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]DARK -[/COLOR][COLOR yellow][B] (2017-2019) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]DARK -[/COLOR][COLOR yellow][B] (2017-2019) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia601402.us.archive.org/10/items/darfan2/dark.jpg</thumbnail>
 <fanart>https://ia601402.us.archive.org/10/items/darfan2/darkfan1.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20DARK</externallink>
 <info>[COLOR yellow]|[/COLOR]O desaparecimento de duas crianças em uma cidade alemã traz luzes às relações fraturadas, vidas duplas e o passado de quatro famílias que vivem lá.[1] Aborda o tema de viagens no tempo e principalmente o entrelaçamento temporal. Onde passado, presente e futuro se conectam numa cidade da Alemanha.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]12 MACACOS -[/COLOR][COLOR yellow][B] (2015-2018) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]12 MACACOS -[/COLOR][COLOR yellow][B] (2015-2018) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia601501.us.archive.org/20/items/12macfan/12mac1.jpg</thumbnail>
 <fanart>https://archive.org/download/12macfan/12macfan.jpg</fanart>
 <externallinkhttps://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%2012%20MACACOS</externallink>
 <info>[COLOR yellow]|[/COLOR]Em um mundo pós-apocalíptico, a humanidade é forçada a viver nos subterrâneos depois que um vírus mortal é liberado. James Cole, um condenado, é enviado ao passado com o objetivo de reunir informações sobre o vírus para que os cientistas possam erradicá-lo.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]13 MEDOS -[/COLOR][COLOR yellow][B] (2007) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]13 MEDOS -[/COLOR][COLOR yellow][B] (2007) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia801509.us.archive.org/14/items/13fan/13MEDO.jpg</thumbnail>
 <fanart>https://archive.org/download/13fan/13fan.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%2013%20MEDOS</externallink>
 <info>[COLOR yellow]|[/COLOR]Com base no popular programa mexicano de 1986 "Hora Marcada", esta série de antologia de língua espanhola oferece emoções sobrenaturais em abundância. Do vigia noturno que tem medo do escuro para um homem triste que tenta reviver sua esposa falecida, essa coleção inventiva de resfriadores coloca as profundezas de terrores mortais.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]O NEGÓCIO -[/COLOR][COLOR yellow][B] (2013-2018) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]O NEGÓCIO -[/COLOR][COLOR yellow][B] (2013-2018) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia801508.us.archive.org/22/items/1fanneg/1neg.jpg</thumbnail>
 <fanart>https://archive.org/download/1fanneg/1fanneg.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20O%20NEGOCIO</externallink>
 <info>[COLOR yellow]|[/COLOR]Karin (Rafaela Mandelli), Luna (Juliana Schalch) e Magali (Michelle Batista) são profissionais naquilo que fazem. Sem perspectiva de melhorar a profissão, elas percebem que por trás de qualquer bom trabalho há uma excelente estratégia de marketing. Então, por que não aplicar essas técnicas à profissão mais antiga do mundo? Assim, as três garotas de programa estão prestes a se tornar mulheres de negócio.[COLOR yellow]|[/COLOR][COLOR yellow] - ATENDENDO A PEDIDOS DO INSCRITO NILVAN LOPES[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]THE GOOD DOCTOR -[/COLOR][COLOR yellow][B] (2017-2018) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]THE GOOD DOCTOR -[/COLOR][COLOR yellow][B] (2017-2018) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia601403.us.archive.org/31/items/1gdfan/1GD.jpg</thumbnail>
 <fanart>https://archive.org/download/1gdfan2/1gdfan2.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20THE%20GOOD%20DOCTOR</externallink>
 <info>[COLOR yellow]|[/COLOR][COLOR yellow]|[/COLOR]Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.[COLOR yellow]|[/COLOR]</info>
-</item>
 
-<item>
-<title>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]THE SOCIETY -[/COLOR][COLOR yellow][B] (2019) [/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<channels>
+<channel>
+<name>[COLOR green]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR mediumblue]|||[/COLOR] [COLOR white]THE SOCIETY -[/COLOR][COLOR yellow][B] (2019) [/B][/COLOR]</title>                                            
 <thumbnail>https://ia801502.us.archive.org/22/items/1socifan/1soci.jpg</thumbnail>
 <fanart>https://archive.org/download/1socifan/1socifan.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20THE%20SOCIETY</externallink>
 <info>[COLOR yellow]|[/COLOR]Todo mundo desaparece da próspera cidade de West Ham, menos os adolescentes. Para sobreviver, eles vão ter de organizar a sua própria sociedade.[COLOR yellow]|[/COLOR]</info>
-</item>
 
 <channels>
 <channel>
