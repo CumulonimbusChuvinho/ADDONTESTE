@@ -1,367 +1,505 @@
 
 #EXTM3U
-
-#EXTINF:● BRASIL:_AMC tvg-logo="http://mylatinotv.com/images/espana/amc_us.png" group-title="Brasil",● BRASIL:_AMC
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51959
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Animal Planet" tvg-logo="http://mylatinotv.com/images/colombia/Animal_Planet_HD_logo.jpg" group-title="Brasil",● BRASIL:_Animal Planet
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51958
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Aparecida" tvg-logo="" group-title="Brasil",● BRASIL:_Aparecida
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51957
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Arte 1" tvg-logo="" group-title="Brasil",● BRASIL:_Arte 1
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51956
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_AXN" tvg-logo="http://mylatinotv.com/images/colombia/Axn_hd.png" group-title="Brasil",● BRASIL:_AXN
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51955
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Baby TV" tvg-logo="http://mylatinotv.com/images/mexico/babytv.png" group-title="Brasil",● BRASIL:_Baby TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51954
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Band News" tvg-logo="" group-title="Brasil",● BRASIL:_Band News
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51953
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Band Sports" tvg-logo="" group-title="Brasil",● BRASIL:_Band Sports
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51952
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Bandeirantes" tvg-logo="" group-title="Brasil",● BRASIL:_Bandeirantes
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51951
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_BIS" tvg-logo="" group-title="Brasil",● BRASIL:_BIS
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51950
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Boa Vontade TV" tvg-logo="" group-title="Brasil",● BRASIL:_Boa Vontade TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51949
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Boomerang" tvg-logo="http://mylatinotv.com/images/mexico/boomerang.png" group-title="Brasil",● BRASIL:_Boomerang
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51948
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Canal Brasil" tvg-logo="" group-title="Brasil",● BRASIL:_Canal Brasil
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51947
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Canal Claro" tvg-logo="" group-title="Brasil",● BRASIL:_Canal Claro
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51946
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Canal Nova" tvg-logo="" group-title="Brasil",● BRASIL:_Canal Nova
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51945
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Canal Rural" tvg-logo="" group-title="Brasil",● BRASIL:_Canal Rural
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51944
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Canal Sony" tvg-logo="http://mylatinotv.com/images/mexico/sony.png" group-title="Brasil",● BRASIL:_Canal Sony
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51943
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Cartoon Network" tvg-logo="http://mylatinotv.com/images/colombia/Cartoon_Network.png" group-title="Brasil",● BRASIL:_Cartoon Network
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51942
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Cinemax" tvg-logo="" group-title="Brasil",● BRASIL:_Cinemax
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51941
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_CNN Espanol" tvg-logo="http://mylatinotv.com/images/colombia/CNN_Español_Logo_Viejo.png" group-title="Brasil",● BRASIL:_CNN Espanol
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51940
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_CNN Internacional" tvg-logo="http://mylatinotv.com/images/colombia/CNN-International.png" group-title="Brasil",● BRASIL:_CNN Internacional
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51939
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_CNT" tvg-logo="" group-title="Brasil",● BRASIL:_CNT
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51938
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Combate" tvg-logo="" group-title="Brasil",● BRASIL:_Combate
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51937
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Comedy Central" tvg-logo="http://mylatinotv.com/images/mexico/cc.png" group-title="Brasil",● BRASIL:_Comedy Central
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51936
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Curta" tvg-logo="" group-title="Brasil",● BRASIL:_Curta
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51935
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Discovery Channel" tvg-logo="http://mylatinotv.com/images/mexico/discoverychannel.png" group-title="Brasil",● BRASIL:_Discovery Channel
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51934
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Discovery H&H" tvg-logo="http://mylatinotv.com/images/mexico/homeandhealth.png" group-title="Brasil",● BRASIL:_Discovery H&H
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51933
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Discovery Kids" tvg-logo="http://mylatinotv.com/images/mexico/discoverkids.png" group-title="Brasil",● BRASIL:_Discovery Kids
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51932
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Discovery Turbo" tvg-logo="http://mylatinotv.com/images/mexico/turbo.png" group-title="Brasil",● BRASIL:_Discovery Turbo
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51931
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Disney" tvg-logo="" group-title="Brasil",● BRASIL:_Disney
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51930
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Disney Junior" tvg-logo="http://mylatinotv.com/images/mexico/disneyjr.png" group-title="Brasil",● BRASIL:_Disney Junior
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51929
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Disney XD" tvg-logo="http://mylatinotv.com/images/mexico/disneyxd.png" group-title="Brasil",● BRASIL:_Disney XD
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51928
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_DW (Deutsch )" tvg-logo="http://mylatinotv.com/images/mexico/dw.png" group-title="Brasil",● BRASIL:_DW (Deutsch )
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51927
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_E!" tvg-logo="http://mylatinotv.com/images/mexico/e.png" group-title="Brasil",● BRASIL:_E!
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51926
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_EI Mxx 1" tvg-logo="" group-title="Brasil",● BRASIL:_EI Mxx 1
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51925
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_EI Mxx 2" tvg-logo="" group-title="Brasil",● BRASIL:_EI Mxx 2
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51924
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_ESPN" tvg-logo="" group-title="Brasil",● BRASIL:_ESPN
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51923
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_ESPN Brasil" tvg-logo="" group-title="Brasil",● BRASIL:_ESPN Brasil
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51922
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Fish TV" tvg-logo="" group-title="Brasil",● BRASIL:_Fish TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51921
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Food Network" tvg-logo="http://mylatinotv.com/images/mexico/foodnetwork.png" group-title="Brasil",● BRASIL:_Food Network
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51920
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_FOX" tvg-logo="" group-title="Brasil",● BRASIL:_FOX
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51919
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Fox Life" tvg-logo="http://mylatinotv.com/images/mexico/fl.png" group-title="Brasil",● BRASIL:_Fox Life
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51918
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Fox Sports" tvg-logo="" group-title="Brasil",● BRASIL:_Fox Sports
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51917
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Fox Sports 2" tvg-logo="http://mylatinotv.com/images/mexico/foxsports2.png" group-title="Brasil",● BRASIL:_Fox Sports 2
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51916
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Futura" tvg-logo="" group-title="Brasil",● BRASIL:_Futura
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51915
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_FX" tvg-logo="http://mylatinotv.com/images/mexico/fx.png" group-title="Brasil",● BRASIL:_FX
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51914
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Globo SP" tvg-logo="" group-title="Brasil",● BRASIL:_Globo SP
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51913
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_GloboNews" tvg-logo="" group-title="Brasil",● BRASIL:_GloboNews
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51912
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Gloob" tvg-logo="" group-title="Brasil",● BRASIL:_Gloob
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51911
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_GNT" tvg-logo="" group-title="Brasil",● BRASIL:_GNT
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51910
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_H2" tvg-logo="http://mylatinotv.com/images/mexico/h2.png" group-title="Brasil",● BRASIL:_H2
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51909
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_HBO" tvg-logo="http://mylatinotv.com/images/mexico/hbo.png" group-title="Brasil",● BRASIL:_HBO
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51908
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_HBO Family" tvg-logo="http://mylatinotv.com/images/mexico/hbofam.png" group-title="Brasil",● BRASIL:_HBO Family
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51907
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_HBO Plus" tvg-logo="http://mylatinotv.com/images/mexico/hboplus.png" group-title="Brasil",● BRASIL:_HBO Plus
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51906
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_HBO Plus*e" tvg-logo="http://mylatinotv.com/images/mexico/hboplus.png" group-title="Brasil",● BRASIL:_HBO Plus*e
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51905
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_HBO Signature" tvg-logo="http://mylatinotv.com/images/mexico/hbosignature.png" group-title="Brasil",● BRASIL:_HBO Signature
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51904
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_HBO2" tvg-logo="http://mylatinotv.com/images/mexico/hbo2.png" group-title="Brasil",● BRASIL:_HBO2
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51903
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_I-SAT" tvg-logo="" group-title="Brasil",● BRASIL:_I-SAT
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51902
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_ID - Investigation Discovery" tvg-logo="http://mylatinotv.com/images/mexico/id.png" group-title="Brasil",● BRASIL:_ID - Investigation Discovery
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51901
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Lifetime" tvg-logo="http://mylatinotv.com/images/mexico/lifetime.png" group-title="Brasil",● BRASIL:_Lifetime
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51900
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Mais Globosat" tvg-logo="" group-title="Brasil",● BRASIL:_Mais Globosat
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51899
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_MAX" tvg-logo="http://mylatinotv.com/images/mexico/max.png" group-title="Brasil",● BRASIL:_MAX
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51898
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_MAX Prime" tvg-logo="http://mylatinotv.com/images/mexico/maxprime.png" group-title="Brasil",● BRASIL:_MAX Prime
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51897
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_MAX Prime*e" tvg-logo="http://mylatinotv.com/images/mexico/maxprime.png" group-title="Brasil",● BRASIL:_MAX Prime*e
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51896
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_MAX UP" tvg-logo="http://mylatinotv.com/images/mexico/maxup.png" group-title="Brasil",● BRASIL:_MAX UP
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51895
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_MegaPix" tvg-logo="" group-title="Brasil",● BRASIL:_MegaPix
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51894
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_MTV" tvg-logo="http://mylatinotv.com/images/mexico/mtv.png" group-title="Brasil",● BRASIL:_MTV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51893
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Multishow" tvg-logo="" group-title="Brasil",● BRASIL:_Multishow
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51892
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Music Box Brazil" tvg-logo="" group-title="Brasil",● BRASIL:_Music Box Brazil
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51891
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_NatGeo Kids" tvg-logo="http://mylatinotv.com/images/mexico/natgeoids.png" group-title="Brasil",● BRASIL:_NatGeo Kids
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51890
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_NatGeo Wild" tvg-logo="http://mylatinotv.com/images/mexico/natwild.png" group-title="Brasil",● BRASIL:_NatGeo Wild
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51889
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_National Geographic" tvg-logo="http://mylatinotv.com/images/mexico/natgeo.png" group-title="Brasil",● BRASIL:_National Geographic
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51888
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_NHK" tvg-logo="" group-title="Brasil",● BRASIL:_NHK
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51887
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Nick Jr" tvg-logo="http://mylatinotv.com/images/mexico/nickjr.png" group-title="Brasil",● BRASIL:_Nick Jr
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51886
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Nickelodeon" tvg-logo="http://mylatinotv.com/images/mexico/nick.png" group-title="Brasil",● BRASIL:_Nickelodeon
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51885
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_OFF" tvg-logo="" group-title="Brasil",● BRASIL:_OFF
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51884
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Paramount" tvg-logo="http://mylatinotv.com/images/mexico/paramount.png" group-title="Brasil",● BRASIL:_Paramount
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51883
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Play TV" tvg-logo="" group-title="Brasil",● BRASIL:_Play TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51882
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Playboy TV" tvg-logo="" group-title="Brasil",● BRASIL:_Playboy TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51881
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Polishop TV" tvg-logo="" group-title="Brasil",● BRASIL:_Polishop TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51880
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 2" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 2
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51879
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 3" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 3
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51878
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 4" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 4
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51877
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 5" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 5
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51876
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 6" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 6
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51875
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 7" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 7
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51874
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 8" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 8
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51873
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere 9" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere 9
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51872
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Premiere Clubes" tvg-logo="" group-title="Brasil",● BRASIL:_Premiere Clubes
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51871
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Prime Box Brazil" tvg-logo="" group-title="Brasil",● BRASIL:_Prime Box Brazil
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51870
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_RAI" tvg-logo="" group-title="Brasil",● BRASIL:_RAI
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51869
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_RBI" tvg-logo="" group-title="Brasil",● BRASIL:_RBI
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51868
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Record News" tvg-logo="" group-title="Brasil",● BRASIL:_Record News
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51866
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_RECORDTV" tvg-logo="" group-title="Brasil",● BRASIL:_RECORDTV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51865
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Rede Brasil" tvg-logo="" group-title="Brasil",● BRASIL:_Rede Brasil
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51864
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Rede TV" tvg-logo="" group-title="Brasil",● BRASIL:_Rede TV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51863
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Rede Vida" tvg-logo="" group-title="Brasil",● BRASIL:_Rede Vida
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51862
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_RIT" tvg-logo="" group-title="Brasil",● BRASIL:_RIT
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51861
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SBT" tvg-logo="" group-title="Brasil",● BRASIL:_SBT
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51860
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Sextreme" tvg-logo="" group-title="Brasil",● BRASIL:_Sextreme
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51859
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Sexy Hot" tvg-logo="" group-title="Brasil",● BRASIL:_Sexy Hot
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51858
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SIC Internacional" tvg-logo="" group-title="Brasil",● BRASIL:_SIC Internacional
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51857
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Space" tvg-logo="http://mylatinotv.com/images/mexico/Space.png" group-title="Brasil",● BRASIL:_Space
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51856
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SporTV" tvg-logo="" group-title="Brasil",● BRASIL:_SporTV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51855
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SporTV 2" tvg-logo="" group-title="Brasil",● BRASIL:_SporTV 2
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51854
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SporTV 2 Alternativo" tvg-logo="" group-title="Brasil",● BRASIL:_SporTV 2 Alternativo
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51853
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SporTV 3" tvg-logo="" group-title="Brasil",● BRASIL:_SporTV 3
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51852
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SporTV Alternativo" tvg-logo="" group-title="Brasil",● BRASIL:_SporTV Alternativo
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51851
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Studio Universal" tvg-logo="http://mylatinotv.com/images/mexico/studiouniversal.png" group-title="Brasil",● BRASIL:_Studio Universal
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51850
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_SyFy" tvg-logo="http://mylatinotv.com/images/mexico/syfy.png" group-title="Brasil",● BRASIL:_SyFy
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51849
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TBS" tvg-logo="http://mylatinotv.com/images/mexico/tbs.png" group-title="Brasil",● BRASIL:_TBS
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51848
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TCM" tvg-logo="http://mylatinotv.com/images/mexico/tcm.png" group-title="Brasil",● BRASIL:_TCM
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51847
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Telecine Action" tvg-logo="" group-title="Brasil",● BRASIL:_Telecine Action
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51846
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Telecine Cult" tvg-logo="" group-title="Brasil",● BRASIL:_Telecine Cult
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51845
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Telecine Fun" tvg-logo="" group-title="Brasil",● BRASIL:_Telecine Fun
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51844
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Telecine Pipoca" tvg-logo="" group-title="Brasil",● BRASIL:_Telecine Pipoca
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51843
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Telecine Premium" tvg-logo="" group-title="Brasil",● BRASIL:_Telecine Premium
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51842
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Telecine Touch" tvg-logo="" group-title="Brasil",● BRASIL:_Telecine Touch
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51841
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Terra Viva" tvg-logo="" group-title="Brasil",● BRASIL:_Terra Viva
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51840
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_The History Channel" tvg-logo="http://mylatinotv.com/images/mexico/history.png" group-title="Brasil",● BRASIL:_The History Channel
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51839
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TLC" tvg-logo="http://mylatinotv.com/images/mexico/tlc.png" group-title="Brasil",● BRASIL:_TLC
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51838
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TNT" tvg-logo="http://mylatinotv.com/images/mexico/tnt.png" group-title="Brasil",● BRASIL:_TNT
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51837
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TNT Series" tvg-logo="http://mylatinotv.com/images/mexico/tntseries.png" group-title="Brasil",● BRASIL:_TNT Series
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51836
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Tooncast" tvg-logo="http://mylatinotv.com/images/mexico/tooncast.png" group-title="Brasil",● BRASIL:_Tooncast
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51835
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TruTV" tvg-logo="http://mylatinotv.com/images/mexico/trutv.png" group-title="Brasil",● BRASIL:_TruTV
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51834
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Brasil" tvg-logo="" group-title="Brasil",● BRASIL:_TV Brasil
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51833
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV CÐmara" tvg-logo="" group-title="Brasil",● BRASIL:_TV CÐmara
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51832
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Cultura" tvg-logo="" group-title="Brasil",● BRASIL:_TV Cultura
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51831
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Escola" tvg-logo="" group-title="Brasil",● BRASIL:_TV Escola
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51830
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Justila" tvg-logo="" group-title="Brasil",● BRASIL:_TV Justila
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51829
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Novo Tempo" tvg-logo="" group-title="Brasil",● BRASIL:_TV Novo Tempo
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51828
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV RA tim bum" tvg-logo="" group-title="Brasil",● BRASIL:_TV RA tim bum
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51827
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Senado" tvg-logo="" group-title="Brasil",● BRASIL:_TV Senado
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51826
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Tem Sao Jose do Rio Preto" tvg-logo="" group-title="Brasil",● BRASIL:_TV Tem Sao Jose do Rio Preto
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51825
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV Tribuna Santos" tvg-logo="" group-title="Brasil",● BRASIL:_TV Tribuna Santos
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51824
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TV5 Monde" tvg-logo="" group-title="Brasil",● BRASIL:_TV5 Monde
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51823
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_TVE" tvg-logo="" group-title="Brasil",● BRASIL:_TVE
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51822
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Universal Channel" tvg-logo="http://mylatinotv.com/images/mexico/universal.png" group-title="Brasil",● BRASIL:_Universal Channel
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51821
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_VH1 Megahits" tvg-logo="" group-title="Brasil",● BRASIL:_VH1 Megahits
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51820
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Viva" tvg-logo="" group-title="Brasil",● BRASIL:_Viva
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51819
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Warner Channel" tvg-logo="http://mylatinotv.com/images/mexico/warner.png" group-title="Brasil",● BRASIL:_Warner Channel
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51818
-#EXTINF:-1 tvg-id="" tvg-name="● BRASIL:_Woohoo" tvg-logo="" group-title="Brasil",● BRASIL:_Woohoo
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51817
-#EXTINF:-1 tvg-id="" tvg-name="BRASIL:_RBS TV Porto Alegre" tvg-logo="" group-title="Brasil",BRASIL:_RBS TV Porto Alegre
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/51867
-#EXTINF:-1 tvg-id="" tvg-name="****Brasil****" tvg-logo="" group-title="Brasil",****Brasil****
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16286
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="" group-title="Brasil",TV BRASIL
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16282
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO" tvg-logo="" group-title="Brasil",TV GLOBO
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16283
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO PREMIUM" tvg-logo="" group-title="Brasil",TV GLOBO PREMIUM
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16284
-#EXTINF:-1 tvg-id="" tvg-name="AE HD BR" tvg-logo="" group-title="Brasil",AE HD BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16327
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 BR" tvg-logo="" group-title="Brasil",Arte 1 BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16326
-#EXTINF:-1 tvg-id="" tvg-name="Can BR" tvg-logo="" group-title="Brasil",Can BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16324
-#EXTINF:-1 tvg-id="" tvg-name="Canal DO TV BR" tvg-logo="" group-title="Brasil",Canal DO TV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16323
-#EXTINF:-1 tvg-id="" tvg-name="ConexaoTV BR" tvg-logo="" group-title="Brasil",ConexaoTV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16322
-#EXTINF:-1 tvg-id="" tvg-name="DW Latin BR" tvg-logo="http://mylatinotv.com/images/mexico/dw.png" group-title="Brasil",DW Latin BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16321
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV BR" tvg-logo="" group-title="Brasil",Fish TV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16319
-#EXTINF:-1 tvg-id="" tvg-name="Gloob BR" tvg-logo="" group-title="Brasil",Gloob BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16317
-#EXTINF:-1 tvg-id="" tvg-name="History HD BR" tvg-logo="http://mylatinotv.com/images/mexico/history.png" group-title="Brasil",History HD BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16316
-#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat HD BR" tvg-logo="" group-title="Brasil",Mais Globosat HD BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16314
-#EXTINF:-1 tvg-id="" tvg-name="MegaPix BR" tvg-logo="" group-title="Brasil",MegaPix BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16313
-#EXTINF:-1 tvg-id="" tvg-name="MegaPix TV BR" tvg-logo="" group-title="Brasil",MegaPix TV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16312
-#EXTINF:-1 tvg-id="" tvg-name="MTV BR" tvg-logo="http://mylatinotv.com/images/mexico/mtv.png" group-title="Brasil",MTV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16315
-#EXTINF:-1 tvg-id="" tvg-name="Proyecto 40 BR" tvg-logo="" group-title="Brasil",Proyecto 40 BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16311
-#EXTINF:-1 tvg-id="" tvg-name="RCTV BR" tvg-logo="" group-title="Brasil",RCTV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16310
-#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil BR" tvg-logo="" group-title="Brasil",Rede Brasil BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16309
-#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel BR" tvg-logo="" group-title="Brasil",Rede Gospel BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16308
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV BR" tvg-logo="" group-title="Brasil",Rede TV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16307
-#EXTINF:-1 tvg-id="" tvg-name="Syfy BR" tvg-logo="http://mylatinotv.com/images/mexico/syfy.png" group-title="Brasil",Syfy BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16303
-#EXTINF:-1 tvg-id="" tvg-name="TC Action BR" tvg-logo="" group-title="Brasil",TC Action BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16302
-#EXTINF:-1 tvg-id="" tvg-name="TC Cult BR" tvg-logo="" group-title="Brasil",TC Cult BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16301
-#EXTINF:-1 tvg-id="" tvg-name="TC Fun BR" tvg-logo="" group-title="Brasil",TC Fun BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16300
-#EXTINF:-1 tvg-id="" tvg-name="TC Pipoka BR" tvg-logo="" group-title="Brasil",TC Pipoka BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16299
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD BR" tvg-logo="http://mylatinotv.com/images/mexico/tnt.png" group-title="Brasil",TNT HD BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16298
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparceida BR" tvg-logo="" group-title="Brasil",TV Aparceida BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16297
-#EXTINF:-1 tvg-id="" tvg-name="TV Brasil Central BR" tvg-logo="" group-title="Brasil",TV Brasil Central BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16296
-#EXTINF:-1 tvg-id="" tvg-name="TV Diario BR" tvg-logo="" group-title="Brasil",TV Diario BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16295
-#EXTINF:-1 tvg-id="" tvg-name="TV Escola BR" tvg-logo="" group-title="Brasil",TV Escola BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16294
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD BR" tvg-logo="" group-title="Brasil",TV Gazeta HD BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16293
-#EXTINF:-1 tvg-id="" tvg-name="TV Gearl BR" tvg-logo="" group-title="Brasil",TV Gearl BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16292
-#EXTINF:-1 tvg-id="" tvg-name="TV Mana France BR" tvg-logo="" group-title="Brasil",TV Mana France BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16291
-#EXTINF:-1 tvg-id="" tvg-name="TVI 24 BR" tvg-logo="" group-title="Brasil",TVI 24 BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16290
-#EXTINF:-1 tvg-id="" tvg-name="TVI BR" tvg-logo="" group-title="Brasil",TVI BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16289
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits BR" tvg-logo="http://mylatinotv.com/images/mexico/vh1.png" group-title="Brasil",VH1 Mega Hits BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16288
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV BR" tvg-logo="http://mylatinotv.com/images/mexico/warner.png" group-title="Brasil",Warner TV BR
-http://mylatinotv.com:25461/prueba11/ujoM0DjXE1/16287
+#EXTINF:-1 tvg-id="TvBrasil.br" tvg-name="BR - TV Brasil" tvg-logo="http://212.8.253.112/logo/LATINO/TVBrasil.png" group-title="AM | LATINO",BR - TV Brasil
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42541
+#EXTINF:-1 tvg-id="" tvg-name="BR - Globo SP" tvg-logo="http://212.8.253.112/logo/PORTUGAL/GLOBO.png" group-title="AM | LATINO",BR - Globo SP
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42540
+#EXTINF:-1 tvg-id="" tvg-name="BR - Globo Minas" tvg-logo="http://212.8.253.112/logo/PORTUGAL/GLOBO.png" group-title="AM | LATINO",BR - Globo Minas
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42539
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="BR - Globo Nordeste" tvg-logo="http://212.8.253.112/logo/PORTUGAL/GLOBO.png" group-title="AM | LATINO",BR - Globo Nordeste
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42538
+#EXTINF:-1 tvg-id="" tvg-name="BR - Globo Rio" tvg-logo="http://212.8.253.112/logo/PORTUGAL/GLOBO.png" group-title="AM | LATINO",BR - Globo Rio
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42537
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="BR - Record" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RECORDHD.png" group-title="AM | LATINO",BR - Record
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42536
+#EXTINF:-1 tvg-id="RedeBrazil.br" tvg-name="BR - Rede TV" tvg-logo="http://212.8.253.112/logo/LATINO/REDETVHD.png" group-title="AM | LATINO",BR - Rede TV
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42535
+#EXTINF:-1 tvg-id="" tvg-name="##### BR - NEWS #####" tvg-logo="" group-title="AM | LATINO",##### BR - NEWS #####
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42534
+#EXTINF:-1 tvg-id="" tvg-name="BR - Globo News" tvg-logo="http://212.8.253.112/logo/LATINO/GLOBONEWS.png" group-title="AM | LATINO",BR - Globo News
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42533
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="BR - Record News" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RECORDNEWS.png" group-title="AM | LATINO",BR - Record News
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42532
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BR - Band News" tvg-logo="http://212.8.253.112/logo/LATINO/BAND.png" group-title="AM | LATINO",BR - Band News
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42531
+#EXTINF:-1 tvg-id="" tvg-name="BR - CNN Espanhol" tvg-logo="http://212.8.253.112/logo/LATINO/CNN.png" group-title="AM | LATINO",BR - CNN Espanhol
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42530
+#EXTINF:-1 tvg-id="" tvg-name="BR - CNN Internacional" tvg-logo="http://212.8.253.112/logo/LATINO/CNN.png" group-title="AM | LATINO",BR - CNN Internacional
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42529
+#EXTINF:-1 tvg-id="" tvg-name="BR - A&E" tvg-logo="http://212.8.253.112/logo/LATINO/A%26E.png" group-title="AM | LATINO",BR - A&E
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42528
+#EXTINF:-1 tvg-id="" tvg-name="BR - A&E [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/A%26E.png" group-title="AM | LATINO",BR - A&E [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42527
+#EXTINF:-1 tvg-id="" tvg-name="BR - A&E [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/A%26E.png" group-title="AM | LATINO",BR - A&E [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42526
+#EXTINF:-1 tvg-id="" tvg-name="BR - AMC" tvg-logo="http://212.8.253.112/logo/LATINO/AMC.png" group-title="AM | LATINO",BR - AMC
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42525
+#EXTINF:-1 tvg-id="" tvg-name="BR - AMC [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/AMC.png" group-title="AM | LATINO",BR - AMC [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42524
+#EXTINF:-1 tvg-id="" tvg-name="BR - AMC [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/AMC.png" group-title="AM | LATINO",BR - AMC [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42523
+#EXTINF:-1 tvg-id="" tvg-name="BR - AXN" tvg-logo="http://212.8.253.112/logo/LATINO/AXN.png" group-title="AM | LATINO",BR - AXN
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42522
+#EXTINF:-1 tvg-id="" tvg-name="BR - AXN [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/AXN.png" group-title="AM | LATINO",BR - AXN [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42521
+#EXTINF:-1 tvg-id="" tvg-name="BR - AXN [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/AXN.png" group-title="AM | LATINO",BR - AXN [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42520
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cinebrasil" tvg-logo="http://212.8.253.112/logo/LATINO/Cinebrasil.png" group-title="AM | LATINO",BR - Cinebrasil
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42519
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cinemax" tvg-logo="http://212.8.253.112/logo/LATINO/CINEMAX.png" group-title="AM | LATINO",BR - Cinemax
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42518
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cinemax [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/CINEMAX.png" group-title="AM | LATINO",BR - Cinemax [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42517
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cinemax [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/CINEMAX.png" group-title="AM | LATINO",BR - Cinemax [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42516
+#EXTINF:-1 tvg-id="" tvg-name="BR - Comedy Central" tvg-logo="http://212.8.253.112/logo/LATINO/COMEDYCENTRAL.png" group-title="AM | LATINO",BR - Comedy Central
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42515
+#EXTINF:-1 tvg-id="" tvg-name="BR - Comedy Central [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/COMEDYCENTRAL.png" group-title="AM | LATINO",BR - Comedy Central [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42514
+#EXTINF:-1 tvg-id="" tvg-name="BR - Comedy Central [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/COMEDYCENTRAL.png" group-title="AM | LATINO",BR - Comedy Central [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42513
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox" tvg-logo="http://212.8.253.112/logo/LATINO/FOX.png" group-title="AM | LATINO",BR - Fox
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42512
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FOX.png" group-title="AM | LATINO",BR - Fox [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42511
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FOX.png" group-title="AM | LATINO",BR - Fox [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42510
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox life" tvg-logo="http://212.8.253.112/logo/LATINO/FOXLIFE.png" group-title="AM | LATINO",BR - Fox life
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42509
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox life [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXLIFE.png" group-title="AM | LATINO",BR - Fox life [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42508
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox life [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXLIFE.png" group-title="AM | LATINO",BR - Fox life [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42507
+#EXTINF:-1 tvg-id="" tvg-name="BR - TC Action" tvg-logo="http://212.8.253.112/logo/LATINO/TCAction.png" group-title="AM | LATINO",BR - TC Action
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42506
+#EXTINF:-1 tvg-id="" tvg-name="BR - TC Cult" tvg-logo="http://212.8.253.112/logo/LATINO/TCCult.png" group-title="AM | LATINO",BR - TC Cult
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42505
+#EXTINF:-1 tvg-id="" tvg-name="BR - TC fun" tvg-logo="http://212.8.253.112/logo/LATINO/TCfun.png" group-title="AM | LATINO",BR - TC fun
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42504
+#EXTINF:-1 tvg-id="" tvg-name="BR - TC Pipoca" tvg-logo="http://212.8.253.112/logo/LATINO/TCPipoca.png" group-title="AM | LATINO",BR - TC Pipoca
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42503
+#EXTINF:-1 tvg-id="" tvg-name="BR - TC Premium" tvg-logo="http://212.8.253.112/logo/LATINO/TCPremium.png" group-title="AM | LATINO",BR - TC Premium
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42502
+#EXTINF:-1 tvg-id="" tvg-name="BR - TC Touch" tvg-logo="http://212.8.253.112/logo/LATINO/TCTouch.png" group-title="AM | LATINO",BR - TC Touch
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42501
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Premium 1" tvg-logo="http://212.8.253.112/logo/LATINO/FOXPREMIUM1HD.png" group-title="AM | LATINO",BR - Fox Premium 1
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42500
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Premium 1 [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXPREMIUM1HD.png" group-title="AM | LATINO",BR - Fox Premium 1 [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42499
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Premium 1 [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXPREMIUM1HD.png" group-title="AM | LATINO",BR - Fox Premium 1 [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42498
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Premium 2" tvg-logo="http://212.8.253.112/logo/LATINO/FOXPREMIUM2HD.png" group-title="AM | LATINO",BR - Fox Premium 2
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42497
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Premium 2 [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXPREMIUM2HD.png" group-title="AM | LATINO",BR - Fox Premium 2 [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42496
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Premium 2 [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXPREMIUM2HD.png" group-title="AM | LATINO",BR - Fox Premium 2 [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42495
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fx" tvg-logo="http://212.8.253.112/logo/LATINO/FXHD.png" group-title="AM | LATINO",BR - Fx
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42494
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fx [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FXHD.png" group-title="AM | LATINO",BR - Fx [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42493
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fx [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FXHD.png" group-title="AM | LATINO",BR - Fx [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42492
+#EXTINF:-1 tvg-id="IdealTV.br" tvg-name="BR - ID" tvg-logo="http://212.8.253.112/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="AM | LATINO",BR - ID
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42491
+#EXTINF:-1 tvg-id="" tvg-name="BR - ID [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="AM | LATINO",BR - ID [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42490
+#EXTINF:-1 tvg-id="" tvg-name="BR - ID [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/PORTUGAL/IDINVESTIGATIONDISCOVERY.png" group-title="AM | LATINO",BR - ID [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42489
+#EXTINF:-1 tvg-id="" tvg-name="BR - H2" tvg-logo="http://212.8.253.112/logo/LATINO/HISTORYCHANNELHD.png" group-title="AM | LATINO",BR - H2
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42488
+#EXTINF:-1 tvg-id="" tvg-name="BR - H2 [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/HISTORYCHANNELHD.png" group-title="AM | LATINO",BR - H2 [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42487
+#EXTINF:-1 tvg-id="" tvg-name="BR - H2 [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/HISTORYCHANNELHD.png" group-title="AM | LATINO",BR - H2 [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42486
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO" tvg-logo="http://212.8.253.112/logo/LATINO/HBO.png" group-title="AM | LATINO",BR - HBO
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42485
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/HBO.png" group-title="AM | LATINO",BR - HBO [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42484
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/HBO.png" group-title="AM | LATINO",BR - HBO [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42483
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO2" tvg-logo="http://212.8.253.112/logo/LATINO/HBO2HD.png" group-title="AM | LATINO",BR - HBO2
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42482
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Family" tvg-logo="" group-title="AM | LATINO",BR - HBO Family
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42481
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Family [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/HBOFAMILY.png" group-title="AM | LATINO",BR - HBO Family [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42480
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Family [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/HBOFAMILY.png" group-title="AM | LATINO",BR - HBO Family [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42479
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Plus" tvg-logo="http://212.8.253.112/logo/LATINO/HBOPLUS.png" group-title="AM | LATINO",BR - HBO Plus
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42478
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Plus [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/HBOPLUS.png" group-title="AM | LATINO",BR - HBO Plus [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42477
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Plus [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/HBOPLUS.png" group-title="AM | LATINO",BR - HBO Plus [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42476
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Signature" tvg-logo="http://212.8.253.112/logo/LATINO/HBOHD.png" group-title="AM | LATINO",BR - HBO Signature
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42475
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Signature [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/HBOHD.png" group-title="AM | LATINO",BR - HBO Signature [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42474
+#EXTINF:-1 tvg-id="" tvg-name="BR - HBO Signature [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/HBOHD.png" group-title="AM | LATINO",BR - HBO Signature [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42473
+#EXTINF:-1 tvg-id="" tvg-name="BR - Lifetime" tvg-logo="http://212.8.253.112/logo/LATINO/LIFETIME.png" group-title="AM | LATINO",BR - Lifetime
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42472
+#EXTINF:-1 tvg-id="" tvg-name="BR - Lifetime [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/LIFETIME.png" group-title="AM | LATINO",BR - Lifetime [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42471
+#EXTINF:-1 tvg-id="" tvg-name="BR - Lifetime [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/LIFETIME.png" group-title="AM | LATINO",BR - Lifetime [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42470
+#EXTINF:-1 tvg-id="" tvg-name="BR - MAX" tvg-logo="http://212.8.253.112/logo/LATINO/MAX.png" group-title="AM | LATINO",BR - MAX
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42469
+#EXTINF:-1 tvg-id="" tvg-name="BR - MAX [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/MAX.png" group-title="AM | LATINO",BR - MAX [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42468
+#EXTINF:-1 tvg-id="" tvg-name="BR - MAX [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/MAX.png" group-title="AM | LATINO",BR - MAX [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42467
+#EXTINF:-1 tvg-id="" tvg-name="BR - MAX Prime" tvg-logo="http://212.8.253.112/logo/LATINO/MAXPRIME.png" group-title="AM | LATINO",BR - MAX Prime
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42466
+#EXTINF:-1 tvg-id="" tvg-name="BR - MAX Prime [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/MAXPRIME.png" group-title="AM | LATINO",BR - MAX Prime [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42465
+#EXTINF:-1 tvg-id="" tvg-name="BR - MAX Prime [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/MAXPRIME.png" group-title="AM | LATINO",BR - MAX Prime [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42464
+#EXTINF:-1 tvg-id="" tvg-name="BR - Max UP" tvg-logo="http://212.8.253.112/logo/LATINO/MAXUP.png" group-title="AM | LATINO",BR - Max UP
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42463
+#EXTINF:-1 tvg-id="" tvg-name="BR - Max UP [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/MAXUP.png" group-title="AM | LATINO",BR - Max UP [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42462
+#EXTINF:-1 tvg-id="" tvg-name="BR - Max UP [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/MAXUP.png" group-title="AM | LATINO",BR - Max UP [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42461
+#EXTINF:-1 tvg-id="" tvg-name="BR - Paramount" tvg-logo="http://212.8.253.112/logo/LATINO/PARAMOUNT.png" group-title="AM | LATINO",BR - Paramount
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42460
+#EXTINF:-1 tvg-id="" tvg-name="BR - Paramount [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/PARAMOUNT.png" group-title="AM | LATINO",BR - Paramount [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42459
+#EXTINF:-1 tvg-id="" tvg-name="BR - Paramount [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/PARAMOUNT.png" group-title="AM | LATINO",BR - Paramount [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42458
+#EXTINF:-1 tvg-id="" tvg-name="BR - Play TV" tvg-logo="http://212.8.253.112/logo/LATINO/PlayTV.png" group-title="AM | LATINO",BR - Play TV
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42457
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere 2" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 2
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42456
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere 3" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 3
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42455
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere 4" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 4
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42454
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere 5" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 5
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42453
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere 6" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 6
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42452
+#EXTINF:-1 tvg-id="PrimeBoxBrasil.br" tvg-name="BR - Premiere 7" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 7
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42451
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere 8" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere 8
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42450
+#EXTINF:-1 tvg-id="" tvg-name="BR - Premiere Clubes" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Premiere Clubes
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42449
+#EXTINF:-1 tvg-id="" tvg-name="BR - Prime Box" tvg-logo="http://212.8.253.112/logo/LATINO/PREMIERE.png" group-title="AM | LATINO",BR - Prime Box
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42448
+#EXTINF:-1 tvg-id="" tvg-name="BR - Rede Século 21" tvg-logo="" group-title="AM | LATINO",BR - Rede Século 21
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42447
+#EXTINF:-1 tvg-id="" tvg-name="BR - Rede Século 21 [AUDIO 1]" tvg-logo="" group-title="AM | LATINO",BR - Rede Século 21 [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42446
+#EXTINF:-1 tvg-id="" tvg-name="BR - Rede Século 21 [AUDIO 2]" tvg-logo="" group-title="AM | LATINO",BR - Rede Século 21 [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42445
+#EXTINF:-1 tvg-id="" tvg-name="BR - Rede Super" tvg-logo="http://212.8.253.112/logo/LATINO/REDETVHD.png" group-title="AM | LATINO",BR - Rede Super
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42444
+#EXTINF:-1 tvg-id="" tvg-name="BR - Rede Super [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/REDETVHD.png" group-title="AM | LATINO",BR - Rede Super [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42443
+#EXTINF:-1 tvg-id="" tvg-name="BR - Rede Super [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/REDETVHD.png" group-title="AM | LATINO",BR - Rede Super [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42442
+#EXTINF:-1 tvg-id="" tvg-name="BR - Sony" tvg-logo="http://212.8.253.112/logo/LATINO/SONY.png" group-title="AM | LATINO",BR - Sony
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42441
+#EXTINF:-1 tvg-id="" tvg-name="BR - Sony [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/SONY.png" group-title="AM | LATINO",BR - Sony [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42440
+#EXTINF:-1 tvg-id="" tvg-name="BR - Sony [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/SONY.png" group-title="AM | LATINO",BR - Sony [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42439
+#EXTINF:-1 tvg-id="" tvg-name="BR - Space" tvg-logo="http://212.8.253.112/logo/LATINO/SPACE.png" group-title="AM | LATINO",BR - Space
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42438
+#EXTINF:-1 tvg-id="" tvg-name="BR - Space [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/SPACE.png" group-title="AM | LATINO",BR - Space [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42437
+#EXTINF:-1 tvg-id="" tvg-name="BR - Space [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/SPACE.png" group-title="AM | LATINO",BR - Space [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42436
+#EXTINF:-1 tvg-id="" tvg-name="BR - Sundance Channel" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SUNDANCETVHD.png" group-title="AM | LATINO",BR - Sundance Channel
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42435
+#EXTINF:-1 tvg-id="" tvg-name="BR - Sundance Channel [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SUNDANCETVHD.png" group-title="AM | LATINO",BR - Sundance Channel [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42434
+#EXTINF:-1 tvg-id="" tvg-name="BR - Sundance Channel [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SUNDANCETVHD.png" group-title="AM | LATINO",BR - Sundance Channel [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42433
+#EXTINF:-1 tvg-id="" tvg-name="BR - Warner" tvg-logo="http://212.8.253.112/logo/LATINO/WARNERCHANNEL.png" group-title="AM | LATINO",BR - Warner
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42432
+#EXTINF:-1 tvg-id="" tvg-name="BR - Warner [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/WARNERCHANNEL.png" group-title="AM | LATINO",BR - Warner [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42431
+#EXTINF:-1 tvg-id="" tvg-name="BR - Warner [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/WARNERCHANNEL.png" group-title="AM | LATINO",BR - Warner [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42430
+#EXTINF:-1 tvg-id="" tvg-name="BR - TBS" tvg-logo="http://212.8.253.112/logo/LATINO/TBSHD.png" group-title="AM | LATINO",BR - TBS
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42429
+#EXTINF:-1 tvg-id="" tvg-name="BR - TBS [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/TBSHD.png" group-title="AM | LATINO",BR - TBS [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42428
+#EXTINF:-1 tvg-id="" tvg-name="BR - TBS [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/TBSHD.png" group-title="AM | LATINO",BR - TBS [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42427
+#EXTINF:-1 tvg-id="" tvg-name="BR - TCM" tvg-logo="http://212.8.253.112/logo/LATINO/TCM.png" group-title="AM | LATINO",BR - TCM
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42426
+#EXTINF:-1 tvg-id="" tvg-name="BR - TCM [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/TCM.png" group-title="AM | LATINO",BR - TCM [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42425
+#EXTINF:-1 tvg-id="" tvg-name="BR - TCM [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/TCM.png" group-title="AM | LATINO",BR - TCM [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42424
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="BR - TLC" tvg-logo="http://212.8.253.112/logo/LATINO/TLC.png" group-title="AM | LATINO",BR - TLC
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42423
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="BR - TLC [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/TLC.png" group-title="AM | LATINO",BR - TLC [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42422
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="BR - TLC [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/TLC.png" group-title="AM | LATINO",BR - TLC [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42421
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="BR - E!" tvg-logo="http://212.8.253.112/logo/LATINO/E%21ENTERTAINMENT.png" group-title="AM | LATINO",BR - E!
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42420
+#EXTINF:-1 tvg-id="" tvg-name="BR - E! [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/E%21ENTERTAINMENT.png" group-title="AM | LATINO",BR - E! [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42419
+#EXTINF:-1 tvg-id="" tvg-name="BR - E! [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/E%21ENTERTAINMENT.png" group-title="AM | LATINO",BR - E! [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42418
+#EXTINF:-1 tvg-id="" tvg-name="BR - TNT" tvg-logo="http://212.8.253.112/logo/LATINO/TNT.png" group-title="AM | LATINO",BR - TNT
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42417
+#EXTINF:-1 tvg-id="" tvg-name="BR - TNT [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/TNT.png" group-title="AM | LATINO",BR - TNT [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42416
+#EXTINF:-1 tvg-id="" tvg-name="BR - TNT [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/TNT.png" group-title="AM | LATINO",BR - TNT [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42415
+#EXTINF:-1 tvg-id="" tvg-name="BR - TNT Series" tvg-logo="http://212.8.253.112/logo/LATINO/TNTSERIES.png" group-title="AM | LATINO",BR - TNT Series
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42414
+#EXTINF:-1 tvg-id="" tvg-name="BR - TNT Series [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/TNTSERIES.png" group-title="AM | LATINO",BR - TNT Series [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42413
+#EXTINF:-1 tvg-id="" tvg-name="BR - TNT Series [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/TNTSERIES.png" group-title="AM | LATINO",BR - TNT Series [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42412
+#EXTINF:-1 tvg-id="" tvg-name="BR - Woohoo" tvg-logo="http://212.8.253.112/logo/LATINO/WOOHOO.png" group-title="AM | LATINO",BR - Woohoo
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42411
+#EXTINF:-1 tvg-id="" tvg-name="BR - Zoomoo" tvg-logo="http://212.8.253.112/logo/LATINO/Zoomoo.png" group-title="AM | LATINO",BR - Zoomoo
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42410
+#EXTINF:-1 tvg-id="" tvg-name="##### BR - SPORT #####" tvg-logo="" group-title="AM | LATINO",##### BR - SPORT #####
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42409
+#EXTINF:-1 tvg-id="" tvg-name="BR - Band Sports" tvg-logo="http://212.8.253.112/logo/LATINO/BANDSPORTS.png" group-title="AM | LATINO",BR - Band Sports
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42408
+#EXTINF:-1 tvg-id="" tvg-name="BR - Combate" tvg-logo="http://212.8.253.112/logo/LATINO/COMBATEHD.png" group-title="AM | LATINO",BR - Combate
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42407
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN BR" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN BR
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42406
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Extra" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Extra
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42405
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Extra [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Extra [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42404
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Extra [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Extra [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42403
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Int." tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Int.
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42402
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Int. [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Int. [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42401
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Int. [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Int. [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42400
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Plus" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Plus
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42399
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Plus [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Plus [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42398
+#EXTINF:-1 tvg-id="" tvg-name="BR - ESPN Plus [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/ESPNHD.png" group-title="AM | LATINO",BR - ESPN Plus [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42397
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Sports" tvg-logo="http://212.8.253.112/logo/LATINO/FOXSPORT.png" group-title="AM | LATINO",BR - Fox Sports
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42396
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Sports [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXSPORT.png" group-title="AM | LATINO",BR - Fox Sports [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42395
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Sports [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXSPORT.png" group-title="AM | LATINO",BR - Fox Sports [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42394
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Sports 2" tvg-logo="http://212.8.253.112/logo/LATINO/FOXSPORT2.png" group-title="AM | LATINO",BR - Fox Sports 2
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42393
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Sports 2 [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXSPORT2.png" group-title="AM | LATINO",BR - Fox Sports 2 [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42392
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fox Sports 2 [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/FOXSPORT2.png" group-title="AM | LATINO",BR - Fox Sports 2 [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42391
+#EXTINF:-1 tvg-id="" tvg-name="BR - SporTV" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" group-title="AM | LATINO",BR - SporTV
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42390
+#EXTINF:-1 tvg-id="" tvg-name="BR - SporTV 2" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" group-title="AM | LATINO",BR - SporTV 2
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42389
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="BR - SporTV 3" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" group-title="AM | LATINO",BR - SporTV 3
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42388
+#EXTINF:-1 tvg-id="" tvg-name="##### BR - KIDS #####" tvg-logo="" group-title="AM | LATINO",##### BR - KIDS #####
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42387
+#EXTINF:-1 tvg-id="" tvg-name="BR - Boomerang" tvg-logo="http://212.8.253.112/logo/LATINO/BOOMERANG.png" group-title="AM | LATINO",BR - Boomerang
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42386
+#EXTINF:-1 tvg-id="" tvg-name="BR - Boomerang [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/BOOMERANG.png" group-title="AM | LATINO",BR - Boomerang [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42385
+#EXTINF:-1 tvg-id="" tvg-name="BR - Boomerang [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/BOOMERANG.png" group-title="AM | LATINO",BR - Boomerang [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42384
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cartoon Network" tvg-logo="http://212.8.253.112/logo/LATINO/CARTOONNETWORK.png" group-title="AM | LATINO",BR - Cartoon Network
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42383
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cartoon Network [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/CARTOONNETWORK.png" group-title="AM | LATINO",BR - Cartoon Network [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42382
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cartoon Network [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/CARTOONNETWORK.png" group-title="AM | LATINO",BR - Cartoon Network [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42381
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Kids" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYKIDS.png" group-title="AM | LATINO",BR - Discovery Kids
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42380
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Kids [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYKIDS.png" group-title="AM | LATINO",BR - Discovery Kids [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42379
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Kids [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYKIDS.png" group-title="AM | LATINO",BR - Discovery Kids [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42378
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney Channel" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",BR - Disney Channel
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42377
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney Channel [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",BR - Disney Channel [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42376
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney Channel [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",BR - Disney Channel [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42375
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney JR" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYJR.png" group-title="AM | LATINO",BR - Disney JR
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42374
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney JR [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYJR.png" group-title="AM | LATINO",BR - Disney JR [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42373
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney JR [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYJR.png" group-title="AM | LATINO",BR - Disney JR [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42372
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney XD" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",BR - Disney XD
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42371
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney XD [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",BR - Disney XD [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42370
+#EXTINF:-1 tvg-id="" tvg-name="BR - Disney XD [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISNEYCHANNEL.png" group-title="AM | LATINO",BR - Disney XD [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42369
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo Kids [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEO.png" group-title="AM | LATINO",BR - NatGeo Kids [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42368
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo Kids [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEO.png" group-title="AM | LATINO",BR - NatGeo Kids [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42367
+#EXTINF:-1 tvg-id="" tvg-name="BR - Nick JR" tvg-logo="http://212.8.253.112/logo/LATINO/NICKJR.png" group-title="AM | LATINO",BR - Nick JR
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42366
+#EXTINF:-1 tvg-id="" tvg-name="BR - Nick JR [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/NICKJR.png" group-title="AM | LATINO",BR - Nick JR [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42365
+#EXTINF:-1 tvg-id="" tvg-name="BR - Nick JR [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/NICKJR.png" group-title="AM | LATINO",BR - Nick JR [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42364
+#EXTINF:-1 tvg-id="" tvg-name="BR - Nickelodeon" tvg-logo="http://212.8.253.112/logo/LATINO/NICKELODEON.png" group-title="AM | LATINO",BR - Nickelodeon
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42363
+#EXTINF:-1 tvg-id="" tvg-name="BR - Nickelodeon [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/NICKELODEON.png" group-title="AM | LATINO",BR - Nickelodeon [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42362
+#EXTINF:-1 tvg-id="" tvg-name="BR - Nickelodeon [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/NICKELODEON.png" group-title="AM | LATINO",BR - Nickelodeon [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42361
+#EXTINF:-1 tvg-id="" tvg-name="BR - Tooncast" tvg-logo="http://212.8.253.112/logo/LATINO/TOONCAST.png" group-title="AM | LATINO",BR - Tooncast
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42360
+#EXTINF:-1 tvg-id="" tvg-name="BR - Tooncast [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/TOONCAST.png" group-title="AM | LATINO",BR - Tooncast [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42359
+#EXTINF:-1 tvg-id="" tvg-name="BR - Tooncast [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/TOONCAST.png" group-title="AM | LATINO",BR - Tooncast [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42358
+#EXTINF:-1 tvg-id="" tvg-name="##### BR - DOCUMANTARY #####" tvg-logo="" group-title="AM | LATINO",##### BR - DOCUMANTARY #####
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42357
+#EXTINF:-1 tvg-id="" tvg-name="BR - Animal Planet" tvg-logo="http://212.8.253.112/logo/LATINO/ANIMALPLANET.png" group-title="AM | LATINO",BR - Animal Planet
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42356
+#EXTINF:-1 tvg-id="" tvg-name="BR - Animal Planet [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/ANIMALPLANET.png" group-title="AM | LATINO",BR - Animal Planet [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42355
+#EXTINF:-1 tvg-id="" tvg-name="BR - Animal Planet [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/ANIMALPLANET.png" group-title="AM | LATINO",BR - Animal Planet [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42354
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42353
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42352
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42351
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Civilization" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery Civilization
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42350
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Civilization [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery Civilization [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42349
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Civilization [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery Civilization [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42348
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery H&H" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery H&H
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42347
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery H&H [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery H&H [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42346
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery H&H [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery H&H [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42345
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Science" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYSCIENCE.png" group-title="AM | LATINO",BR - Discovery Science
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42344
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Science [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYSCIENCE.png" group-title="AM | LATINO",BR - Discovery Science [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42343
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Science [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYSCIENCE.png" group-title="AM | LATINO",BR - Discovery Science [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42342
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Theater" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery Theater
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42341
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Theater [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery Theater [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42340
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Theater [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery Theater [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42339
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Turbo" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYTURBO.png" group-title="AM | LATINO",BR - Discovery Turbo
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42338
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Turbo [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYTURBO.png" group-title="AM | LATINO",BR - Discovery Turbo [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42337
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery Turbo [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYTURBO.png" group-title="AM | LATINO",BR - Discovery Turbo [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42336
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery World" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery World
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42335
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery World [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery World [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42334
+#EXTINF:-1 tvg-id="" tvg-name="BR - Discovery World [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/DISCOVERYCHANNEL.png" group-title="AM | LATINO",BR - Discovery World [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42333
+#EXTINF:-1 tvg-id="" tvg-name="BR - History" tvg-logo="http://212.8.253.112/logo/LATINO/HISTORYCHANNELHD.png" group-title="AM | LATINO",BR - History
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42332
+#EXTINF:-1 tvg-id="" tvg-name="BR - History [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/HISTORYCHANNELHD.png" group-title="AM | LATINO",BR - History [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42331
+#EXTINF:-1 tvg-id="" tvg-name="BR - History [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/HISTORYCHANNELHD.png" group-title="AM | LATINO",BR - History [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42330
+#EXTINF:-1 tvg-id="" tvg-name="BR - Trutv" tvg-logo="http://212.8.253.112/logo/LATINO/Trutv.png" group-title="AM | LATINO",BR - Trutv
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42329
+#EXTINF:-1 tvg-id="" tvg-name="BR - Trutv [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/Trutv.png" group-title="AM | LATINO",BR - Trutv [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42328
+#EXTINF:-1 tvg-id="" tvg-name="BR - Trutv [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/Trutv.png" group-title="AM | LATINO",BR - Trutv [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42327
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEO.png" group-title="AM | LATINO",BR - NatGeo
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42326
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEO.png" group-title="AM | LATINO",BR - NatGeo [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42325
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEO.png" group-title="AM | LATINO",BR - NatGeo [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42324
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo Kids" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEO.png" group-title="AM | LATINO",BR - NatGeo Kids
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42323
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo Wild" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEOWILD.png" group-title="AM | LATINO",BR - NatGeo Wild
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42322
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo Wild [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEOWILD.png" group-title="AM | LATINO",BR - NatGeo Wild [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42321
+#EXTINF:-1 tvg-id="" tvg-name="BR - NatGeo Wild [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/NATGEOWILD.png" group-title="AM | LATINO",BR - NatGeo Wild [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42320
+#EXTINF:-1 tvg-id="" tvg-name="##### BR - MUSIC #####" tvg-logo="" group-title="AM | LATINO",##### BR - MUSIC #####
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42319
+#EXTINF:-1 tvg-id="" tvg-name="BR - MTV HD" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MTVPORTUGAL.png" group-title="AM | LATINO",BR - MTV HD
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42318
+#EXTINF:-1 tvg-id="" tvg-name="BR - MTV HD [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MTVPORTUGAL.png" group-title="AM | LATINO",BR - MTV HD [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42317
+#EXTINF:-1 tvg-id="" tvg-name="BR - MTV HD [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MTVPORTUGAL.png" group-title="AM | LATINO",BR - MTV HD [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42316
+#EXTINF:-1 tvg-id="" tvg-name="BR - Music Box Brasil" tvg-logo="http://212.8.253.112/logo/LATINO/MusicBoxBrasil.png" group-title="AM | LATINO",BR - Music Box Brasil
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42315
+#EXTINF:-1 tvg-id="" tvg-name="BR - VH1 Mega Hits" tvg-logo="http://212.8.253.112/logo/LATINO/VH1.png" group-title="AM | LATINO",BR - VH1 Mega Hits
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42314
+#EXTINF:-1 tvg-id="" tvg-name="BR - VH1 Mega Hits [AUDIO 1]" tvg-logo="http://212.8.253.112/logo/LATINO/VH1.png" group-title="AM | LATINO",BR - VH1 Mega Hits [AUDIO 1]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42313
+#EXTINF:-1 tvg-id="" tvg-name="BR - VH1 Mega Hits [AUDIO 2]" tvg-logo="http://212.8.253.112/logo/LATINO/VH1.png" group-title="AM | LATINO",BR - VH1 Mega Hits [AUDIO 2]
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42312
+#EXTINF:-1 tvg-id="" tvg-name="##### BR - GENERAL #####" tvg-logo="" group-title="AM | LATINO",##### BR - GENERAL #####
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42311
+#EXTINF:-1 tvg-id="" tvg-name="BR - Agro canal" tvg-logo="" group-title="AM | LATINO",BR - Agro canal
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42310
+#EXTINF:-1 tvg-id="" tvg-name="BR - Arte1" tvg-logo="http://212.8.253.112/logo/LATINO/ARTS.png" group-title="AM | LATINO",BR - Arte1
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42309
+#EXTINF:-1 tvg-id="" tvg-name="BR - BAND" tvg-logo="http://212.8.253.112/logo/LATINO/BAND.png" group-title="AM | LATINO",BR - BAND
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42308
+#EXTINF:-1 tvg-id="" tvg-name="BR - BBB" tvg-logo="" group-title="AM | LATINO",BR - BBB
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42307
+#EXTINF:-1 tvg-id="" tvg-name="BR - Canal do Boi" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALQ.png" group-title="AM | LATINO",BR - Canal do Boi
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42306
+#EXTINF:-1 tvg-id="" tvg-name="BR - Chef TV" tvg-logo="http://212.8.253.112/logo/LATINO/ChefTV.png" group-title="AM | LATINO",BR - Chef TV
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42305
+#EXTINF:-1 tvg-id="" tvg-name="BR - Cultura" tvg-logo="http://212.8.253.112/logo/LATINO/Cultura.png" group-title="AM | LATINO",BR - Cultura
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42304
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fashion TV Brasil" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FTV.png" group-title="AM | LATINO",BR - Fashion TV Brasil
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42303
+#EXTINF:-1 tvg-id="" tvg-name="BR - Fish TV" tvg-logo="" group-title="AM | LATINO",BR - Fish TV
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42302
+#EXTINF:-1 tvg-id="" tvg-name="BR - Food Networks" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOODNETWORK.png" group-title="AM | LATINO",BR - Food Networks
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42301
+#EXTINF:-1 tvg-id="" tvg-name="BR - Isat" tvg-logo="http://212.8.253.112/logo/LATINO/Isat.png" group-title="AM | LATINO",BR - Isat
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42300
+#EXTINF:-1 tvg-id="" tvg-name="BR - Mais Globosat" tvg-logo="http://212.8.253.112/logo/LATINO/MAISGLOBOSAT.png" group-title="AM | LATINO",BR - Mais Globosat
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42299
+#EXTINF:-1 tvg-id="" tvg-name="BR - NBR" tvg-logo="http://212.8.253.112/logo/LATINO/Agrocanal.png" group-title="AM | LATINO",BR - NBR
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42298
+#EXTINF:-1 tvg-id="" tvg-name="BR - SBT" tvg-logo="http://212.8.253.112/logo/LATINO/SBT1986.png" group-title="AM | LATINO",BR - SBT
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42297
+#EXTINF:-1 tvg-id="" tvg-name="BR - Shoptime" tvg-logo="http://212.8.253.112/logo/LATINO/Shoptime.png" group-title="AM | LATINO",BR - Shoptime
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42296
+#EXTINF:-1 tvg-id="" tvg-name="BR - Travel Box Brasil" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TRAVELCHANNELHD.png" group-title="AM | LATINO",BR - Travel Box Brasil
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42295
+#EXTINF:-1 tvg-id="" tvg-name="BR - TV Camara" tvg-logo="http://212.8.253.112/logo/LATINO/TVCamara.png" group-title="AM | LATINO",BR - TV Camara
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42294
+#EXTINF:-1 tvg-id="" tvg-name="BR - TV Escola" tvg-logo="" group-title="AM | LATINO",BR - TV Escola
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42293
+#EXTINF:-1 tvg-id="" tvg-name="BR - TV Justiça" tvg-logo="" group-title="AM | LATINO",BR - TV Justiça
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42292
+#EXTINF:-1 tvg-id="" tvg-name="BR - TV Rá Tim Bum" tvg-logo="" group-title="AM | LATINO",BR - TV Rá Tim Bum
+http://tvservice.pro:80/912593348500/rmilTZ7JOsnHJS4/42291
+#EXTINF:-1 tvg-id="" tvg-name="BR - TV Senado" tvg-logo="http://212.8.253.112/logo/LATINO/TVSenado.png" group-title="AM | LATINO",BR - TV Senado
