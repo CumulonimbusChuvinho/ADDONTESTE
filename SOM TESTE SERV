@@ -1,27 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Alt R&B
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
-#EXTINF:-1,BEATLES
-http://media01.goonhilly.mystreaming.net:8081/exclusively/beatles128/icecast.audio
-#EXTINF:-1,ELTON JONH
-http://media01.goonhilly.mystreaming.net:8081/exclusively/eltonjohn_hits128/icecast.audio
-#EXTINF:-1,COLPLAY
-http://media01.goonhilly.mystreaming.net:8081/exclusively/coldplay_hits128/icecast.audio
-#EXTINF:-1,JUSTIN BIEBER
-http://media01.goonhilly.mystreaming.net:8081/exclusively/Bieber128/icecast.audio
-#EXTINF:-1,GEORGE MICHAEL
-http://media01.goonhilly.mystreaming.net:8081/exclusively/georgemichael_hits128/icecast.audio
-#EXTINF:-1,ABBA
-http://media01.goonhilly.mystreaming.net:8081/exclusively/abba128/icecast.audio
-#EXTINF:-1,ADELE
-http://media01.goonhilly.mystreaming.net:8081/exclusively/AdeleHits128/icecast.audio
-#EXTINF:-1,LADY GA GA
-http://media01.goonhilly.mystreaming.net:8081/exclusively/Gaga128/icecast.audio
-#EXTINF:-1,JUSTIN TIMBERLAKE
-http://media01.goonhilly.mystreaming.net:8081/exclusively/TimberlakeHits128/icecast.audio
-#EXTINF:-1,BEYONCE
-http://media01.goonhilly.mystreaming.net:8081/exclusively/beyonce_hits128/icecast.audio
-#EXTINF:-1,***** Alternative
+
+
+#EXTINF:-1,* Alternative
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
 #EXTINF:-1,Alt R&B
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
