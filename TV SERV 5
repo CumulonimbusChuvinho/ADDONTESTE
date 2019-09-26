@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/YF8SjD?" group-title="TV ABERTA SD",> > > TV ABERTA SD < < <
-http://painel.conectiptv.com:25
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="GloboRj.igor"  tvg-logo="http://goo.gl/rVvARj?" group-title="TV ABERTA SD",GLOBO RJ
 http://144.217.181.63:25461/live/bztodQJQK8/N7NvhkF3XJ/197.m3u8|User-Agent=NetunuPlayer/2.0
 
