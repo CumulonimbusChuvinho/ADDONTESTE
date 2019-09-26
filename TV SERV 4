@@ -1,237 +1,1219 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
-
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
-
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO SD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="SBT MT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - CENTRO OESTE MT
-http://streamingbr.engelhosting.com.br:1935/tvcentro/ngrp:tvcentro_all/chunklist_w1194166640_b899072.m3u8
-
-#EXTINF:-1 tvg-id="SBT PI" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - PE | CARUARÚ
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
-
-#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
-
-#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - MA | IMPERATRIZ
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo SD
-https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND SP
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-
-#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/tntla-main-theme/images/custom/thumb.jpg" group-title="Canais", TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-
-#EXTINF:-1 tvg-id="SBT GO" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="Canais", Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="Canais", JOGO ABERTO
-http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
-
-#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", OS DONOS DA BOLA 
-http://evpp.mm.uol.com.br/geob_band/donosdabola/chunklist_w167933638.m3u8
-
-#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8?wowzasessionid=1122952623
-
-#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
-http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="Canais", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV SP
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais",  REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/playlist.m3u8 
-
-#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
-https://v5.ciclano.io:1443/8064/8064/chunklist_w1831324492.m3u8
-
-#EXTINF:-1 tvg-id"REDE TV! - RONDÔNIA"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV! - RONDÔNIA
-http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD MT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais",RECORD TV ÁGUA BOA
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-
-#EXTINF:-1 tvg-id="RECORD AM" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV ACRITICA - RECORD AM
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
-
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
-
-#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD GO
-http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_src.m3u8
-
-#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RIC TV - RECORD PARÁ
-http://streaming.sc.gruporic.com.br:80/show/ric_hd720.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD RN
-http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD MT
-http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
-
-#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD MT
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RECORD"  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV VITORIA - RECORD 
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
-
-#EXTINF:-1 tvg-id="RECORD - ANGOLA" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD - ANGOLA
-http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8
-
-#EXTINF:-1 tvg-id="REDE FAMÍLIA" tvg-logo= "http://i.imgur.com/sQwm6Cl.png" group-title="Canais", REDE FAMÍLIA HD
-http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/chunklist_w70546248_b900000.m3u8
-
-#EXTINF:-1 tvg-id="REDE FAMÍLIA" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Canais", REDE FAMÍLIA HD
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV DIARIO" tvg-logo="https://i.imgur.com/QbosxSO.png" group-title="Canais", TV DIARIO
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVE BA HD" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="Canais", TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="Canais", REDE BRASIL®
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="Canais", REDE BRASIL®
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
-
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="Canais", TV EDUCATIVA
-http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="TV GAZETA" tvg-logo="https://i.imgur.com/xJu4BeH.png" group-title="Canais", TV GAZETA HD
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="Canais", TV CULTURA PARAÍBA
-http://177.73.84.49:80/hls/live/live.m3u8 
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="Canais", TV CULTURA PARAÍBA
-http://ftp.tvitarare.com.br:80/hls/live/live.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais", TV CULTURA HD
-http://177.73.84.49/hls/live/live.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA"tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais",TV CULTURA MG
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais",TV CULTURA PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="Canais", TV CULTURA BAHIA HD
-http://cdn2.comets.com.br/tvbaianahd/aovivo/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4LILIHo.png?1" group-title="Canais",TVU RECIFE
-http://150.161.93.173/hls/720/index.m3u8
-
-#EXTINF:-1 tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="Canais", CAT TVE
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
- 
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="Canais", TV FUTURA HD
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="Canais", TV FUTURA HD
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w895775698.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
-http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
-
-#EXTINF:-1 tvg-id="TV FUTURA" tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="Canais", TV UP HD
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV ESCOLA" tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="Canais", TV ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TV AMAZON SAT" tvg-logo="https://i.imgur.com/kESeqRG.png" group-title="Canais", TV AMAZON SAT
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MUNDO TV" tvg-logo="https://i.imgur.com/H3UFeT5.png?1" group-title="Canais", MUNDO TV
-https://v6.ciclano.io:1443/mundotvpgm/_definst_/mundotvpgm/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="1001 NOITES" tvg-logo="https://i.imgur.com/ojWfXDH.png" group-title="Canais",1001 NOITES
-http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m6WLkqU.png" group-title="Canais", JÓIAS VIP
-http://ams2.dtcompany.com.br:1935/live/smil:joiasvip.smil/chunklist_b1396000_slpor.m3u8
-
-#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 tvg-id="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais",NBR
-http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
- 
-#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="Canais", TV CÂMARA
-http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
-
-#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="Canais", TV CÂMARA
-http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="Canais", TV CÂMARA
-http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="https://i.imgur.com/6MSLLIa.png" group-title="Canais",TERRA VIVA
-http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
-
-#EXTINF:-1 tvg-id="NOVO CANAL" tvg-logo="https://i.imgur.com/SganCH2.png?1" group-title="Canais", NOVO CANAL
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="AGRO BRASIL" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="Canais", AGRO BRASIL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CANAL RURAL X" tvg-logo="https://i.imgur.com/FdKHLtc.png?1" group-title="Canais",CANAL RURAL X
-http://77149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="Canais", CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-id="CANAL RURAL" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais",CANAL RURAL
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
-
-#EXTINF:-1 tvg-id="POLISHOP TV" tvg-logo="https://i.imgur.com/1bg86Dc.png?1" group-title="Canais", POLISHOP TV
-http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/chunklist_w1266858146.m3u8
-
-#EXTINF:-1 tvg-logo="https://painel.kshost.com.br/sites/canalricos.com.br/images/logo/user_1064536032.jpg" group-title="Canais", CANAL RICOS
-http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8 
+#EXTINF:-1,A&E
+http://lista.digitalgroup.me:80/3329/1234/1120
+#EXTINF:-1,A&E FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46898
+#EXTINF:-1,A&E HD
+http://lista.digitalgroup.me:80/3329/1234/5078
+#EXTINF:-1,AMC
+http://lista.digitalgroup.me:80/3329/1234/9609
+#EXTINF:-1,AMC FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26029
+#EXTINF:-1,AMC HD
+http://lista.digitalgroup.me:80/3329/1234/15406
+#EXTINF:-1,ANIMAL PLANET
+http://lista.digitalgroup.me:80/3329/1234/1719
+#EXTINF:-1,ANIMAL PLANET FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46899
+#EXTINF:-1,ANIMAL PLANET HD
+http://lista.digitalgroup.me:80/3329/1234/1117
+#EXTINF:-1,APARECIDA
+http://lista.digitalgroup.me:80/3329/1234/916
+#EXTINF:-1,APARECIDA HD
+http://lista.digitalgroup.me:80/3329/1234/20831
+#EXTINF:-1,ARTE 1 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50191
+#EXTINF:-1,ARTE 1 HD
+http://lista.digitalgroup.me:80/3329/1234/20795
+#EXTINF:-1,AXN
+http://lista.digitalgroup.me:80/3329/1234/1712
+#EXTINF:-1,AXN FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5033
+#EXTINF:-1,AXN HD
+http://lista.digitalgroup.me:80/3329/1234/1114
+#EXTINF:-1,BAND NEWS
+http://lista.digitalgroup.me:80/3329/1234/1107
+#EXTINF:-1,BAND NEWS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18028
+#EXTINF:-1,BAND NEWS HD
+http://lista.digitalgroup.me:80/3329/1234/17951
+#EXTINF:-1,BAND SP
+http://lista.digitalgroup.me:80/3329/1234/1713
+#EXTINF:-1,BAND SP FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46900
+#EXTINF:-1,BAND SP HD
+http://lista.digitalgroup.me:80/3329/1234/1108
+#EXTINF:-1,BAND SPORTS
+http://lista.digitalgroup.me:80/3329/1234/1106
+#EXTINF:-1,BAND SPORTS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5034
+#EXTINF:-1,BAND SPORTS HD
+http://lista.digitalgroup.me:80/3329/1234/2407
+#EXTINF:-1,BIS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26028
+#EXTINF:-1,BIS HD
+http://lista.digitalgroup.me:80/3329/1234/1104
+#EXTINF:-1,BIS SD 1
+http://lista.digitalgroup.me:80/3329/1234/38740
+#EXTINF:-1,BIS SD 2
+http://lista.digitalgroup.me:80/3329/1234/38739
+#EXTINF:-1,BIS SD 3
+http://lista.digitalgroup.me:80/3329/1234/38738
+#EXTINF:-1,BIS SD 4
+http://lista.digitalgroup.me:80/3329/1234/2408
+#EXTINF:-1,BIS SD+
+http://lista.digitalgroup.me:80/3329/1234/24187
+#EXTINF:-1,BOOMERANG
+http://lista.digitalgroup.me:80/3329/1234/1102
+#EXTINF:-1,BOOMERANG FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46901
+#EXTINF:-1,BOOMERANG HD
+http://lista.digitalgroup.me:80/3329/1234/20801
+#EXTINF:-1,CANAL BRASIL HD
+http://lista.digitalgroup.me:80/3329/1234/5079
+#EXTINF:-1,CANAL BRASIL SD 1
+http://lista.digitalgroup.me:80/3329/1234/38743
+#EXTINF:-1,CANAL BRASIL SD 2
+http://lista.digitalgroup.me:80/3329/1234/38742
+#EXTINF:-1,CANAL BRASIL SD 3
+http://lista.digitalgroup.me:80/3329/1234/38741
+#EXTINF:-1,CANAL BRASIL SD 4
+http://lista.digitalgroup.me:80/3329/1234/1098
+#EXTINF:-1,CANAL BRASIL SD+
+http://lista.digitalgroup.me:80/3329/1234/24745
+#EXTINF:-1,CANAL DO BOI
+http://lista.digitalgroup.me:80/3329/1234/2382
+#EXTINF:-1,CANAL RURAL
+http://lista.digitalgroup.me:80/3329/1234/2482
+#EXTINF:-1,CANCAO NOVA
+http://lista.digitalgroup.me:80/3329/1234/1220
+#EXTINF:-1,CANCAO NOVA HD
+http://lista.digitalgroup.me:80/3329/1234/38470
+#EXTINF:-1,CANCAO NOVA SD+
+http://lista.digitalgroup.me:80/3329/1234/37784
+#EXTINF:-1,CARTOON NETWORK
+http://lista.digitalgroup.me:80/3329/1234/1095
+#EXTINF:-1,CARTOON NETWORK FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26032
+#EXTINF:-1,CARTOON NETWORK HD
+http://lista.digitalgroup.me:80/3329/1234/2479
+#EXTINF:-1,CARTOON NETWORK SD+
+http://lista.digitalgroup.me:80/3329/1234/43516
+#EXTINF:-1,CINEMAX
+http://lista.digitalgroup.me:80/3329/1234/2483
+#EXTINF:-1,CINEMAX FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26027
+#EXTINF:-1,CINEMAX HD
+http://lista.digitalgroup.me:80/3329/1234/5080
+#EXTINF:-1,COMBATE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18019
+#EXTINF:-1,COMBATE HD
+http://lista.digitalgroup.me:80/3329/1234/1088
+#EXTINF:-1,COMBATE SD 1
+http://lista.digitalgroup.me:80/3329/1234/38746
+#EXTINF:-1,COMBATE SD 2
+http://lista.digitalgroup.me:80/3329/1234/38745
+#EXTINF:-1,COMBATE SD 3
+http://lista.digitalgroup.me:80/3329/1234/38744
+#EXTINF:-1,COMBATE SD 4
+http://lista.digitalgroup.me:80/3329/1234/1089
+#EXTINF:-1,COMBATE SD+
+http://lista.digitalgroup.me:80/3329/1234/22442
+#EXTINF:-1,COMEDY CENTRAL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46902
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.digitalgroup.me:80/3329/1234/16004
+#EXTINF:-1,COPA LIBERTADORES 2019 HD
+http://lista.digitalgroup.me:80/3329/1234/48114
+#EXTINF:-1,DAZN FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46924
+#EXTINF:-1,DAZN HD
+http://lista.digitalgroup.me:80/3329/1234/46925
+#EXTINF:-1,DEUTSCH
+http://lista.digitalgroup.me:80/3329/1234/18034
+#EXTINF:-1,DEUTSCH HD
+http://lista.digitalgroup.me:80/3329/1234/37776
+#EXTINF:-1,DEUTSCH SD+
+http://lista.digitalgroup.me:80/3329/1234/38471
+#EXTINF:-1,DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/3329/1234/1084
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5035
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/3329/1234/2410
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://lista.digitalgroup.me:80/3329/1234/20805
+#EXTINF:-1,DISCOVERY CIVILIZATION FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26026
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://lista.digitalgroup.me:80/3329/1234/16005
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://lista.digitalgroup.me:80/3329/1234/2399
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46905
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://lista.digitalgroup.me:80/3329/1234/1082
+#EXTINF:-1,DISCOVERY KIDS
+http://lista.digitalgroup.me:80/3329/1234/1080
+#EXTINF:-1,DISCOVERY KIDS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26025
+#EXTINF:-1,DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/3329/1234/5081
+#EXTINF:-1,DISCOVERY SCIENCE
+http://lista.digitalgroup.me:80/3329/1234/20806
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26024
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://lista.digitalgroup.me:80/3329/1234/16006
+#EXTINF:-1,DISCOVERY THEATER
+http://lista.digitalgroup.me:80/3329/1234/20807
+#EXTINF:-1,DISCOVERY THEATER FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26023
+#EXTINF:-1,DISCOVERY THEATER HD
+http://lista.digitalgroup.me:80/3329/1234/2460
+#EXTINF:-1,DISCOVERY TURBO
+http://lista.digitalgroup.me:80/3329/1234/1072
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5038
+#EXTINF:-1,DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/3329/1234/2411
+#EXTINF:-1,DISCOVERY WORLD
+http://lista.digitalgroup.me:80/3329/1234/20808
+#EXTINF:-1,DISCOVERY WORLD FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26022
+#EXTINF:-1,DISCOVERY WORLD HD
+http://lista.digitalgroup.me:80/3329/1234/2461
+#EXTINF:-1,DISNEY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46904
+#EXTINF:-1,DISNEY CHANNEL HD 1
+http://lista.digitalgroup.me:80/3329/1234/38438
+#EXTINF:-1,DISNEY CHANNEL HD 2
+http://lista.digitalgroup.me:80/3329/1234/5082
+#EXTINF:-1,DISNEY CHANNEL SD
+http://lista.digitalgroup.me:80/3329/1234/38763
+#EXTINF:-1,DISNEY CHANNEL SD+
+http://lista.digitalgroup.me:80/3329/1234/1071
+#EXTINF:-1,DISNEY JR FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26021
+#EXTINF:-1,DISNEY JR HD
+http://lista.digitalgroup.me:80/3329/1234/20809
+#EXTINF:-1,DISNEY JR SD 1
+http://lista.digitalgroup.me:80/3329/1234/38783
+#EXTINF:-1,DISNEY JR SD 2
+http://lista.digitalgroup.me:80/3329/1234/1068
+#EXTINF:-1,DISNEY JR SD+
+http://lista.digitalgroup.me:80/3329/1234/38441
+#EXTINF:-1,DISNEY XD HD
+http://lista.digitalgroup.me:80/3329/1234/20810
+#EXTINF:-1,DISNEY XD SD 1
+http://lista.digitalgroup.me:80/3329/1234/38761
+#EXTINF:-1,DISNEY XD SD 2
+http://lista.digitalgroup.me:80/3329/1234/1065
+#EXTINF:-1,DISNEY XD SD+
+http://lista.digitalgroup.me:80/3329/1234/38440
+#EXTINF:-1,E!
+http://lista.digitalgroup.me:80/3329/1234/1063
+#EXTINF:-1,EI PLUS
+http://lista.digitalgroup.me:80/3329/1234/42916
+#EXTINF:-1,EI PLUS HD
+http://lista.digitalgroup.me:80/3329/1234/42914
+#EXTINF:-1,ESPN 1 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26044
+#EXTINF:-1,ESPN 1 HD
+http://lista.digitalgroup.me:80/3329/1234/1129
+#EXTINF:-1,ESPN 1 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38754
+#EXTINF:-1,ESPN 1 SD 2
+http://lista.digitalgroup.me:80/3329/1234/1718
+#EXTINF:-1,ESPN 1 SD+
+http://lista.digitalgroup.me:80/3329/1234/38387
+#EXTINF:-1,ESPN 2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26043
+#EXTINF:-1,ESPN 2 HD
+http://lista.digitalgroup.me:80/3329/1234/2394
+#EXTINF:-1,ESPN 2 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38756
+#EXTINF:-1,ESPN 2 SD 2
+http://lista.digitalgroup.me:80/3329/1234/2395
+#EXTINF:-1,ESPN 2 SD+
+http://lista.digitalgroup.me:80/3329/1234/38416
+#EXTINF:-1,ESPN BRASIL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26045
+#EXTINF:-1,ESPN BRASIL HD
+http://lista.digitalgroup.me:80/3329/1234/2387
+#EXTINF:-1,ESPN BRASIL SD 1
+http://lista.digitalgroup.me:80/3329/1234/38758
+#EXTINF:-1,ESPN BRASIL SD 2
+http://lista.digitalgroup.me:80/3329/1234/1060
+#EXTINF:-1,ESPN BRASIL SD+
+http://lista.digitalgroup.me:80/3329/1234/38415
+#EXTINF:-1,ESPN EXTRA FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46906
+#EXTINF:-1,ESPN EXTRA HD
+http://lista.digitalgroup.me:80/3329/1234/20813
+#EXTINF:-1,ESPN EXTRA SD 1
+http://lista.digitalgroup.me:80/3329/1234/20812
+#EXTINF:-1,ESPN EXTRA SD 2
+http://lista.digitalgroup.me:80/3329/1234/40435
+#EXTINF:-1,ESPN EXTRA SD+
+http://lista.digitalgroup.me:80/3329/1234/38417
+#EXTINF:-1,FOOD NETWORK
+http://lista.digitalgroup.me:80/3329/1234/1049
+#EXTINF:-1,FOOD NETWORK FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26041
+#EXTINF:-1,FOOD NETWORK HD
+http://lista.digitalgroup.me:80/3329/1234/5084
+#EXTINF:-1,FOX
+http://lista.digitalgroup.me:80/3329/1234/1329
+#EXTINF:-1,FOX FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18020
+#EXTINF:-1,FOX HD
+http://lista.digitalgroup.me:80/3329/1234/1047
+#EXTINF:-1,FOX LIFE
+http://lista.digitalgroup.me:80/3329/1234/1038
+#EXTINF:-1,FOX LIFE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46909
+#EXTINF:-1,FOX LIFE HD
+http://lista.digitalgroup.me:80/3329/1234/1037
+#EXTINF:-1,FOX PREMIUM 1
+http://lista.digitalgroup.me:80/3329/1234/20815
+#EXTINF:-1,FOX PREMIUM 1 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46907
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://lista.digitalgroup.me:80/3329/1234/2464
+#EXTINF:-1,FOX PREMIUM 2
+http://lista.digitalgroup.me:80/3329/1234/20816
+#EXTINF:-1,FOX PREMIUM 2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46908
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://lista.digitalgroup.me:80/3329/1234/2465
+#EXTINF:-1,FOX SPORTS
+http://lista.digitalgroup.me:80/3329/1234/2391
+#EXTINF:-1,FOX SPORTS 2
+http://lista.digitalgroup.me:80/3329/1234/1717
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26031
+#EXTINF:-1,FOX SPORTS 2 HD
+http://lista.digitalgroup.me:80/3329/1234/1031
+#EXTINF:-1,FOX SPORTS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50187
+#EXTINF:-1,FOX SPORTS HD
+http://lista.digitalgroup.me:80/3329/1234/50188
+#EXTINF:-1,FUTURA HD
+http://lista.digitalgroup.me:80/3329/1234/20803
+#EXTINF:-1,FUTURA SD 1
+http://lista.digitalgroup.me:80/3329/1234/38735
+#EXTINF:-1,FUTURA SD 2
+http://lista.digitalgroup.me:80/3329/1234/38736
+#EXTINF:-1,FUTURA SD 3
+http://lista.digitalgroup.me:80/3329/1234/38737
+#EXTINF:-1,FUTURA SD 4
+http://lista.digitalgroup.me:80/3329/1234/1029
+#EXTINF:-1,FUTURA SD+
+http://lista.digitalgroup.me:80/3329/1234/38484
+#EXTINF:-1,FX
+http://lista.digitalgroup.me:80/3329/1234/1028
+#EXTINF:-1,FX FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26040
+#EXTINF:-1,FX HD
+http://lista.digitalgroup.me:80/3329/1234/2386
+#EXTINF:-1,GLOBO ACRE HD
+http://lista.digitalgroup.me:80/3329/1234/49721
+#EXTINF:-1,GLOBO ACRE SD 1
+http://lista.digitalgroup.me:80/3329/1234/49720
+#EXTINF:-1,GLOBO ACRE SD 2
+http://lista.digitalgroup.me:80/3329/1234/49722
+#EXTINF:-1,GLOBO ACRE SD 3
+http://lista.digitalgroup.me:80/3329/1234/49723
+#EXTINF:-1,GLOBO ACRE SD+
+http://lista.digitalgroup.me:80/3329/1234/49724
+#EXTINF:-1,GLOBO AMAPÁ HD
+http://lista.digitalgroup.me:80/3329/1234/49729
+#EXTINF:-1,GLOBO AMAPÁ SD 1
+http://lista.digitalgroup.me:80/3329/1234/49725
+#EXTINF:-1,GLOBO AMAPÁ SD 2
+http://lista.digitalgroup.me:80/3329/1234/49726
+#EXTINF:-1,GLOBO AMAPÁ SD 3
+http://lista.digitalgroup.me:80/3329/1234/49727
+#EXTINF:-1,GLOBO AMAPÁ SD+
+http://lista.digitalgroup.me:80/3329/1234/49728
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.digitalgroup.me:80/3329/1234/17121
+#EXTINF:-1,GLOBO BRASILIA HD+
+http://lista.digitalgroup.me:80/3329/1234/21804
+#EXTINF:-1,GLOBO BRASILIA SD 1
+http://lista.digitalgroup.me:80/3329/1234/38664
+#EXTINF:-1,GLOBO BRASILIA SD 2
+http://lista.digitalgroup.me:80/3329/1234/38665
+#EXTINF:-1,GLOBO BRASILIA SD 3
+http://lista.digitalgroup.me:80/3329/1234/38666
+#EXTINF:-1,GLOBO BRASILIA SD 4
+http://lista.digitalgroup.me:80/3329/1234/2512
+#EXTINF:-1,GLOBO BRASILIA SD+
+http://lista.digitalgroup.me:80/3329/1234/22363
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://lista.digitalgroup.me:80/3329/1234/17962
+#EXTINF:-1,GLOBO EPTV CAMPINAS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48808
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://lista.digitalgroup.me:80/3329/1234/48809
+#EXTINF:-1,GLOBO EPTV CENTRAL
+http://lista.digitalgroup.me:80/3329/1234/46920
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
+http://lista.digitalgroup.me:80/3329/1234/17852
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48801
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://lista.digitalgroup.me:80/3329/1234/48800
+#EXTINF:-1,GLOBO EPTV SUL MINAS
+http://lista.digitalgroup.me:80/3329/1234/46921
+#EXTINF:-1,GLOBO INTER TV CABUGI
+http://lista.digitalgroup.me:80/3329/1234/16209
+#EXTINF:-1,GLOBO INTER TV CABUGI FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48816
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://lista.digitalgroup.me:80/3329/1234/48815
+#EXTINF:-1,GLOBO INTERTV ALTO LITORAL
+http://lista.digitalgroup.me:80/3329/1234/46927
+#EXTINF:-1,GLOBO INTERTV DOS VALES
+http://lista.digitalgroup.me:80/3329/1234/46928
+#EXTINF:-1,GLOBO INTERTV GRANDE MINAS
+http://lista.digitalgroup.me:80/3329/1234/46922
+#EXTINF:-1,GLOBO INTERTV SERRA MAR
+http://lista.digitalgroup.me:80/3329/1234/46926
+#EXTINF:-1,GLOBO MG HD
+http://lista.digitalgroup.me:80/3329/1234/17129
+#EXTINF:-1,GLOBO MG HD+
+http://lista.digitalgroup.me:80/3329/1234/21803
+#EXTINF:-1,GLOBO MG SD 1
+http://lista.digitalgroup.me:80/3329/1234/38654
+#EXTINF:-1,GLOBO MG SD 2
+http://lista.digitalgroup.me:80/3329/1234/38655
+#EXTINF:-1,GLOBO MG SD 3
+http://lista.digitalgroup.me:80/3329/1234/38656
+#EXTINF:-1,GLOBO MG SD 4
+http://lista.digitalgroup.me:80/3329/1234/2412
+#EXTINF:-1,GLOBO MG SD+
+http://lista.digitalgroup.me:80/3329/1234/22367
+#EXTINF:-1,GLOBO NEWS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46919
+#EXTINF:-1,GLOBO NEWS HD
+http://lista.digitalgroup.me:80/3329/1234/5085
+#EXTINF:-1,GLOBO NEWS SD 1
+http://lista.digitalgroup.me:80/3329/1234/38716
+#EXTINF:-1,GLOBO NEWS SD 2
+http://lista.digitalgroup.me:80/3329/1234/38715
+#EXTINF:-1,GLOBO NEWS SD 3
+http://lista.digitalgroup.me:80/3329/1234/38714
+#EXTINF:-1,GLOBO NEWS SD 4
+http://lista.digitalgroup.me:80/3329/1234/1027
+#EXTINF:-1,GLOBO NEWS SD+
+http://lista.digitalgroup.me:80/3329/1234/23980
+#EXTINF:-1,GLOBO NORDESTE HD
+http://lista.digitalgroup.me:80/3329/1234/17130
+#EXTINF:-1,GLOBO NORDESTE SD 1
+http://lista.digitalgroup.me:80/3329/1234/38667
+#EXTINF:-1,GLOBO NORDESTE SD 2
+http://lista.digitalgroup.me:80/3329/1234/38668
+#EXTINF:-1,GLOBO NORDESTE SD 3
+http://lista.digitalgroup.me:80/3329/1234/38669
+#EXTINF:-1,GLOBO NORDESTE SD 4
+http://lista.digitalgroup.me:80/3329/1234/15405
+#EXTINF:-1,GLOBO NORDESTE SD+
+http://lista.digitalgroup.me:80/3329/1234/22371
+#EXTINF:-1,GLOBO NSC BLUMENAU
+http://lista.digitalgroup.me:80/3329/1234/46929
+#EXTINF:-1,GLOBO NSC BLUMENAU FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46939
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://lista.digitalgroup.me:80/3329/1234/46940
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS
+http://lista.digitalgroup.me:80/3329/1234/46923
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46941
+#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS HD
+http://lista.digitalgroup.me:80/3329/1234/46942
+#EXTINF:-1,GLOBO NSC JOINVILLE
+http://lista.digitalgroup.me:80/3329/1234/46930
+#EXTINF:-1,GLOBO NSC JOINVILLE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46944
+#EXTINF:-1,GLOBO NSC JOINVILLE HD
+http://lista.digitalgroup.me:80/3329/1234/46943
+#EXTINF:-1,GLOBO NSC TV CENTRO-OESTE
+http://lista.digitalgroup.me:80/3329/1234/46945
+#EXTINF:-1,GLOBO NSC TV CHAPECÓ
+http://lista.digitalgroup.me:80/3329/1234/46946
+#EXTINF:-1,GLOBO NSC TV CRICIÚMA
+http://lista.digitalgroup.me:80/3329/1234/46947
+#EXTINF:-1,GLOBO NSC TV CRICIÚMA FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48813
+#EXTINF:-1,GLOBO NSC TV CRICIÚMA HD
+http://lista.digitalgroup.me:80/3329/1234/48814
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
+http://lista.digitalgroup.me:80/3329/1234/968
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46915
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
+http://lista.digitalgroup.me:80/3329/1234/46914
+#EXTINF:-1,GLOBO REDE AMAZONICA HD
+http://lista.digitalgroup.me:80/3329/1234/38452
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 1
+http://lista.digitalgroup.me:80/3329/1234/38670
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 2
+http://lista.digitalgroup.me:80/3329/1234/38671
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 3
+http://lista.digitalgroup.me:80/3329/1234/9580
+#EXTINF:-1,GLOBO REDE AMAZONICA SD 4
+http://lista.digitalgroup.me:80/3329/1234/40436
+#EXTINF:-1,GLOBO REDE AMAZONICA SD+
+http://lista.digitalgroup.me:80/3329/1234/38451
+#EXTINF:-1,GLOBO RJ FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46913
+#EXTINF:-1,GLOBO RJ HD
+http://lista.digitalgroup.me:80/3329/1234/1207
+#EXTINF:-1,GLOBO RJ HD+
+http://lista.digitalgroup.me:80/3329/1234/21801
+#EXTINF:-1,GLOBO RJ SD 1
+http://lista.digitalgroup.me:80/3329/1234/38661
+#EXTINF:-1,GLOBO RJ SD 2
+http://lista.digitalgroup.me:80/3329/1234/38662
+#EXTINF:-1,GLOBO RJ SD 3
+http://lista.digitalgroup.me:80/3329/1234/38663
+#EXTINF:-1,GLOBO RJ SD 4
+http://lista.digitalgroup.me:80/3329/1234/2508
+#EXTINF:-1,GLOBO RJ SD+
+http://lista.digitalgroup.me:80/3329/1234/22209
+#EXTINF:-1,GLOBO RORAIMA SD 1
+http://lista.digitalgroup.me:80/3329/1234/49730
+#EXTINF:-1,GLOBO RORAIMA SD 3
+http://lista.digitalgroup.me:80/3329/1234/49731
+#EXTINF:-1,GLOBO RORAIMA SD+
+http://lista.digitalgroup.me:80/3329/1234/49732
+#EXTINF:-1,GLOBO RPC CURITIBA
+http://lista.digitalgroup.me:80/3329/1234/18032
+#EXTINF:-1,GLOBO RPC CURITIBA FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46917
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://lista.digitalgroup.me:80/3329/1234/46916
+#EXTINF:-1,GLOBO RPC MARINGÁ
+http://lista.digitalgroup.me:80/3329/1234/46948
+#EXTINF:-1,GLOBO RPC MARINGÁ FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48810
+#EXTINF:-1,GLOBO RPC MARINGÁ HD
+http://lista.digitalgroup.me:80/3329/1234/48811
+#EXTINF:-1,GLOBO SP FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46912
+#EXTINF:-1,GLOBO SP HD
+http://lista.digitalgroup.me:80/3329/1234/17122
+#EXTINF:-1,GLOBO SP HD+
+http://lista.digitalgroup.me:80/3329/1234/21800
+#EXTINF:-1,GLOBO SP SD 1
+http://lista.digitalgroup.me:80/3329/1234/38657
+#EXTINF:-1,GLOBO SP SD 2
+http://lista.digitalgroup.me:80/3329/1234/38658
+#EXTINF:-1,GLOBO SP SD 3
+http://lista.digitalgroup.me:80/3329/1234/38659
+#EXTINF:-1,GLOBO SP SD 4
+http://lista.digitalgroup.me:80/3329/1234/1024
+#EXTINF:-1,GLOBO SP SD+
+http://lista.digitalgroup.me:80/3329/1234/22359
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://lista.digitalgroup.me:80/3329/1234/49719
+#EXTINF:-1,GLOBO TV ANHANGUERA SD 1
+http://lista.digitalgroup.me:80/3329/1234/49716
+#EXTINF:-1,GLOBO TV ANHANGUERA SD 2
+http://lista.digitalgroup.me:80/3329/1234/49717
+#EXTINF:-1,GLOBO TV ANHANGUERA SD 3
+http://lista.digitalgroup.me:80/3329/1234/2511
+#EXTINF:-1,GLOBO TV ANHANGUERA SD+
+http://lista.digitalgroup.me:80/3329/1234/49718
+#EXTINF:-1,GLOBO TV ASA BRANCA
+http://lista.digitalgroup.me:80/3329/1234/46949
+#EXTINF:-1,GLOBO TV BAHIA
+http://lista.digitalgroup.me:80/3329/1234/19420
+#EXTINF:-1,GLOBO TV BAHIA FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48803
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://lista.digitalgroup.me:80/3329/1234/48802
+#EXTINF:-1,GLOBO TV CENTRO AMERICA
+http://lista.digitalgroup.me:80/3329/1234/18036
+#EXTINF:-1,GLOBO TV FRONTEIRA
+http://lista.digitalgroup.me:80/3329/1234/46931
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS
+http://lista.digitalgroup.me:80/3329/1234/46950
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48805
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
+http://lista.digitalgroup.me:80/3329/1234/48804
+#EXTINF:-1,GLOBO TV GAZETA ES
+http://lista.digitalgroup.me:80/3329/1234/24485
+#EXTINF:-1,GLOBO TV GAZETA ES FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48812
+#EXTINF:-1,GLOBO TV GAZETA ES HD
+http://lista.digitalgroup.me:80/3329/1234/24484
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERLÂNDIA
+http://lista.digitalgroup.me:80/3329/1234/46932
+#EXTINF:-1,GLOBO TV LIBERAL BELEM
+http://lista.digitalgroup.me:80/3329/1234/16217
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS
+http://lista.digitalgroup.me:80/3329/1234/46933
+#EXTINF:-1,GLOBO TV MIRANTE SÃO LUIS
+http://lista.digitalgroup.me:80/3329/1234/46951
+#EXTINF:-1,GLOBO TV RIO SUL
+http://lista.digitalgroup.me:80/3329/1234/46934
+#EXTINF:-1,GLOBO TV RONDÔNIA SD 1
+http://lista.digitalgroup.me:80/3329/1234/49715
+#EXTINF:-1,GLOBO TV RONDÔNIA SD 3
+http://lista.digitalgroup.me:80/3329/1234/49714
+#EXTINF:-1,GLOBO TV RONDÔNIA SD+
+http://lista.digitalgroup.me:80/3329/1234/49713
+#EXTINF:-1,GLOBO TV SANTA CRUZ
+http://lista.digitalgroup.me:80/3329/1234/46935
+#EXTINF:-1,GLOBO TV SERGIPE
+http://lista.digitalgroup.me:80/3329/1234/46952
+#EXTINF:-1,GLOBO TV SERGIPE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46954
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://lista.digitalgroup.me:80/3329/1234/46953
+#EXTINF:-1,GLOBO TV SUDOESTE
+http://lista.digitalgroup.me:80/3329/1234/46936
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://lista.digitalgroup.me:80/3329/1234/24482
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA
+http://lista.digitalgroup.me:80/3329/1234/46937
+#EXTINF:-1,GLOBO TV TEM SAO JOSE DO RIO PRETO
+http://lista.digitalgroup.me:80/3329/1234/18038
+#EXTINF:-1,GLOBO TV TEM SAO JOSE DO RIO PRETO FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50200
+#EXTINF:-1,GLOBO TV TEM SAO JOSE DO RIO PRETO HD
+http://lista.digitalgroup.me:80/3329/1234/50199
+#EXTINF:-1,GLOBO TV TEM SOROCABA
+http://lista.digitalgroup.me:80/3329/1234/24483
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
+http://lista.digitalgroup.me:80/3329/1234/46918
+#EXTINF:-1,GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS
+http://lista.digitalgroup.me:80/3329/1234/18039
+#EXTINF:-1,GLOBO TV VANGUARDA TAUBATÉ
+http://lista.digitalgroup.me:80/3329/1234/46938
+#EXTINF:-1,GLOBO TV VERDES MARES
+http://lista.digitalgroup.me:80/3329/1234/9583
+#EXTINF:-1,GLOBO TV VERDES MARES FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48799
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+http://lista.digitalgroup.me:80/3329/1234/48798
+#EXTINF:-1,GLOOB FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48806
+#EXTINF:-1,GLOOB HD
+http://lista.digitalgroup.me:80/3329/1234/5086
+#EXTINF:-1,GLOOB HD ALTERNATIVO
+http://lista.digitalgroup.me:80/3329/1234/48807
+#EXTINF:-1,GLOOB SD 1
+http://lista.digitalgroup.me:80/3329/1234/38719
+#EXTINF:-1,GLOOB SD 2
+http://lista.digitalgroup.me:80/3329/1234/38718
+#EXTINF:-1,GLOOB SD 3
+http://lista.digitalgroup.me:80/3329/1234/38717
+#EXTINF:-1,GLOOB SD 4
+http://lista.digitalgroup.me:80/3329/1234/1023
+#EXTINF:-1,GLOOB SD+
+http://lista.digitalgroup.me:80/3329/1234/28406
+#EXTINF:-1,GLOOBINHO FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46911
+#EXTINF:-1,GLOOBINHO HD
+http://lista.digitalgroup.me:80/3329/1234/17136
+#EXTINF:-1,GLOOBINHO SD 1
+http://lista.digitalgroup.me:80/3329/1234/38723
+#EXTINF:-1,GLOOBINHO SD 2
+http://lista.digitalgroup.me:80/3329/1234/38724
+#EXTINF:-1,GLOOBINHO SD 3
+http://lista.digitalgroup.me:80/3329/1234/38725
+#EXTINF:-1,GLOOBINHO SD 4
+http://lista.digitalgroup.me:80/3329/1234/17135
+#EXTINF:-1,GLOOBINHO SD+
+http://lista.digitalgroup.me:80/3329/1234/23976
+#EXTINF:-1,GNT FULL HD
+http://lista.digitalgroup.me:80/3329/1234/46910
+#EXTINF:-1,GNT HD
+http://lista.digitalgroup.me:80/3329/1234/2466
+#EXTINF:-1,GNT SD 1
+http://lista.digitalgroup.me:80/3329/1234/38752
+#EXTINF:-1,GNT SD 2
+http://lista.digitalgroup.me:80/3329/1234/38751
+#EXTINF:-1,GNT SD 3
+http://lista.digitalgroup.me:80/3329/1234/38750
+#EXTINF:-1,GNT SD 4
+http://lista.digitalgroup.me:80/3329/1234/1022
+#EXTINF:-1,GNT SD+
+http://lista.digitalgroup.me:80/3329/1234/24290
+#EXTINF:-1,H2
+http://lista.digitalgroup.me:80/3329/1234/2486
+#EXTINF:-1,H2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5056
+#EXTINF:-1,H2 HD
+http://lista.digitalgroup.me:80/3329/1234/1021
+#EXTINF:-1,HBO
+http://lista.digitalgroup.me:80/3329/1234/1020
+#EXTINF:-1,HBO 2
+http://lista.digitalgroup.me:80/3329/1234/2489
+#EXTINF:-1,HBO 2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26039
+#EXTINF:-1,HBO 2 HD
+http://lista.digitalgroup.me:80/3329/1234/1017
+#EXTINF:-1,HBO FAMILY
+http://lista.digitalgroup.me:80/3329/1234/1016
+#EXTINF:-1,HBO FAMILY FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26038
+#EXTINF:-1,HBO FAMILY HD
+http://lista.digitalgroup.me:80/3329/1234/2392
+#EXTINF:-1,HBO FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26037
+#EXTINF:-1,HBO HD
+http://lista.digitalgroup.me:80/3329/1234/1209
+#EXTINF:-1,HBO PLUS
+http://lista.digitalgroup.me:80/3329/1234/1014
+#EXTINF:-1,HBO PLUS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26036
+#EXTINF:-1,HBO PLUS HD
+http://lista.digitalgroup.me:80/3329/1234/2467
+#EXTINF:-1,HBO SIGNATURE
+http://lista.digitalgroup.me:80/3329/1234/2488
+#EXTINF:-1,HBO SIGNATURE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26035
+#EXTINF:-1,HBO SIGNATURE HD
+http://lista.digitalgroup.me:80/3329/1234/1013
+#EXTINF:-1,IDEAL TV
+http://lista.digitalgroup.me:80/3329/1234/2491
+#EXTINF:-1,INVESTIGACAO DISCOVERY
+http://lista.digitalgroup.me:80/3329/1234/1011
+#EXTINF:-1,INVESTIGACAO DISCOVERY HD
+http://lista.digitalgroup.me:80/3329/1234/2469
+#EXTINF:-1,L!KE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50197
+#EXTINF:-1,L!KE HD
+http://lista.digitalgroup.me:80/3329/1234/50198
+#EXTINF:-1,LIFETIME
+http://lista.digitalgroup.me:80/3329/1234/2492
+#EXTINF:-1,LIFETIME FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26034
+#EXTINF:-1,LIFETIME HD
+http://lista.digitalgroup.me:80/3329/1234/5087
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://lista.digitalgroup.me:80/3329/1234/5088
+#EXTINF:-1,MAIS GLOBOSAT SD 1
+http://lista.digitalgroup.me:80/3329/1234/38749
+#EXTINF:-1,MAIS GLOBOSAT SD 2
+http://lista.digitalgroup.me:80/3329/1234/38748
+#EXTINF:-1,MAIS GLOBOSAT SD 3
+http://lista.digitalgroup.me:80/3329/1234/38747
+#EXTINF:-1,MAIS GLOBOSAT SD 4
+http://lista.digitalgroup.me:80/3329/1234/1008
+#EXTINF:-1,MAIS GLOBOSAT SD+
+http://lista.digitalgroup.me:80/3329/1234/28398
+#EXTINF:-1,MAX
+http://lista.digitalgroup.me:80/3329/1234/1007
+#EXTINF:-1,MAX FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26033
+#EXTINF:-1,MAX HD
+http://lista.digitalgroup.me:80/3329/1234/5089
+#EXTINF:-1,MAX PRIME
+http://lista.digitalgroup.me:80/3329/1234/1006
+#EXTINF:-1,MAX PRIME HD
+http://lista.digitalgroup.me:80/3329/1234/5090
+#EXTINF:-1,MAX UP
+http://lista.digitalgroup.me:80/3329/1234/1005
+#EXTINF:-1,MAX UP HD
+http://lista.digitalgroup.me:80/3329/1234/5091
+#EXTINF:-1,MEGAPIX
+http://lista.digitalgroup.me:80/3329/1234/1004
+#EXTINF:-1,MEGAPIX FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26019
+#EXTINF:-1,MEGAPIX HD
+http://lista.digitalgroup.me:80/3329/1234/2470
+#EXTINF:-1,MTV FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26018
+#EXTINF:-1,MTV HD
+http://lista.digitalgroup.me:80/3329/1234/5092
+#EXTINF:-1,MULTISHOW FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26017
+#EXTINF:-1,MULTISHOW HD
+http://lista.digitalgroup.me:80/3329/1234/2385
+#EXTINF:-1,MULTISHOW SD 1
+http://lista.digitalgroup.me:80/3329/1234/38731
+#EXTINF:-1,MULTISHOW SD 2
+http://lista.digitalgroup.me:80/3329/1234/38730
+#EXTINF:-1,MULTISHOW SD 3
+http://lista.digitalgroup.me:80/3329/1234/38729
+#EXTINF:-1,MULTISHOW SD 4
+http://lista.digitalgroup.me:80/3329/1234/1211
+#EXTINF:-1,MULTISHOW SD+
+http://lista.digitalgroup.me:80/3329/1234/24286
+#EXTINF:-1,NATGEO KIDS
+http://lista.digitalgroup.me:80/3329/1234/11965
+#EXTINF:-1,NATGEO KIDS HD
+http://lista.digitalgroup.me:80/3329/1234/11996
+#EXTINF:-1,NATGEO WILD
+http://lista.digitalgroup.me:80/3329/1234/995
+#EXTINF:-1,NATGEO WILD FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18022
+#EXTINF:-1,NATGEO WILD HD
+http://lista.digitalgroup.me:80/3329/1234/994
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://lista.digitalgroup.me:80/3329/1234/991
+#EXTINF:-1,NATIONAL GEOGRAPHICS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26016
+#EXTINF:-1,NATIONAL GEOGRAPHICS HD
+http://lista.digitalgroup.me:80/3329/1234/990
+#EXTINF:-1,NHK
+http://lista.digitalgroup.me:80/3329/1234/2495
+#EXTINF:-1,NICK
+http://lista.digitalgroup.me:80/3329/1234/1206
+#EXTINF:-1,NICK FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26015
+#EXTINF:-1,NICK HD
+http://lista.digitalgroup.me:80/3329/1234/5093
+#EXTINF:-1,NICK JR
+http://lista.digitalgroup.me:80/3329/1234/986
+#EXTINF:-1,NICK JR HD
+http://lista.digitalgroup.me:80/3329/1234/16210
+#EXTINF:-1,NOVO TEMPO
+http://lista.digitalgroup.me:80/3329/1234/2496
+#EXTINF:-1,OFF HD
+http://lista.digitalgroup.me:80/3329/1234/2471
+#EXTINF:-1,OFF SD 1
+http://lista.digitalgroup.me:80/3329/1234/38728
+#EXTINF:-1,OFF SD 2
+http://lista.digitalgroup.me:80/3329/1234/38727
+#EXTINF:-1,OFF SD 3
+http://lista.digitalgroup.me:80/3329/1234/38726
+#EXTINF:-1,OFF SD 4
+http://lista.digitalgroup.me:80/3329/1234/1219
+#EXTINF:-1,OFF SD+
+http://lista.digitalgroup.me:80/3329/1234/28420
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://lista.digitalgroup.me:80/3329/1234/980
+#EXTINF:-1,PARAMOUNT CHANNEL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26014
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://lista.digitalgroup.me:80/3329/1234/2472
+#EXTINF:-1,PREMIERE 2
+http://lista.digitalgroup.me:80/3329/1234/50209
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5062
+#EXTINF:-1,PREMIERE 2 HD
+http://lista.digitalgroup.me:80/3329/1234/1213
+#EXTINF:-1,PREMIERE 2 HD 2
+http://lista.digitalgroup.me:80/3329/1234/50208
+#EXTINF:-1,PREMIERE 2 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38788
+#EXTINF:-1,PREMIERE 2 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38787
+#EXTINF:-1,PREMIERE 2 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38786
+#EXTINF:-1,PREMIERE 2 SD+
+http://lista.digitalgroup.me:80/3329/1234/25254
+#EXTINF:-1,PREMIERE 3
+http://lista.digitalgroup.me:80/3329/1234/50211
+#EXTINF:-1,PREMIERE 3 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18023
+#EXTINF:-1,PREMIERE 3 HD
+http://lista.digitalgroup.me:80/3329/1234/1214
+#EXTINF:-1,PREMIERE 3 HD 2
+http://lista.digitalgroup.me:80/3329/1234/50210
+#EXTINF:-1,PREMIERE 3 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38791
+#EXTINF:-1,PREMIERE 3 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38790
+#EXTINF:-1,PREMIERE 3 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38789
+#EXTINF:-1,PREMIERE 3 SD+
+http://lista.digitalgroup.me:80/3329/1234/25238
+#EXTINF:-1,PREMIERE 4
+http://lista.digitalgroup.me:80/3329/1234/50213
+#EXTINF:-1,PREMIERE 4 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5063
+#EXTINF:-1,PREMIERE 4 HD
+http://lista.digitalgroup.me:80/3329/1234/1215
+#EXTINF:-1,PREMIERE 4 HD 2
+http://lista.digitalgroup.me:80/3329/1234/50212
+#EXTINF:-1,PREMIERE 4 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38792
+#EXTINF:-1,PREMIERE 4 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38793
+#EXTINF:-1,PREMIERE 4 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38794
+#EXTINF:-1,PREMIERE 4 SD+
+http://lista.digitalgroup.me:80/3329/1234/25250
+#EXTINF:-1,PREMIERE 5 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5064
+#EXTINF:-1,PREMIERE 5 HD
+http://lista.digitalgroup.me:80/3329/1234/1216
+#EXTINF:-1,PREMIERE 5 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38797
+#EXTINF:-1,PREMIERE 5 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38796
+#EXTINF:-1,PREMIERE 5 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38795
+#EXTINF:-1,PREMIERE 5 SD+
+http://lista.digitalgroup.me:80/3329/1234/25242
+#EXTINF:-1,PREMIERE 6 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18024
+#EXTINF:-1,PREMIERE 6 HD
+http://lista.digitalgroup.me:80/3329/1234/16211
+#EXTINF:-1,PREMIERE 6 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38800
+#EXTINF:-1,PREMIERE 6 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38799
+#EXTINF:-1,PREMIERE 6 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38798
+#EXTINF:-1,PREMIERE 6 SD 4
+http://lista.digitalgroup.me:80/3329/1234/974
+#EXTINF:-1,PREMIERE 6 SD+
+http://lista.digitalgroup.me:80/3329/1234/25757
+#EXTINF:-1,PREMIERE 7 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18025
+#EXTINF:-1,PREMIERE 7 HD
+http://lista.digitalgroup.me:80/3329/1234/16213
+#EXTINF:-1,PREMIERE 7 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38803
+#EXTINF:-1,PREMIERE 7 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38802
+#EXTINF:-1,PREMIERE 7 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38801
+#EXTINF:-1,PREMIERE 7 SD 4
+http://lista.digitalgroup.me:80/3329/1234/973
+#EXTINF:-1,PREMIERE 7 SD+
+http://lista.digitalgroup.me:80/3329/1234/30379
+#EXTINF:-1,PREMIERE 8 HD
+http://lista.digitalgroup.me:80/3329/1234/38359
+#EXTINF:-1,PREMIERE 8 SD 1
+http://lista.digitalgroup.me:80/3329/1234/41343
+#EXTINF:-1,PREMIERE 8 SD 2
+http://lista.digitalgroup.me:80/3329/1234/41344
+#EXTINF:-1,PREMIERE 8 SD 3
+http://lista.digitalgroup.me:80/3329/1234/41345
+#EXTINF:-1,PREMIERE 8 SD 4
+http://lista.digitalgroup.me:80/3329/1234/972
+#EXTINF:-1,PREMIERE 8 SD+
+http://lista.digitalgroup.me:80/3329/1234/38358
+#EXTINF:-1,PREMIERE 9 HD
+http://lista.digitalgroup.me:80/3329/1234/41353
+#EXTINF:-1,PREMIERE 9 SD 1
+http://lista.digitalgroup.me:80/3329/1234/41348
+#EXTINF:-1,PREMIERE 9 SD 2
+http://lista.digitalgroup.me:80/3329/1234/41349
+#EXTINF:-1,PREMIERE 9 SD 3
+http://lista.digitalgroup.me:80/3329/1234/41350
+#EXTINF:-1,PREMIERE 9 SD 4
+http://lista.digitalgroup.me:80/3329/1234/971
+#EXTINF:-1,PREMIERE 9 SD+
+http://lista.digitalgroup.me:80/3329/1234/41351
+#EXTINF:-1,PREMIERE CLUBES
+http://lista.digitalgroup.me:80/3329/1234/50207
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5065
+#EXTINF:-1,PREMIERE CLUBES HD
+http://lista.digitalgroup.me:80/3329/1234/1714
+#EXTINF:-1,PREMIERE CLUBES HD 2
+http://lista.digitalgroup.me:80/3329/1234/50206
+#EXTINF:-1,PREMIERE CLUBES HD+
+http://lista.digitalgroup.me:80/3329/1234/49943
+#EXTINF:-1,PREMIERE CLUBES SD 1
+http://lista.digitalgroup.me:80/3329/1234/38672
+#EXTINF:-1,PREMIERE CLUBES SD 2
+http://lista.digitalgroup.me:80/3329/1234/38673
+#EXTINF:-1,PREMIERE CLUBES SD 3
+http://lista.digitalgroup.me:80/3329/1234/38674
+#EXTINF:-1,PREMIERE CLUBES SD 4
+http://lista.digitalgroup.me:80/3329/1234/970
+#EXTINF:-1,PREMIERE CLUBES SD+
+http://lista.digitalgroup.me:80/3329/1234/25246
+#EXTINF:-1,PRIME BOX BRASIL
+http://lista.digitalgroup.me:80/3329/1234/969
+#EXTINF:-1,RECORD BA HD
+http://lista.digitalgroup.me:80/3329/1234/29367
+#EXTINF:-1,RECORD BA SD 1
+http://lista.digitalgroup.me:80/3329/1234/38836
+#EXTINF:-1,RECORD BA SD 2
+http://lista.digitalgroup.me:80/3329/1234/29366
+#EXTINF:-1,RECORD BA SD+
+http://lista.digitalgroup.me:80/3329/1234/38431
+#EXTINF:-1,RECORD DF HD
+http://lista.digitalgroup.me:80/3329/1234/29364
+#EXTINF:-1,RECORD DF SD 1
+http://lista.digitalgroup.me:80/3329/1234/38780
+#EXTINF:-1,RECORD DF SD 2
+http://lista.digitalgroup.me:80/3329/1234/29365
+#EXTINF:-1,RECORD DF SD+
+http://lista.digitalgroup.me:80/3329/1234/38418
+#EXTINF:-1,RECORD GO HD
+http://lista.digitalgroup.me:80/3329/1234/47529
+#EXTINF:-1,RECORD GO SD 1
+http://lista.digitalgroup.me:80/3329/1234/47532
+#EXTINF:-1,RECORD GO SD 2
+http://lista.digitalgroup.me:80/3329/1234/47531
+#EXTINF:-1,RECORD GO SD+
+http://lista.digitalgroup.me:80/3329/1234/47530
+#EXTINF:-1,RECORD MG HD
+http://lista.digitalgroup.me:80/3329/1234/29369
+#EXTINF:-1,RECORD MG SD 1
+http://lista.digitalgroup.me:80/3329/1234/38782
+#EXTINF:-1,RECORD MG SD 2
+http://lista.digitalgroup.me:80/3329/1234/29368
+#EXTINF:-1,RECORD MG SD+
+http://lista.digitalgroup.me:80/3329/1234/38430
+#EXTINF:-1,RECORD NEWS HD
+http://lista.digitalgroup.me:80/3329/1234/2400
+#EXTINF:-1,RECORD NEWS SD 1
+http://lista.digitalgroup.me:80/3329/1234/38784
+#EXTINF:-1,RECORD NEWS SD 2
+http://lista.digitalgroup.me:80/3329/1234/966
+#EXTINF:-1,RECORD NEWS SD+
+http://lista.digitalgroup.me:80/3329/1234/38443
+#EXTINF:-1,RECORD PA HD
+http://lista.digitalgroup.me:80/3329/1234/47555
+#EXTINF:-1,RECORD PA SD 1
+http://lista.digitalgroup.me:80/3329/1234/47553
+#EXTINF:-1,RECORD PA SD 2
+http://lista.digitalgroup.me:80/3329/1234/47552
+#EXTINF:-1,RECORD PA SD+
+http://lista.digitalgroup.me:80/3329/1234/47554
+#EXTINF:-1,RECORD RJ HD
+http://lista.digitalgroup.me:80/3329/1234/29371
+#EXTINF:-1,RECORD RJ SD 1
+http://lista.digitalgroup.me:80/3329/1234/38767
+#EXTINF:-1,RECORD RJ SD 2
+http://lista.digitalgroup.me:80/3329/1234/29370
+#EXTINF:-1,RECORD RJ SD+
+http://lista.digitalgroup.me:80/3329/1234/38419
+#EXTINF:-1,RECORD RS HD
+http://lista.digitalgroup.me:80/3329/1234/29373
+#EXTINF:-1,RECORD RS SD 1
+http://lista.digitalgroup.me:80/3329/1234/38838
+#EXTINF:-1,RECORD RS SD 2
+http://lista.digitalgroup.me:80/3329/1234/29372
+#EXTINF:-1,RECORD RS SD+
+http://lista.digitalgroup.me:80/3329/1234/38433
+#EXTINF:-1,RECORD SP FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26013
+#EXTINF:-1,RECORD SP HD
+http://lista.digitalgroup.me:80/3329/1234/1210
+#EXTINF:-1,RECORD SP SD 1
+http://lista.digitalgroup.me:80/3329/1234/38765
+#EXTINF:-1,RECORD SP SD 2
+http://lista.digitalgroup.me:80/3329/1234/1710
+#EXTINF:-1,RECORD SP SD+
+http://lista.digitalgroup.me:80/3329/1234/38429
+#EXTINF:-1,REDE TV
+http://lista.digitalgroup.me:80/3329/1234/963
+#EXTINF:-1,REDE VIDA
+http://lista.digitalgroup.me:80/3329/1234/2499
+#EXTINF:-1,RIT TV
+http://lista.digitalgroup.me:80/3329/1234/37779
+#EXTINF:-1,RIT TV HD
+http://lista.digitalgroup.me:80/3329/1234/37780
+#EXTINF:-1,RIT TV SD+
+http://lista.digitalgroup.me:80/3329/1234/38474
+#EXTINF:-1,SBT DIFUSORA
+http://lista.digitalgroup.me:80/3329/1234/37793
+#EXTINF:-1,SBT HD
+http://lista.digitalgroup.me:80/3329/1234/1208
+#EXTINF:-1,SBT HD+
+http://lista.digitalgroup.me:80/3329/1234/38919
+#EXTINF:-1,SBT INTERIOR HD
+http://lista.digitalgroup.me:80/3329/1234/50196
+#EXTINF:-1,SBT SD 1
+http://lista.digitalgroup.me:80/3329/1234/38920
+#EXTINF:-1,SBT SD 2
+http://lista.digitalgroup.me:80/3329/1234/38921
+#EXTINF:-1,SBT SD 3
+http://lista.digitalgroup.me:80/3329/1234/955
+#EXTINF:-1,SBT SD+
+http://lista.digitalgroup.me:80/3329/1234/38450
+#EXTINF:-1,SBT TV CIDADE VERDE
+http://lista.digitalgroup.me:80/3329/1234/37796
+#EXTINF:-1,SBT TV JORNAL
+http://lista.digitalgroup.me:80/3329/1234/37795
+#EXTINF:-1,SBT TV SERRA DOURADA
+http://lista.digitalgroup.me:80/3329/1234/37843
+#EXTINF:-1,SBT TV SERRA DOURADA HD
+http://lista.digitalgroup.me:80/3329/1234/37842
+#EXTINF:-1,SONY
+http://lista.digitalgroup.me:80/3329/1234/1096
+#EXTINF:-1,SONY FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26012
+#EXTINF:-1,SONY HD
+http://lista.digitalgroup.me:80/3329/1234/2409
+#EXTINF:-1,SPACE
+http://lista.digitalgroup.me:80/3329/1234/2501
+#EXTINF:-1,SPACE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26011
+#EXTINF:-1,SPACE HD
+http://lista.digitalgroup.me:80/3329/1234/1327
+#EXTINF:-1,SPORTV 1 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5067
+#EXTINF:-1,SPORTV 1 HD
+http://lista.digitalgroup.me:80/3329/1234/1203
+#EXTINF:-1,SPORTV 1 SD 1
+http://lista.digitalgroup.me:80/3329/1234/47528
+#EXTINF:-1,SPORTV 1 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38706
+#EXTINF:-1,SPORTV 1 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38707
+#EXTINF:-1,SPORTV 1 SD 4
+http://lista.digitalgroup.me:80/3329/1234/943
+#EXTINF:-1,SPORTV 1 SD+
+http://lista.digitalgroup.me:80/3329/1234/47527
+#EXTINF:-1,SPORTV 2 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26030
+#EXTINF:-1,SPORTV 2 HD
+http://lista.digitalgroup.me:80/3329/1234/2401
+#EXTINF:-1,SPORTV 2 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38710
+#EXTINF:-1,SPORTV 2 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38709
+#EXTINF:-1,SPORTV 2 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38708
+#EXTINF:-1,SPORTV 2 SD 4
+http://lista.digitalgroup.me:80/3329/1234/942
+#EXTINF:-1,SPORTV 2 SD+
+http://lista.digitalgroup.me:80/3329/1234/22450
+#EXTINF:-1,SPORTV 3 FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26010
+#EXTINF:-1,SPORTV 3 HD
+http://lista.digitalgroup.me:80/3329/1234/2402
+#EXTINF:-1,SPORTV 3 SD 1
+http://lista.digitalgroup.me:80/3329/1234/38713
+#EXTINF:-1,SPORTV 3 SD 2
+http://lista.digitalgroup.me:80/3329/1234/38712
+#EXTINF:-1,SPORTV 3 SD 3
+http://lista.digitalgroup.me:80/3329/1234/38711
+#EXTINF:-1,SPORTV 3 SD 4
+http://lista.digitalgroup.me:80/3329/1234/941
+#EXTINF:-1,SPORTV 3 SD+
+http://lista.digitalgroup.me:80/3329/1234/22454
+#EXTINF:-1,STUDIO UNIVERSAL
+http://lista.digitalgroup.me:80/3329/1234/2384
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://lista.digitalgroup.me:80/3329/1234/5094
+#EXTINF:-1,SUNDANCE FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26009
+#EXTINF:-1,SYFY
+http://lista.digitalgroup.me:80/3329/1234/939
+#EXTINF:-1,SYFY FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26008
+#EXTINF:-1,SYFY HD
+http://lista.digitalgroup.me:80/3329/1234/18087
+#EXTINF:-1,TBS
+http://lista.digitalgroup.me:80/3329/1234/937
+#EXTINF:-1,TBS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50192
+#EXTINF:-1,TBS HD
+http://lista.digitalgroup.me:80/3329/1234/2473
+#EXTINF:-1,TC ACTION
+http://lista.digitalgroup.me:80/3329/1234/935
+#EXTINF:-1,TC ACTION FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5069
+#EXTINF:-1,TC ACTION HD
+http://lista.digitalgroup.me:80/3329/1234/936
+#EXTINF:-1,TC CULT
+http://lista.digitalgroup.me:80/3329/1234/933
+#EXTINF:-1,TC CULT FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18026
+#EXTINF:-1,TC CULT HD
+http://lista.digitalgroup.me:80/3329/1234/5096
+#EXTINF:-1,TC FUN
+http://lista.digitalgroup.me:80/3329/1234/931
+#EXTINF:-1,TC FUN FULL HD
+http://lista.digitalgroup.me:80/3329/1234/18027
+#EXTINF:-1,TC FUN HD
+http://lista.digitalgroup.me:80/3329/1234/932
+#EXTINF:-1,TC PIPOCA
+http://lista.digitalgroup.me:80/3329/1234/929
+#EXTINF:-1,TC PIPOCA FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5070
+#EXTINF:-1,TC PIPOCA HD
+http://lista.digitalgroup.me:80/3329/1234/930
+#EXTINF:-1,TC PREMIUM
+http://lista.digitalgroup.me:80/3329/1234/2415
+#EXTINF:-1,TC PREMIUM FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5071
+#EXTINF:-1,TC PREMIUM HD
+http://lista.digitalgroup.me:80/3329/1234/928
+#EXTINF:-1,TC TOUCH
+http://lista.digitalgroup.me:80/3329/1234/926
+#EXTINF:-1,TC TOUCH HD
+http://lista.digitalgroup.me:80/3329/1234/927
+#EXTINF:-1,THE HISTORY CHANNEL
+http://lista.digitalgroup.me:80/3329/1234/923
+#EXTINF:-1,THE HISTORY CHANNEL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/16216
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://lista.digitalgroup.me:80/3329/1234/2468
+#EXTINF:-1,TLC
+http://lista.digitalgroup.me:80/3329/1234/922
+#EXTINF:-1,TLC HD
+http://lista.digitalgroup.me:80/3329/1234/5097
+#EXTINF:-1,TNT
+http://lista.digitalgroup.me:80/3329/1234/921
+#EXTINF:-1,TNT FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5073
+#EXTINF:-1,TNT HD
+http://lista.digitalgroup.me:80/3329/1234/2383
+#EXTINF:-1,TNT SERIES
+http://lista.digitalgroup.me:80/3329/1234/1204
+#EXTINF:-1,TNT SERIES FULL HD
+http://lista.digitalgroup.me:80/3329/1234/5074
+#EXTINF:-1,TNT SERIES HD
+http://lista.digitalgroup.me:80/3329/1234/2474
+#EXTINF:-1,TRU TV
+http://lista.digitalgroup.me:80/3329/1234/917
+#EXTINF:-1,TV BRASIL
+http://lista.digitalgroup.me:80/3329/1234/915
+#EXTINF:-1,TV EVANGELIZAR
+http://lista.digitalgroup.me:80/3329/1234/11974
+#EXTINF:-1,TV MUNDIAL
+http://lista.digitalgroup.me:80/3329/1234/11971
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://lista.digitalgroup.me:80/3329/1234/940
+#EXTINF:-1,UNIVERSAL CHANNEL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/26007
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://lista.digitalgroup.me:80/3329/1234/2475
+#EXTINF:-1,VH1 MEGA HITS
+http://lista.digitalgroup.me:80/3329/1234/898
+#EXTINF:-1,VH1 MEGA HITS FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50193
+#EXTINF:-1,VH1 MEGA HITS HD
+http://lista.digitalgroup.me:80/3329/1234/50194
+#EXTINF:-1,VIVA FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48796
+#EXTINF:-1,VIVA HD
+http://lista.digitalgroup.me:80/3329/1234/2476
+#EXTINF:-1,VIVA HD ALTERNATIVO
+http://lista.digitalgroup.me:80/3329/1234/48797
+#EXTINF:-1,VIVA SD 1
+http://lista.digitalgroup.me:80/3329/1234/38722
+#EXTINF:-1,VIVA SD 2
+http://lista.digitalgroup.me:80/3329/1234/38721
+#EXTINF:-1,VIVA SD 3
+http://lista.digitalgroup.me:80/3329/1234/38720
+#EXTINF:-1,VIVA SD 4
+http://lista.digitalgroup.me:80/3329/1234/897
+#EXTINF:-1,VIVA SD+
+http://lista.digitalgroup.me:80/3329/1234/23984
+#EXTINF:-1,WARNER CHANNEL
+http://lista.digitalgroup.me:80/3329/1234/896
+#EXTINF:-1,WARNER CHANNEL FULL HD
+http://lista.digitalgroup.me:80/3329/1234/48817
+#EXTINF:-1,WARNER CHANNEL HD
+http://lista.digitalgroup.me:80/3329/1234/2478
+#EXTINF:-1,WARNER CHANNEL HD ALTERNATIVO
+http://lista.digitalgroup.me:80/3329/1234/48818
+#EXTINF:-1,WOOHOO
+http://lista.digitalgroup.me:80/3329/1234/894
+#EXTINF:-1,WOOHOO FULL HD
+http://lista.digitalgroup.me:80/3329/1234/50195
+#EXTINF:-1,WOOHOO HD
+http://lista.digitalgroup.me:80/3329/1234/16214
+#EXTINF:-1,ZOOMOO
+http://lista.digitalgroup.me:80/3329/1234/20833
