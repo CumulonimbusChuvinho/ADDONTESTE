@@ -1,1251 +1,2311 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://lista.digitalgroup.me:80/Ciro/1234/1120
-#EXTINF:-1,A&E FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46898
+#EXTINF:-1,A Fazenda HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29879
+#EXTINF:-1,Champions League 1 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29887
+#EXTINF:-1,Champions League 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29886
+#EXTINF:-1,Champions League 3 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29885
+#EXTINF:-1,Champions League 4 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29884
+#EXTINF:-1,Champions League 5 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29883
+#EXTINF:-1,Champions League 6 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29882
+#EXTINF:-1,A&E FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2025
+#EXTINF:-1,A&E FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25400
+#EXTINF:-1,A&E FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29484
 #EXTINF:-1,A&E HD
-http://lista.digitalgroup.me:80/Ciro/1234/5078
-#EXTINF:-1,AMC
-http://lista.digitalgroup.me:80/Ciro/1234/9609
-#EXTINF:-1,AMC FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26029
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1906
+#EXTINF:-1,A&E HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2402
+#EXTINF:-1,A&E SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1907
+#EXTINF:-1,A&E SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2215
+#EXTINF:-1,Aladdin [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2100
+#EXTINF:-1,AMC FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2024
+#EXTINF:-1,AMC FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25399
+#EXTINF:-1,AMC FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29483
 #EXTINF:-1,AMC HD
-http://lista.digitalgroup.me:80/Ciro/1234/15406
-#EXTINF:-1,ANIMAL PLANET
-http://lista.digitalgroup.me:80/Ciro/1234/1719
-#EXTINF:-1,ANIMAL PLANET FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46899
-#EXTINF:-1,ANIMAL PLANET HD
-http://lista.digitalgroup.me:80/Ciro/1234/1117
-#EXTINF:-1,APARECIDA
-http://lista.digitalgroup.me:80/Ciro/1234/916
-#EXTINF:-1,APARECIDA HD
-http://lista.digitalgroup.me:80/Ciro/1234/20831
-#EXTINF:-1,ARTE 1
-http://lista.digitalgroup.me:80/Ciro/1234/1218
-#EXTINF:-1,ARTE 1 HD
-http://lista.digitalgroup.me:80/Ciro/1234/20795
-#EXTINF:-1,AXN
-http://lista.digitalgroup.me:80/Ciro/1234/1712
-#EXTINF:-1,AXN FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5033
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1904
+#EXTINF:-1,AMC HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2401
+#EXTINF:-1,AMC SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1905
+#EXTINF:-1,AMC SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2214
+#EXTINF:-1,Animal Planet 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28663
+#EXTINF:-1,Animal Planet FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2023
+#EXTINF:-1,Animal Planet FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25472
+#EXTINF:-1,Animal Planet FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29482
+#EXTINF:-1,Animal Planet HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1902
+#EXTINF:-1,Animal Planet HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2400
+#EXTINF:-1,Animal Planet SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1903
+#EXTINF:-1,Animal Planet SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2213
+#EXTINF:-1,Arte 1 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2022
+#EXTINF:-1,Arte 1 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25471
+#EXTINF:-1,Arte 1 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1900
+#EXTINF:-1,Arte 1 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1901
+#EXTINF:-1,Arte 1 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2113
+#EXTINF:-1,As Meninas Superpoderosas [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2099
+#EXTINF:-1,As Tartarugas Ninja [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2098
+#EXTINF:-1,AXN FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2021
+#EXTINF:-1,AXN FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25470
+#EXTINF:-1,AXN FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29481
 #EXTINF:-1,AXN HD
-http://lista.digitalgroup.me:80/Ciro/1234/1114
-#EXTINF:-1,BABY TV
-http://lista.digitalgroup.me:80/Ciro/1234/11970
-#EXTINF:-1,BAND NEWS
-http://lista.digitalgroup.me:80/Ciro/1234/1107
-#EXTINF:-1,BAND NEWS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18028
-#EXTINF:-1,BAND NEWS HD
-http://lista.digitalgroup.me:80/Ciro/1234/17951
-#EXTINF:-1,BAND SP
-http://lista.digitalgroup.me:80/Ciro/1234/1713
-#EXTINF:-1,BAND SP FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46900
-#EXTINF:-1,BAND SP HD
-http://lista.digitalgroup.me:80/Ciro/1234/1108
-#EXTINF:-1,BAND SPORTS
-http://lista.digitalgroup.me:80/Ciro/1234/1106
-#EXTINF:-1,BAND SPORTS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5034
-#EXTINF:-1,BAND SPORTS HD
-http://lista.digitalgroup.me:80/Ciro/1234/2407
-#EXTINF:-1,BIS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26028
-#EXTINF:-1,BIS HD
-http://lista.digitalgroup.me:80/Ciro/1234/1104
-#EXTINF:-1,BIS SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38740
-#EXTINF:-1,BIS SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38739
-#EXTINF:-1,BIS SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38738
-#EXTINF:-1,BIS SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/2408
-#EXTINF:-1,BIS SD+
-http://lista.digitalgroup.me:80/Ciro/1234/24187
-#EXTINF:-1,BOOMERANG
-http://lista.digitalgroup.me:80/Ciro/1234/1102
-#EXTINF:-1,BOOMERANG FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46901
-#EXTINF:-1,BOOMERANG HD
-http://lista.digitalgroup.me:80/Ciro/1234/20801
-#EXTINF:-1,CANAL BRASIL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5079
-#EXTINF:-1,CANAL BRASIL SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38743
-#EXTINF:-1,CANAL BRASIL SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38742
-#EXTINF:-1,CANAL BRASIL SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38741
-#EXTINF:-1,CANAL BRASIL SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1098
-#EXTINF:-1,CANAL BRASIL SD+
-http://lista.digitalgroup.me:80/Ciro/1234/24745
-#EXTINF:-1,CANAL DO BOI
-http://lista.digitalgroup.me:80/Ciro/1234/2382
-#EXTINF:-1,CANAL RURAL
-http://lista.digitalgroup.me:80/Ciro/1234/2482
-#EXTINF:-1,CANCAO NOVA
-http://lista.digitalgroup.me:80/Ciro/1234/1220
-#EXTINF:-1,CANCAO NOVA HD
-http://lista.digitalgroup.me:80/Ciro/1234/38470
-#EXTINF:-1,CANCAO NOVA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/37784
-#EXTINF:-1,CARTOON NETWORK
-http://lista.digitalgroup.me:80/Ciro/1234/1095
-#EXTINF:-1,CARTOON NETWORK FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26032
-#EXTINF:-1,CARTOON NETWORK HD
-http://lista.digitalgroup.me:80/Ciro/1234/2479
-#EXTINF:-1,CARTOON NETWORK SD+
-http://lista.digitalgroup.me:80/Ciro/1234/43516
-#EXTINF:-1,CINEMAX
-http://lista.digitalgroup.me:80/Ciro/1234/2483
-#EXTINF:-1,CINEMAX FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26027
-#EXTINF:-1,CINEMAX HD
-http://lista.digitalgroup.me:80/Ciro/1234/5080
-#EXTINF:-1,CNT
-http://lista.digitalgroup.me:80/Ciro/1234/18031
-#EXTINF:-1,COMBATE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18019
-#EXTINF:-1,COMBATE HD
-http://lista.digitalgroup.me:80/Ciro/1234/1088
-#EXTINF:-1,COMBATE SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38746
-#EXTINF:-1,COMBATE SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38745
-#EXTINF:-1,COMBATE SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38744
-#EXTINF:-1,COMBATE SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1089
-#EXTINF:-1,COMBATE SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22442
-#EXTINF:-1,COMEDY CENTRAL
-http://lista.digitalgroup.me:80/Ciro/1234/2484
-#EXTINF:-1,COMEDY CENTRAL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46902
-#EXTINF:-1,COMEDY CENTRAL HD
-http://lista.digitalgroup.me:80/Ciro/1234/16004
-#EXTINF:-1,COPA LIBERTADORES 2019 HD
-http://lista.digitalgroup.me:80/Ciro/1234/48114
-#EXTINF:-1,CULTURA
-http://lista.digitalgroup.me:80/Ciro/1234/2505
-#EXTINF:-1,CURTA
-http://lista.digitalgroup.me:80/Ciro/1234/2485
-#EXTINF:-1,DAZN FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46924
-#EXTINF:-1,DAZN HD
-http://lista.digitalgroup.me:80/Ciro/1234/46925
-#EXTINF:-1,DEUTSCH
-http://lista.digitalgroup.me:80/Ciro/1234/18034
-#EXTINF:-1,DEUTSCH HD
-http://lista.digitalgroup.me:80/Ciro/1234/37776
-#EXTINF:-1,DEUTSCH SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38471
-#EXTINF:-1,DISCOVERY CHANNEL
-http://lista.digitalgroup.me:80/Ciro/1234/1084
-#EXTINF:-1,DISCOVERY CHANNEL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5035
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://lista.digitalgroup.me:80/Ciro/1234/2410
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://lista.digitalgroup.me:80/Ciro/1234/20805
-#EXTINF:-1,DISCOVERY CIVILIZATION FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26026
-#EXTINF:-1,DISCOVERY CIVILIZATION HD
-http://lista.digitalgroup.me:80/Ciro/1234/16005
-#EXTINF:-1,DISCOVERY HOME & HEALTH
-http://lista.digitalgroup.me:80/Ciro/1234/2399
-#EXTINF:-1,DISCOVERY HOME & HEALTH FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46905
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://lista.digitalgroup.me:80/Ciro/1234/1082
-#EXTINF:-1,DISCOVERY KIDS
-http://lista.digitalgroup.me:80/Ciro/1234/1080
-#EXTINF:-1,DISCOVERY KIDS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26025
-#EXTINF:-1,DISCOVERY KIDS HD
-http://lista.digitalgroup.me:80/Ciro/1234/5081
-#EXTINF:-1,DISCOVERY SCIENCE
-http://lista.digitalgroup.me:80/Ciro/1234/20806
-#EXTINF:-1,DISCOVERY SCIENCE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26024
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://lista.digitalgroup.me:80/Ciro/1234/16006
-#EXTINF:-1,DISCOVERY THEATER
-http://lista.digitalgroup.me:80/Ciro/1234/20807
-#EXTINF:-1,DISCOVERY THEATER FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26023
-#EXTINF:-1,DISCOVERY THEATER HD
-http://lista.digitalgroup.me:80/Ciro/1234/2460
-#EXTINF:-1,DISCOVERY TURBO
-http://lista.digitalgroup.me:80/Ciro/1234/1072
-#EXTINF:-1,DISCOVERY TURBO FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5038
-#EXTINF:-1,DISCOVERY TURBO HD
-http://lista.digitalgroup.me:80/Ciro/1234/2411
-#EXTINF:-1,DISCOVERY WORLD
-http://lista.digitalgroup.me:80/Ciro/1234/20808
-#EXTINF:-1,DISCOVERY WORLD FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26022
-#EXTINF:-1,DISCOVERY WORLD HD
-http://lista.digitalgroup.me:80/Ciro/1234/2461
-#EXTINF:-1,DISNEY CHANNEL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46904
-#EXTINF:-1,DISNEY CHANNEL HD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38438
-#EXTINF:-1,DISNEY CHANNEL HD 2
-http://lista.digitalgroup.me:80/Ciro/1234/5082
-#EXTINF:-1,DISNEY CHANNEL SD
-http://lista.digitalgroup.me:80/Ciro/1234/38763
-#EXTINF:-1,DISNEY CHANNEL SD+
-http://lista.digitalgroup.me:80/Ciro/1234/1071
-#EXTINF:-1,DISNEY JR FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26021
-#EXTINF:-1,DISNEY JR HD
-http://lista.digitalgroup.me:80/Ciro/1234/20809
-#EXTINF:-1,DISNEY JR SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38783
-#EXTINF:-1,DISNEY JR SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/1068
-#EXTINF:-1,DISNEY JR SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38441
-#EXTINF:-1,DISNEY XD FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46903
-#EXTINF:-1,DISNEY XD HD
-http://lista.digitalgroup.me:80/Ciro/1234/20810
-#EXTINF:-1,DISNEY XD SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38761
-#EXTINF:-1,DISNEY XD SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/1065
-#EXTINF:-1,DISNEY XD SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38440
-#EXTINF:-1,E!
-http://lista.digitalgroup.me:80/Ciro/1234/1063
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1898
+#EXTINF:-1,AXN HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2399
+#EXTINF:-1,AXN HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1529
+#EXTINF:-1,AXN SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1899
+#EXTINF:-1,AXN SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2212
+#EXTINF:-1,AXN SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1528
+#EXTINF:-1,Baby TV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1897
+#EXTINF:-1,Baby TV SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2211
+#EXTINF:-1,Band Goiania FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29487
+#EXTINF:-1,Band SP 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28672
+#EXTINF:-1,Band SP FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1953
+#EXTINF:-1,Band SP FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25398
+#EXTINF:-1,Band SP HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1895
+#EXTINF:-1,Band SP HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2398
+#EXTINF:-1,Band SP SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1896
+#EXTINF:-1,BandNews FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2020
+#EXTINF:-1,BandNews FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25469
+#EXTINF:-1,BandNews FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29423
+#EXTINF:-1,BandNews HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1893
+#EXTINF:-1,BandNews SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1894
+#EXTINF:-1,BandNews SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2210
+#EXTINF:-1,BandSports FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2019
+#EXTINF:-1,BandSports FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25468
+#EXTINF:-1,BandSports FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29422
+#EXTINF:-1,BandSports HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1891
+#EXTINF:-1,BandSports HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2397
+#EXTINF:-1,BandSports SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1892
+#EXTINF:-1,BandSports SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2209
+#EXTINF:-1,Bis FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1952
+#EXTINF:-1,Bis FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25467
+#EXTINF:-1,Bis FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29421
+#EXTINF:-1,Bis HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1889
+#EXTINF:-1,Bis HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2396
+#EXTINF:-1,Bis SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1890
+#EXTINF:-1,Bis SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2121
+#EXTINF:-1,Boa Vontade TV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25363
+#EXTINF:-1,Boa Vontade TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1888
+#EXTINF:-1,Bob Esponja [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2097
+#EXTINF:-1,Boomerang FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2018
+#EXTINF:-1,Boomerang FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25466
+#EXTINF:-1,Boomerang FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29420
+#EXTINF:-1,Boomerang HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1886
+#EXTINF:-1,Boomerang SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1887
+#EXTINF:-1,Boomerang SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2208
+#EXTINF:-1,Breaking Bad [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2029
+#EXTINF:-1,Canal Brasil FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1920
+#EXTINF:-1,Canal Brasil FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25465
+#EXTINF:-1,Canal Brasil FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29402
+#EXTINF:-1,Canal Brasil HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1884
+#EXTINF:-1,Canal Brasil SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1885
+#EXTINF:-1,Canal Brasil SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2115
+#EXTINF:-1,Canal Do Boi SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1655
+#EXTINF:-1,Canal Do Boi SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2114
+#EXTINF:-1,Canal Sony FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2017
+#EXTINF:-1,Canal Sony FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25464
+#EXTINF:-1,Canal Sony FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29480
+#EXTINF:-1,Canal Sony HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1882
+#EXTINF:-1,Canal Sony HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2395
+#EXTINF:-1,Canal Sony HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1495
+#EXTINF:-1,Canal Sony SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1883
+#EXTINF:-1,Canal Sony SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2207
+#EXTINF:-1,Canal Sony SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1494
+#EXTINF:-1,Cancao Nova SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1881
+#EXTINF:-1,Cancao Nova SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2107
+#EXTINF:-1,Cartoon Network 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28662
+#EXTINF:-1,Cartoon Network FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2016
+#EXTINF:-1,Cartoon Network FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25463
+#EXTINF:-1,Cartoon Network FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29479
+#EXTINF:-1,Cartoon Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1879
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2394
+#EXTINF:-1,Cartoon Network SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1880
+#EXTINF:-1,Cartoon Network SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2112
+#EXTINF:-1,Chapolin Colorado [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2027
+#EXTINF:-1,Chaves Animado [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2094
+#EXTINF:-1,Chicago [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2425
+#EXTINF:-1,Cinemax FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2015
+#EXTINF:-1,Cinemax FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25462
+#EXTINF:-1,Cinemax FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29478
+#EXTINF:-1,Cinemax HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1877
+#EXTINF:-1,Cinemax HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2393
+#EXTINF:-1,Cinemax SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1878
+#EXTINF:-1,Cinemax SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2130
+#EXTINF:-1,Combate 4K
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1491
+#EXTINF:-1,Combate 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28671
+#EXTINF:-1,Combate FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1951
+#EXTINF:-1,Combate FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25461
+#EXTINF:-1,Combate FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29477
+#EXTINF:-1,Combate HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1875
+#EXTINF:-1,Combate HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2392
+#EXTINF:-1,Combate SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1876
+#EXTINF:-1,Combate SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2206
+#EXTINF:-1,Comedy Central FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2014
+#EXTINF:-1,Comedy Central FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25460
+#EXTINF:-1,Comedy Central FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29476
+#EXTINF:-1,Comedy Central HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1873
+#EXTINF:-1,Comedy Central HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2391
+#EXTINF:-1,Comedy Central SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1874
+#EXTINF:-1,Comedy Central SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2205
+#EXTINF:-1,Coragem [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2092
+#EXTINF:-1,Curta FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2013
+#EXTINF:-1,Curta HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1871
+#EXTINF:-1,Curta SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1872
+#EXTINF:-1,Curta SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2204
+#EXTINF:-1,Curta! FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25459
+#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1642
+#EXTINF:-1,DAZN 2 - Copa Libertadores HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1641
+#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1640
+#EXTINF:-1,Denis - O Pimentinha [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2091
+#EXTINF:-1,Digimon [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2090
+#EXTINF:-1,Discovery Channel 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28670
+#EXTINF:-1,Discovery Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1950
+#EXTINF:-1,Discovery Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25362
+#EXTINF:-1,Discovery Channel FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29475
+#EXTINF:-1,Discovery Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1869
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2390
+#EXTINF:-1,Discovery Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1870
+#EXTINF:-1,Discovery Channel SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2203
+#EXTINF:-1,Discovery Civilization FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2012
+#EXTINF:-1,Discovery Civilization FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25397
+#EXTINF:-1,Discovery Civilization FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29474
+#EXTINF:-1,Discovery Civilization HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1867
+#EXTINF:-1,Discovery Civilization HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2389
+#EXTINF:-1,Discovery Civilization SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1868
+#EXTINF:-1,Discovery Civilization SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2117
+#EXTINF:-1,Discovery H&H FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2011
+#EXTINF:-1,Discovery H&H FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25396
+#EXTINF:-1,Discovery H&H FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29419
+#EXTINF:-1,Discovery H&H HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1865
+#EXTINF:-1,Discovery H&H HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2388
+#EXTINF:-1,Discovery H&H SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1866
+#EXTINF:-1,Discovery H&H SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2106
+#EXTINF:-1,Discovery Kids FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2010
+#EXTINF:-1,Discovery Kids FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25395
+#EXTINF:-1,Discovery Kids FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29473
+#EXTINF:-1,Discovery Kids HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1863
+#EXTINF:-1,Discovery Kids HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2387
+#EXTINF:-1,Discovery Kids SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1864
+#EXTINF:-1,Discovery Kids SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2202
+#EXTINF:-1,Discovery Science FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2009
+#EXTINF:-1,Discovery Science FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25394
+#EXTINF:-1,Discovery Science FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29472
+#EXTINF:-1,Discovery Science HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1861
+#EXTINF:-1,Discovery Science HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2386
+#EXTINF:-1,Discovery Science SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1862
+#EXTINF:-1,Discovery Science SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2123
+#EXTINF:-1,Discovery Theater FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2008
+#EXTINF:-1,Discovery Theater FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25393
+#EXTINF:-1,Discovery Theater FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29471
+#EXTINF:-1,Discovery Theater HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1859
+#EXTINF:-1,Discovery Theater HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2385
+#EXTINF:-1,Discovery Theater SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1860
+#EXTINF:-1,Discovery Theater SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2124
+#EXTINF:-1,Discovery Turbo FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2007
+#EXTINF:-1,Discovery Turbo FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25392
+#EXTINF:-1,Discovery Turbo FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29401
+#EXTINF:-1,Discovery Turbo HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1857
+#EXTINF:-1,Discovery Turbo HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2384
+#EXTINF:-1,Discovery Turbo SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1858
+#EXTINF:-1,Discovery Turbo SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2201
+#EXTINF:-1,Discovery World FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2006
+#EXTINF:-1,Discovery World FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25391
+#EXTINF:-1,Discovery World FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29400
+#EXTINF:-1,Discovery World HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1855
+#EXTINF:-1,Discovery World HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2383
+#EXTINF:-1,Discovery World SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1856
+#EXTINF:-1,Discovery World SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2122
+#EXTINF:-1,Disney Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1949
+#EXTINF:-1,Disney Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25390
+#EXTINF:-1,Disney Channel FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29418
+#EXTINF:-1,Disney Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1853
+#EXTINF:-1,Disney Channel HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2382
+#EXTINF:-1,Disney Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1854
+#EXTINF:-1,Disney Channel SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2200
+#EXTINF:-1,Disney Jr FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1955
+#EXTINF:-1,Disney Jr FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25389
+#EXTINF:-1,Disney Jr FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29417
+#EXTINF:-1,Disney Jr HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1678
+#EXTINF:-1,Disney Jr HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2381
+#EXTINF:-1,Disney Jr SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1852
+#EXTINF:-1,Disney Jr SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2199
+#EXTINF:-1,Disney XD FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25361
+#EXTINF:-1,Disney XD SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1851
+#EXTINF:-1,Disney XD SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2198
+#EXTINF:-1,Doha [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2428
+#EXTINF:-1,Dois Homens e Meio [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2089
+#EXTINF:-1,Doug [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2049
+#EXTINF:-1,Dragon Ball Super [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2056
+#EXTINF:-1,Dragon Ball Z [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2088
+#EXTINF:-1,Dubai [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2423
+#EXTINF:-1,Dublin [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2421
+#EXTINF:-1,E! FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2005
+#EXTINF:-1,E! FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25388
+#EXTINF:-1,E! FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29416
 #EXTINF:-1,E! HD
-http://lista.digitalgroup.me:80/Ciro/1234/5083
-#EXTINF:-1,EI PLUS
-http://lista.digitalgroup.me:80/Ciro/1234/42916
-#EXTINF:-1,EI PLUS HD
-http://lista.digitalgroup.me:80/Ciro/1234/42914
-#EXTINF:-1,ESPN 1 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26044
-#EXTINF:-1,ESPN 1 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1129
-#EXTINF:-1,ESPN 1 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38754
-#EXTINF:-1,ESPN 1 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/1718
-#EXTINF:-1,ESPN 1 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38387
-#EXTINF:-1,ESPN 2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26043
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1849
+#EXTINF:-1,E! HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2380
+#EXTINF:-1,E! SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1850
+#EXTINF:-1,E! SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2197
+#EXTINF:-1,Ei Plus HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1645
+#EXTINF:-1,Ei Plus SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1644
+#EXTINF:-1,ESPN 2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2004
+#EXTINF:-1,ESPN 2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25458
+#EXTINF:-1,ESPN 2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29394
 #EXTINF:-1,ESPN 2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/2394
-#EXTINF:-1,ESPN 2 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38756
-#EXTINF:-1,ESPN 2 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/2395
-#EXTINF:-1,ESPN 2 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38416
-#EXTINF:-1,ESPN BRASIL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26045
-#EXTINF:-1,ESPN BRASIL HD
-http://lista.digitalgroup.me:80/Ciro/1234/2387
-#EXTINF:-1,ESPN BRASIL SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38758
-#EXTINF:-1,ESPN BRASIL SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/1060
-#EXTINF:-1,ESPN BRASIL SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38415
-#EXTINF:-1,ESPN EXTRA FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46906
-#EXTINF:-1,ESPN EXTRA HD
-http://lista.digitalgroup.me:80/Ciro/1234/20813
-#EXTINF:-1,ESPN EXTRA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/20812
-#EXTINF:-1,ESPN EXTRA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/40435
-#EXTINF:-1,ESPN EXTRA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38417
-#EXTINF:-1,FISH TV
-http://lista.digitalgroup.me:80/Ciro/1234/1050
-#EXTINF:-1,FOOD NETWORK
-http://lista.digitalgroup.me:80/Ciro/1234/1049
-#EXTINF:-1,FOOD NETWORK FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26041
-#EXTINF:-1,FOOD NETWORK HD
-http://lista.digitalgroup.me:80/Ciro/1234/5084
-#EXTINF:-1,FOX
-http://lista.digitalgroup.me:80/Ciro/1234/1329
-#EXTINF:-1,FOX FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18020
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1846
+#EXTINF:-1,ESPN 2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2379
+#EXTINF:-1,ESPN 2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1847
+#EXTINF:-1,ESPN 2 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2196
+#EXTINF:-1,ESPN 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28861
+#EXTINF:-1,ESPN Brasil FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1948
+#EXTINF:-1,ESPN Brasil FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25387
+#EXTINF:-1,ESPN Brasil FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29396
+#EXTINF:-1,ESPN Brasil HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1844
+#EXTINF:-1,ESPN Brasil HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2378
+#EXTINF:-1,ESPN Brasil SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1845
+#EXTINF:-1,ESPN Brasil SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2195
+#EXTINF:-1,ESPN Extra FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2003
+#EXTINF:-1,ESPN Extra FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25457
+#EXTINF:-1,ESPN Extra FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29393
+#EXTINF:-1,ESPN Extra HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1842
+#EXTINF:-1,ESPN Extra HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2377
+#EXTINF:-1,ESPN Extra SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1843
+#EXTINF:-1,ESPN FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1947
+#EXTINF:-1,ESPN FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25386
+#EXTINF:-1,ESPN FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29395
+#EXTINF:-1,ESPN HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1841
+#EXTINF:-1,ESPN HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2376
+#EXTINF:-1,ESPN SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1848
+#EXTINF:-1,ESPN SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2194
+#EXTINF:-1,Eu a Patroa e as Criancas [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2054
+#EXTINF:-1,FashionTV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25385
+#EXTINF:-1,Film & Arts SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1666
+#EXTINF:-1,Fish TV FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2002
+#EXTINF:-1,Fish TV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25384
+#EXTINF:-1,Fish TV FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29470
+#EXTINF:-1,Fish TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1839
+#EXTINF:-1,Fish TV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1840
+#EXTINF:-1,Fish TV SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2109
+#EXTINF:-1,Food Network FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2001
+#EXTINF:-1,Food Network FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25456
+#EXTINF:-1,Food Network FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29469
+#EXTINF:-1,Food Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1837
+#EXTINF:-1,Food Network HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2375
+#EXTINF:-1,Food Network SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1838
+#EXTINF:-1,Food Network SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2125
+#EXTINF:-1,Formiga Atomica [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2039
+#EXTINF:-1,FOX FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1946
+#EXTINF:-1,FOX FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25455
+#EXTINF:-1,FOX FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29468
 #EXTINF:-1,FOX HD
-http://lista.digitalgroup.me:80/Ciro/1234/1047
-#EXTINF:-1,FOX LIFE
-http://lista.digitalgroup.me:80/Ciro/1234/1038
-#EXTINF:-1,FOX LIFE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46909
-#EXTINF:-1,FOX LIFE HD
-http://lista.digitalgroup.me:80/Ciro/1234/1037
-#EXTINF:-1,FOX PREMIUM 1
-http://lista.digitalgroup.me:80/Ciro/1234/20815
-#EXTINF:-1,FOX PREMIUM 1 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46907
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://lista.digitalgroup.me:80/Ciro/1234/2464
-#EXTINF:-1,FOX PREMIUM 2
-http://lista.digitalgroup.me:80/Ciro/1234/20816
-#EXTINF:-1,FOX PREMIUM 2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46908
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/2465
-#EXTINF:-1,FOX SPORTS
-http://lista.digitalgroup.me:80/Ciro/1234/2391
-#EXTINF:-1,FOX SPORTS 2
-http://lista.digitalgroup.me:80/Ciro/1234/1717
-#EXTINF:-1,FOX SPORTS 2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26031
-#EXTINF:-1,FOX SPORTS 2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1031
-#EXTINF:-1,FOX SPORTS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18021
-#EXTINF:-1,FOX SPORTS HD
-http://lista.digitalgroup.me:80/Ciro/1234/1033
-#EXTINF:-1,FUTURA HD
-http://lista.digitalgroup.me:80/Ciro/1234/20803
-#EXTINF:-1,FUTURA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38735
-#EXTINF:-1,FUTURA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38736
-#EXTINF:-1,FUTURA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38737
-#EXTINF:-1,FUTURA SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1029
-#EXTINF:-1,FUTURA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38484
-#EXTINF:-1,FX
-http://lista.digitalgroup.me:80/Ciro/1234/1028
-#EXTINF:-1,FX FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26040
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1835
+#EXTINF:-1,FOX HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2374
+#EXTINF:-1,FOX HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1527
+#EXTINF:-1,FOX Life FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2000
+#EXTINF:-1,FOX Life FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25454
+#EXTINF:-1,FOX Life HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1833
+#EXTINF:-1,FOX Life HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2373
+#EXTINF:-1,FOX Life SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1834
+#EXTINF:-1,FOX Life SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2193
+#EXTINF:-1,FOX Premium 1 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1999
+#EXTINF:-1,FOX Premium 1 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25453
+#EXTINF:-1,FOX Premium 1 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29415
+#EXTINF:-1,FOX Premium 1 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1831
+#EXTINF:-1,FOX Premium 1 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2372
+#EXTINF:-1,FOX Premium 1 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1832
+#EXTINF:-1,FOX Premium 2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1998
+#EXTINF:-1,FOX Premium 2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25452
+#EXTINF:-1,FOX Premium 2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29414
+#EXTINF:-1,FOX Premium 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1829
+#EXTINF:-1,FOX Premium 2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2371
+#EXTINF:-1,FOX Premium 2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1830
+#EXTINF:-1,FOX SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1836
+#EXTINF:-1,FOX SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2192
+#EXTINF:-1,FOX SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1526
+#EXTINF:-1,FOX Sports 2 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28661
+#EXTINF:-1,FOX Sports 2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1945
+#EXTINF:-1,FOX Sports 2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25383
+#EXTINF:-1,FOX Sports 2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29467
+#EXTINF:-1,FOX Sports 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1825
+#EXTINF:-1,FOX Sports 2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2370
+#EXTINF:-1,FOX Sports 2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1826
+#EXTINF:-1,FOX Sports 2 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2191
+#EXTINF:-1,FOX Sports 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28669
+#EXTINF:-1,FOX Sports FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1944
+#EXTINF:-1,FOX Sports FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25382
+#EXTINF:-1,FOX Sports FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29466
+#EXTINF:-1,FOX Sports HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1827
+#EXTINF:-1,FOX Sports HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2369
+#EXTINF:-1,FOX Sports SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1828
+#EXTINF:-1,FOX Sports SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2190
+#EXTINF:-1,Futura FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1997
+#EXTINF:-1,Futura FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25451
+#EXTINF:-1,Futura HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1823
+#EXTINF:-1,Futura SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1824
+#EXTINF:-1,Futura SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2189
+#EXTINF:-1,FX FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1996
+#EXTINF:-1,FX FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25450
+#EXTINF:-1,FX FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29465
 #EXTINF:-1,FX HD
-http://lista.digitalgroup.me:80/Ciro/1234/2386
-#EXTINF:-1,GLOBO ACRE HD
-http://lista.digitalgroup.me:80/Ciro/1234/49721
-#EXTINF:-1,GLOBO ACRE SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/49720
-#EXTINF:-1,GLOBO ACRE SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/49722
-#EXTINF:-1,GLOBO ACRE SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/49723
-#EXTINF:-1,GLOBO ACRE SD+
-http://lista.digitalgroup.me:80/Ciro/1234/49724
-#EXTINF:-1,GLOBO AMAPÁ HD
-http://lista.digitalgroup.me:80/Ciro/1234/49729
-#EXTINF:-1,GLOBO AMAPÁ SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/49725
-#EXTINF:-1,GLOBO AMAPÁ SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/49726
-#EXTINF:-1,GLOBO AMAPÁ SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/49727
-#EXTINF:-1,GLOBO AMAPÁ SD+
-http://lista.digitalgroup.me:80/Ciro/1234/49728
-#EXTINF:-1,GLOBO BRASILIA HD
-http://lista.digitalgroup.me:80/Ciro/1234/17121
-#EXTINF:-1,GLOBO BRASILIA HD+
-http://lista.digitalgroup.me:80/Ciro/1234/21804
-#EXTINF:-1,GLOBO BRASILIA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38664
-#EXTINF:-1,GLOBO BRASILIA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38665
-#EXTINF:-1,GLOBO BRASILIA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38666
-#EXTINF:-1,GLOBO BRASILIA SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/2512
-#EXTINF:-1,GLOBO BRASILIA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22363
-#EXTINF:-1,GLOBO EPTV CAMPINAS
-http://lista.digitalgroup.me:80/Ciro/1234/17962
-#EXTINF:-1,GLOBO EPTV CAMPINAS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48808
-#EXTINF:-1,GLOBO EPTV CAMPINAS HD
-http://lista.digitalgroup.me:80/Ciro/1234/48809
-#EXTINF:-1,GLOBO EPTV CENTRAL
-http://lista.digitalgroup.me:80/Ciro/1234/46920
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO
-http://lista.digitalgroup.me:80/Ciro/1234/17852
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48801
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
-http://lista.digitalgroup.me:80/Ciro/1234/17853
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD ALTERNATIVO
-http://lista.digitalgroup.me:80/Ciro/1234/48800
-#EXTINF:-1,GLOBO EPTV SAO CARLOS
-http://lista.digitalgroup.me:80/Ciro/1234/18035
-#EXTINF:-1,GLOBO EPTV SUL MINAS
-http://lista.digitalgroup.me:80/Ciro/1234/46921
-#EXTINF:-1,GLOBO INTER TV CABUGI
-http://lista.digitalgroup.me:80/Ciro/1234/16209
-#EXTINF:-1,GLOBO INTER TV CABUGI FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48816
-#EXTINF:-1,GLOBO INTER TV CABUGI HD
-http://lista.digitalgroup.me:80/Ciro/1234/48815
-#EXTINF:-1,GLOBO INTERTV ALTO LITORAL
-http://lista.digitalgroup.me:80/Ciro/1234/46927
-#EXTINF:-1,GLOBO INTERTV DOS VALES
-http://lista.digitalgroup.me:80/Ciro/1234/46928
-#EXTINF:-1,GLOBO INTERTV GRANDE MINAS
-http://lista.digitalgroup.me:80/Ciro/1234/46922
-#EXTINF:-1,GLOBO INTERTV SERRA MAR
-http://lista.digitalgroup.me:80/Ciro/1234/46926
-#EXTINF:-1,GLOBO MG HD
-http://lista.digitalgroup.me:80/Ciro/1234/17129
-#EXTINF:-1,GLOBO MG HD+
-http://lista.digitalgroup.me:80/Ciro/1234/21803
-#EXTINF:-1,GLOBO MG SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38654
-#EXTINF:-1,GLOBO MG SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38655
-#EXTINF:-1,GLOBO MG SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38656
-#EXTINF:-1,GLOBO MG SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/2412
-#EXTINF:-1,GLOBO MG SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22367
-#EXTINF:-1,GLOBO NEWS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46919
-#EXTINF:-1,GLOBO NEWS HD
-http://lista.digitalgroup.me:80/Ciro/1234/5085
-#EXTINF:-1,GLOBO NEWS SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38716
-#EXTINF:-1,GLOBO NEWS SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38715
-#EXTINF:-1,GLOBO NEWS SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38714
-#EXTINF:-1,GLOBO NEWS SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1027
-#EXTINF:-1,GLOBO NEWS SD+
-http://lista.digitalgroup.me:80/Ciro/1234/23980
-#EXTINF:-1,GLOBO NORDESTE HD
-http://lista.digitalgroup.me:80/Ciro/1234/17130
-#EXTINF:-1,GLOBO NORDESTE SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38667
-#EXTINF:-1,GLOBO NORDESTE SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38668
-#EXTINF:-1,GLOBO NORDESTE SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38669
-#EXTINF:-1,GLOBO NORDESTE SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/15405
-#EXTINF:-1,GLOBO NORDESTE SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22371
-#EXTINF:-1,GLOBO NSC BLUMENAU
-http://lista.digitalgroup.me:80/Ciro/1234/46929
-#EXTINF:-1,GLOBO NSC BLUMENAU FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46939
-#EXTINF:-1,GLOBO NSC BLUMENAU HD
-http://lista.digitalgroup.me:80/Ciro/1234/46940
-#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS
-http://lista.digitalgroup.me:80/Ciro/1234/46923
-#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46941
-#EXTINF:-1,GLOBO NSC FLORIANÓPOLIS HD
-http://lista.digitalgroup.me:80/Ciro/1234/46942
-#EXTINF:-1,GLOBO NSC JOINVILLE
-http://lista.digitalgroup.me:80/Ciro/1234/46930
-#EXTINF:-1,GLOBO NSC JOINVILLE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46944
-#EXTINF:-1,GLOBO NSC JOINVILLE HD
-http://lista.digitalgroup.me:80/Ciro/1234/46943
-#EXTINF:-1,GLOBO NSC TV CENTRO-OESTE
-http://lista.digitalgroup.me:80/Ciro/1234/46945
-#EXTINF:-1,GLOBO NSC TV CHAPECÓ
-http://lista.digitalgroup.me:80/Ciro/1234/46946
-#EXTINF:-1,GLOBO NSC TV CRICIÚMA
-http://lista.digitalgroup.me:80/Ciro/1234/46947
-#EXTINF:-1,GLOBO NSC TV CRICIÚMA FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48813
-#EXTINF:-1,GLOBO NSC TV CRICIÚMA HD
-http://lista.digitalgroup.me:80/Ciro/1234/48814
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
-http://lista.digitalgroup.me:80/Ciro/1234/968
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46915
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE HD
-http://lista.digitalgroup.me:80/Ciro/1234/46914
-#EXTINF:-1,GLOBO REDE AMAZONICA HD
-http://lista.digitalgroup.me:80/Ciro/1234/38452
-#EXTINF:-1,GLOBO REDE AMAZONICA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38670
-#EXTINF:-1,GLOBO REDE AMAZONICA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38671
-#EXTINF:-1,GLOBO REDE AMAZONICA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/9580
-#EXTINF:-1,GLOBO REDE AMAZONICA SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/40436
-#EXTINF:-1,GLOBO REDE AMAZONICA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38451
-#EXTINF:-1,GLOBO RJ FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46913
-#EXTINF:-1,GLOBO RJ HD
-http://lista.digitalgroup.me:80/Ciro/1234/1207
-#EXTINF:-1,GLOBO RJ HD+
-http://lista.digitalgroup.me:80/Ciro/1234/21801
-#EXTINF:-1,GLOBO RJ SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38661
-#EXTINF:-1,GLOBO RJ SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38662
-#EXTINF:-1,GLOBO RJ SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38663
-#EXTINF:-1,GLOBO RJ SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/2508
-#EXTINF:-1,GLOBO RJ SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22209
-#EXTINF:-1,GLOBO RORAIMA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/49730
-#EXTINF:-1,GLOBO RORAIMA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/49731
-#EXTINF:-1,GLOBO RORAIMA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/49732
-#EXTINF:-1,GLOBO RPC CURITIBA
-http://lista.digitalgroup.me:80/Ciro/1234/18032
-#EXTINF:-1,GLOBO RPC CURITIBA FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46917
-#EXTINF:-1,GLOBO RPC CURITIBA HD
-http://lista.digitalgroup.me:80/Ciro/1234/46916
-#EXTINF:-1,GLOBO RPC MARINGÁ
-http://lista.digitalgroup.me:80/Ciro/1234/46948
-#EXTINF:-1,GLOBO RPC MARINGÁ FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48810
-#EXTINF:-1,GLOBO RPC MARINGÁ HD
-http://lista.digitalgroup.me:80/Ciro/1234/48811
-#EXTINF:-1,GLOBO SP FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46912
-#EXTINF:-1,GLOBO SP HD
-http://lista.digitalgroup.me:80/Ciro/1234/17122
-#EXTINF:-1,GLOBO SP HD+
-http://lista.digitalgroup.me:80/Ciro/1234/21800
-#EXTINF:-1,GLOBO SP SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38657
-#EXTINF:-1,GLOBO SP SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38658
-#EXTINF:-1,GLOBO SP SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38659
-#EXTINF:-1,GLOBO SP SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1024
-#EXTINF:-1,GLOBO SP SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22359
-#EXTINF:-1,GLOBO TV ANHANGUERA HD
-http://lista.digitalgroup.me:80/Ciro/1234/49719
-#EXTINF:-1,GLOBO TV ANHANGUERA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/49716
-#EXTINF:-1,GLOBO TV ANHANGUERA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/49717
-#EXTINF:-1,GLOBO TV ANHANGUERA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/2511
-#EXTINF:-1,GLOBO TV ANHANGUERA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/49718
-#EXTINF:-1,GLOBO TV ASA BRANCA
-http://lista.digitalgroup.me:80/Ciro/1234/46949
-#EXTINF:-1,GLOBO TV BAHIA
-http://lista.digitalgroup.me:80/Ciro/1234/19420
-#EXTINF:-1,GLOBO TV BAHIA FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48803
-#EXTINF:-1,GLOBO TV BAHIA HD
-http://lista.digitalgroup.me:80/Ciro/1234/48802
-#EXTINF:-1,GLOBO TV CENTRO AMERICA
-http://lista.digitalgroup.me:80/Ciro/1234/18036
-#EXTINF:-1,GLOBO TV FRONTEIRA
-http://lista.digitalgroup.me:80/Ciro/1234/46931
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS
-http://lista.digitalgroup.me:80/Ciro/1234/46950
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48805
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS HD
-http://lista.digitalgroup.me:80/Ciro/1234/48804
-#EXTINF:-1,GLOBO TV GAZETA ES
-http://lista.digitalgroup.me:80/Ciro/1234/24485
-#EXTINF:-1,GLOBO TV GAZETA ES FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48812
-#EXTINF:-1,GLOBO TV GAZETA ES HD
-http://lista.digitalgroup.me:80/Ciro/1234/24484
-#EXTINF:-1,GLOBO TV INTEGRAÇÃO UBERLÂNDIA
-http://lista.digitalgroup.me:80/Ciro/1234/46932
-#EXTINF:-1,GLOBO TV LIBERAL BELEM
-http://lista.digitalgroup.me:80/Ciro/1234/16217
-#EXTINF:-1,GLOBO TV MIRANTE COCAIS
-http://lista.digitalgroup.me:80/Ciro/1234/46933
-#EXTINF:-1,GLOBO TV MIRANTE SÃO LUIS
-http://lista.digitalgroup.me:80/Ciro/1234/46951
-#EXTINF:-1,GLOBO TV RIO SUL
-http://lista.digitalgroup.me:80/Ciro/1234/46934
-#EXTINF:-1,GLOBO TV RONDÔNIA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/49715
-#EXTINF:-1,GLOBO TV RONDÔNIA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/49714
-#EXTINF:-1,GLOBO TV RONDÔNIA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/49713
-#EXTINF:-1,GLOBO TV SANTA CRUZ
-http://lista.digitalgroup.me:80/Ciro/1234/46935
-#EXTINF:-1,GLOBO TV SERGIPE
-http://lista.digitalgroup.me:80/Ciro/1234/46952
-#EXTINF:-1,GLOBO TV SERGIPE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46954
-#EXTINF:-1,GLOBO TV SERGIPE HD
-http://lista.digitalgroup.me:80/Ciro/1234/46953
-#EXTINF:-1,GLOBO TV SUDOESTE
-http://lista.digitalgroup.me:80/Ciro/1234/46936
-#EXTINF:-1,GLOBO TV TEM BAURU
-http://lista.digitalgroup.me:80/Ciro/1234/24482
-#EXTINF:-1,GLOBO TV TEM ITAPETININGA
-http://lista.digitalgroup.me:80/Ciro/1234/46937
-#EXTINF:-1,GLOBO TV TEM SAO JOSE DO RIO PRETO
-http://lista.digitalgroup.me:80/Ciro/1234/18038
-#EXTINF:-1,GLOBO TV TEM SOROCABA
-http://lista.digitalgroup.me:80/Ciro/1234/24483
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS
-http://lista.digitalgroup.me:80/Ciro/1234/46918
-#EXTINF:-1,GLOBO TV VANGUARDA SAO JOSE DOS CAMPOS
-http://lista.digitalgroup.me:80/Ciro/1234/18039
-#EXTINF:-1,GLOBO TV VANGUARDA TAUBATÉ
-http://lista.digitalgroup.me:80/Ciro/1234/46938
-#EXTINF:-1,GLOBO TV VERDES MARES
-http://lista.digitalgroup.me:80/Ciro/1234/9583
-#EXTINF:-1,GLOBO TV VERDES MARES FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48799
-#EXTINF:-1,GLOBO TV VERDES MARES HD
-http://lista.digitalgroup.me:80/Ciro/1234/48798
-#EXTINF:-1,GLOOB FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48806
-#EXTINF:-1,GLOOB HD
-http://lista.digitalgroup.me:80/Ciro/1234/5086
-#EXTINF:-1,GLOOB HD ALTERNATIVO
-http://lista.digitalgroup.me:80/Ciro/1234/48807
-#EXTINF:-1,GLOOB SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38719
-#EXTINF:-1,GLOOB SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38718
-#EXTINF:-1,GLOOB SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38717
-#EXTINF:-1,GLOOB SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1023
-#EXTINF:-1,GLOOB SD+
-http://lista.digitalgroup.me:80/Ciro/1234/28406
-#EXTINF:-1,GLOOBINHO FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46911
-#EXTINF:-1,GLOOBINHO HD
-http://lista.digitalgroup.me:80/Ciro/1234/17136
-#EXTINF:-1,GLOOBINHO SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38723
-#EXTINF:-1,GLOOBINHO SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38724
-#EXTINF:-1,GLOOBINHO SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38725
-#EXTINF:-1,GLOOBINHO SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/17135
-#EXTINF:-1,GLOOBINHO SD+
-http://lista.digitalgroup.me:80/Ciro/1234/23976
-#EXTINF:-1,GNT FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/46910
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1821
+#EXTINF:-1,FX HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2368
+#EXTINF:-1,FX HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1507
+#EXTINF:-1,FX SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1822
+#EXTINF:-1,FX SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2118
+#EXTINF:-1,FX SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1506
+#EXTINF:-1,Galinha Pintadinha [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2087
+#EXTINF:-1,Globo Brasilia FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1583
+#EXTINF:-1,Globo Brasilia HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1638
+#EXTINF:-1,Globo Brasilia SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1639
+#EXTINF:-1,Globo Brasilia SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2410
+#EXTINF:-1,Globo Campinas FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25360
+#EXTINF:-1,Globo EPTV Araraquara SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1637
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1582
+#EXTINF:-1,Globo EPTV Campinas HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1635
+#EXTINF:-1,Globo EPTV Campinas SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1636
+#EXTINF:-1,Globo EPTV Campinas SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2409
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1563
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1634
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1633
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2408
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1632
+#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2407
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1562
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1561
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1560
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1559
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1558
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1557
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1556
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1555
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1554
+#EXTINF:-1,Globo Inter TV Natal SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1631
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1553
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1552
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1551
+#EXTINF:-1,Globo Internacional FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29403
+#EXTINF:-1,Globo Internacional HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1599
+#EXTINF:-1,Globo Minas FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1581
+#EXTINF:-1,Globo Minas FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25359
+#EXTINF:-1,Globo Minas HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1629
+#EXTINF:-1,Globo Minas HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2414
+#EXTINF:-1,Globo Minas SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1630
+#EXTINF:-1,Globo Minas SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2406
+#EXTINF:-1,Globo News FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1943
+#EXTINF:-1,Globo News FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25449
+#EXTINF:-1,Globo News FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29464
+#EXTINF:-1,Globo News HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1819
+#EXTINF:-1,Globo News HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2367
+#EXTINF:-1,Globo News SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1820
+#EXTINF:-1,Globo News SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2132
+#EXTINF:-1,Globo Nordeste FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1580
+#EXTINF:-1,Globo Nordeste FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25358
+#EXTINF:-1,Globo Nordeste HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1627
+#EXTINF:-1,Globo Nordeste SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1628
+#EXTINF:-1,Globo Nordeste SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2405
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1550
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1549
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1548
+#EXTINF:-1,Globo NSC TV Chapeco FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1598
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1597
+#EXTINF:-1,Globo NSC TV Chapeco SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1596
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1579
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1625
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1626
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1544
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1543
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1542
+#EXTINF:-1,Globo Porto Alegre FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25357
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1547
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1546
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1545
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1541
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1540
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1539
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1578
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1623
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1624
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2404
+#EXTINF:-1,Globo Rede AM. Manaus SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1622
+#EXTINF:-1,Globo Ribeirao Preto FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25356
+#EXTINF:-1,Globo RJ FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1619
+#EXTINF:-1,Globo RJ FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25381
+#EXTINF:-1,Globo RJ HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1620
+#EXTINF:-1,Globo RJ HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2413
+#EXTINF:-1,Globo RJ SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1621
+#EXTINF:-1,Globo RJ SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2403
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1616
+#EXTINF:-1,Globo RPC Curitiba HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1617
+#EXTINF:-1,Globo RPC Curitiba SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1618
+#EXTINF:-1,Globo RPC Foz do Iguacu FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1594
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1593
+#EXTINF:-1,Globo RPC Foz do Iguacu SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1595
+#EXTINF:-1,Globo SP 4K
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1490
+#EXTINF:-1,Globo SP 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28668
+#EXTINF:-1,Globo SP FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1613
+#EXTINF:-1,Globo SP FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25380
+#EXTINF:-1,Globo SP HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1614
+#EXTINF:-1,Globo SP HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2311
+#EXTINF:-1,Globo SP SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1615
+#EXTINF:-1,Globo SP SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2127
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1577
+#EXTINF:-1,Globo TV Anhanguera FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29488
+#EXTINF:-1,Globo TV Anhanguera HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1611
+#EXTINF:-1,Globo TV Anhanguera SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1612
+#EXTINF:-1,Globo TV Bahia FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1576
+#EXTINF:-1,Globo TV Bahia HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1609
+#EXTINF:-1,Globo TV Bahia SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1610
+#EXTINF:-1,Globo TV C. America Cuiaba SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1608
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1538
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1537
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1536
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1591
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1590
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1592
+#EXTINF:-1,Globo TV Diario Fortaleza FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1910
+#EXTINF:-1,Globo TV Diario Fortaleza HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1659
+#EXTINF:-1,Globo TV Diario Fortaleza SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1658
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1567
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1566
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1568
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1565
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1564
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1588
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1587
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1589
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1607
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1575
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1574
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1573
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1572
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1571
+#EXTINF:-1,Globo TV Morena Campo Grande SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1570
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1535
+#EXTINF:-1,Globo TV Rio Sul HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1534
+#EXTINF:-1,Globo TV Rio Sul SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1533
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1532
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1531
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1530
+#EXTINF:-1,Globo TV Sergipe FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1585
+#EXTINF:-1,Globo TV Sergipe HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1584
+#EXTINF:-1,Globo TV Sergipe SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1586
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1606
+#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1604
+#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1603
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1569
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1605
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1602
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1601
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1600
+#EXTINF:-1,GloboEsporte.com HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28653
+#EXTINF:-1,Gloob FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1942
+#EXTINF:-1,Gloob FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25448
+#EXTINF:-1,Gloob FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29413
+#EXTINF:-1,Gloob HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1817
+#EXTINF:-1,Gloob HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2365
+#EXTINF:-1,Gloob SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1818
+#EXTINF:-1,Gloob SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2187
+#EXTINF:-1,Gloobinho FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1995
+#EXTINF:-1,Gloobinho FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25355
+#EXTINF:-1,Gloobinho HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1816
+#EXTINF:-1,Gloobinho SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1815
+#EXTINF:-1,GNT FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1994
+#EXTINF:-1,GNT FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25379
+#EXTINF:-1,GNT FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29412
 #EXTINF:-1,GNT HD
-http://lista.digitalgroup.me:80/Ciro/1234/2466
-#EXTINF:-1,GNT SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38752
-#EXTINF:-1,GNT SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38751
-#EXTINF:-1,GNT SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38750
-#EXTINF:-1,GNT SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1022
-#EXTINF:-1,GNT SD+
-http://lista.digitalgroup.me:80/Ciro/1234/24290
-#EXTINF:-1,H2
-http://lista.digitalgroup.me:80/Ciro/1234/2486
-#EXTINF:-1,H2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5056
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1813
+#EXTINF:-1,GNT HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2364
+#EXTINF:-1,GNT SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1814
+#EXTINF:-1,GNT SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2120
+#EXTINF:-1,Gospel Cartoon [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2086
+#EXTINF:-1,Guardioes da Galaxia [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2040
+#EXTINF:-1,H2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1993
+#EXTINF:-1,H2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25378
+#EXTINF:-1,H2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29463
 #EXTINF:-1,H2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1021
-#EXTINF:-1,HBO
-http://lista.digitalgroup.me:80/Ciro/1234/1020
-#EXTINF:-1,HBO 2
-http://lista.digitalgroup.me:80/Ciro/1234/2489
-#EXTINF:-1,HBO 2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26039
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1811
+#EXTINF:-1,H2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2363
+#EXTINF:-1,H2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1812
+#EXTINF:-1,H2 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2186
+#EXTINF:-1,HBO 2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1941
+#EXTINF:-1,HBO 2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25447
+#EXTINF:-1,HBO 2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29460
 #EXTINF:-1,HBO 2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1017
-#EXTINF:-1,HBO FAMILY
-http://lista.digitalgroup.me:80/Ciro/1234/1016
-#EXTINF:-1,HBO FAMILY FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26038
-#EXTINF:-1,HBO FAMILY HD
-http://lista.digitalgroup.me:80/Ciro/1234/2392
-#EXTINF:-1,HBO FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26037
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1808
+#EXTINF:-1,HBO 2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2362
+#EXTINF:-1,HBO 2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1809
+#EXTINF:-1,HBO 2 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2126
+#EXTINF:-1,HBO Family FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1992
+#EXTINF:-1,HBO Family FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25446
+#EXTINF:-1,HBO Family FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29411
+#EXTINF:-1,HBO Family HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1806
+#EXTINF:-1,HBO Family HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2361
+#EXTINF:-1,HBO Family SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1807
+#EXTINF:-1,HBO Family SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2185
+#EXTINF:-1,HBO FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1940
+#EXTINF:-1,HBO FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25445
+#EXTINF:-1,HBO FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29410
 #EXTINF:-1,HBO HD
-http://lista.digitalgroup.me:80/Ciro/1234/1209
-#EXTINF:-1,HBO PLUS
-http://lista.digitalgroup.me:80/Ciro/1234/1014
-#EXTINF:-1,HBO PLUS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26036
-#EXTINF:-1,HBO PLUS HD
-http://lista.digitalgroup.me:80/Ciro/1234/2467
-#EXTINF:-1,HBO SIGNATURE
-http://lista.digitalgroup.me:80/Ciro/1234/2488
-#EXTINF:-1,HBO SIGNATURE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26035
-#EXTINF:-1,HBO SIGNATURE HD
-http://lista.digitalgroup.me:80/Ciro/1234/1013
-#EXTINF:-1,HIT TV
-http://lista.digitalgroup.me:80/Ciro/1234/17790
-#EXTINF:-1,HIT TV HD
-http://lista.digitalgroup.me:80/Ciro/1234/17792
-#EXTINF:-1,IDEAL TV
-http://lista.digitalgroup.me:80/Ciro/1234/2491
-#EXTINF:-1,INVESTIGACAO DISCOVERY
-http://lista.digitalgroup.me:80/Ciro/1234/1011
-#EXTINF:-1,INVESTIGACAO DISCOVERY HD
-http://lista.digitalgroup.me:80/Ciro/1234/2469
-#EXTINF:-1,LIFETIME
-http://lista.digitalgroup.me:80/Ciro/1234/2492
-#EXTINF:-1,LIFETIME FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26034
-#EXTINF:-1,LIFETIME HD
-http://lista.digitalgroup.me:80/Ciro/1234/5087
-#EXTINF:-1,MAIS GLOBOSAT HD
-http://lista.digitalgroup.me:80/Ciro/1234/5088
-#EXTINF:-1,MAIS GLOBOSAT SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38749
-#EXTINF:-1,MAIS GLOBOSAT SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38748
-#EXTINF:-1,MAIS GLOBOSAT SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38747
-#EXTINF:-1,MAIS GLOBOSAT SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1008
-#EXTINF:-1,MAIS GLOBOSAT SD+
-http://lista.digitalgroup.me:80/Ciro/1234/28398
-#EXTINF:-1,MAX
-http://lista.digitalgroup.me:80/Ciro/1234/1007
-#EXTINF:-1,MAX FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26033
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1805
+#EXTINF:-1,HBO HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2360
+#EXTINF:-1,HBO HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1525
+#EXTINF:-1,HBO Plus E SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2184
+#EXTINF:-1,HBO Plus FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1991
+#EXTINF:-1,HBO Plus FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25444
+#EXTINF:-1,HBO Plus FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29462
+#EXTINF:-1,HBO Plus HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1803
+#EXTINF:-1,HBO Plus HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2359
+#EXTINF:-1,HBO Plus HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1523
+#EXTINF:-1,HBO Plus SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1804
+#EXTINF:-1,HBO Plus SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2183
+#EXTINF:-1,HBO Plus SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1522
+#EXTINF:-1,HBO SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1810
+#EXTINF:-1,HBO SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2182
+#EXTINF:-1,HBO SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1524
+#EXTINF:-1,HBO Signature FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1990
+#EXTINF:-1,HBO Signature FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25443
+#EXTINF:-1,HBO Signature FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29461
+#EXTINF:-1,HBO Signature HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1801
+#EXTINF:-1,HBO Signature HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2358
+#EXTINF:-1,HBO Signature SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1802
+#EXTINF:-1,HBO Signature SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2181
+#EXTINF:-1,He-Man [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2085
+#EXTINF:-1,Hércules [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2026
+#EXTINF:-1,Historias da Disney [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2084
+#EXTINF:-1,History Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1989
+#EXTINF:-1,History Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25442
+#EXTINF:-1,History Channel FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29459
+#EXTINF:-1,History Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1799
+#EXTINF:-1,History Channel HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2320
+#EXTINF:-1,History Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1800
+#EXTINF:-1,History Channel SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2143
+#EXTINF:-1,Homem de Ferro [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2036
+#EXTINF:-1,Homem-Aranha [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2083
+#EXTINF:-1,Incrivel Hulk [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2038
+#EXTINF:-1,Investigation Discovery FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1988
+#EXTINF:-1,Investigation Discovery FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25377
+#EXTINF:-1,Investigation Discovery FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29458
+#EXTINF:-1,Investigation Discovery HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1797
+#EXTINF:-1,Investigation Discovery HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2357
+#EXTINF:-1,Investigation Discovery SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1798
+#EXTINF:-1,Investigation Discovery SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2119
+#EXTINF:-1,Jack-Chan [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2052
+#EXTINF:-1,Jaspion [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2082
+#EXTINF:-1,Jerusalem [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2430
+#EXTINF:-1,Jiraya [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2081
+#EXTINF:-1,Kenan e Kel [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2044
+#EXTINF:-1,Lifetime FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1987
+#EXTINF:-1,Lifetime FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25441
+#EXTINF:-1,Lifetime FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29457
+#EXTINF:-1,Lifetime HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1795
+#EXTINF:-1,Lifetime HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2356
+#EXTINF:-1,Lifetime SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1796
+#EXTINF:-1,Lifetime SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2180
+#EXTINF:-1,Los Angeles [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2432
+#EXTINF:-1,Mais GloboSat FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1921
+#EXTINF:-1,Mais GloboSat FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25440
+#EXTINF:-1,Mais GloboSat FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29399
+#EXTINF:-1,Mais GloboSat HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1793
+#EXTINF:-1,Mais GloboSat HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2366
+#EXTINF:-1,Mais GloboSat SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1794
+#EXTINF:-1,Mais GloboSat SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2188
+#EXTINF:-1,Maldivas [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2422
+#EXTINF:-1,MAX FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1986
+#EXTINF:-1,MAX FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25439
+#EXTINF:-1,MAX FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29456
 #EXTINF:-1,MAX HD
-http://lista.digitalgroup.me:80/Ciro/1234/5089
-#EXTINF:-1,MAX PRIME
-http://lista.digitalgroup.me:80/Ciro/1234/1006
-#EXTINF:-1,MAX PRIME HD
-http://lista.digitalgroup.me:80/Ciro/1234/5090
-#EXTINF:-1,MAX UP
-http://lista.digitalgroup.me:80/Ciro/1234/1005
-#EXTINF:-1,MAX UP HD
-http://lista.digitalgroup.me:80/Ciro/1234/5091
-#EXTINF:-1,MEGAPIX
-http://lista.digitalgroup.me:80/Ciro/1234/1004
-#EXTINF:-1,MEGAPIX FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26019
-#EXTINF:-1,MEGAPIX HD
-http://lista.digitalgroup.me:80/Ciro/1234/2470
-#EXTINF:-1,MTV
-http://lista.digitalgroup.me:80/Ciro/1234/1000
-#EXTINF:-1,MTV FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26018
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1791
+#EXTINF:-1,MAX HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2355
+#EXTINF:-1,MAX Prime FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1985
+#EXTINF:-1,MAX Prime FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25438
+#EXTINF:-1,MAX Prime FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29455
+#EXTINF:-1,MAX Prime HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1789
+#EXTINF:-1,MAX Prime HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2354
+#EXTINF:-1,MAX Prime SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1790
+#EXTINF:-1,MAX Prime SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2179
+#EXTINF:-1,MAX Prime SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1521
+#EXTINF:-1,MAX SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1792
+#EXTINF:-1,MAX SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2178
+#EXTINF:-1,MAX SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1520
+#EXTINF:-1,MAX Up FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1984
+#EXTINF:-1,MAX Up FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25437
+#EXTINF:-1,MAX Up FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29409
+#EXTINF:-1,MAX Up HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1787
+#EXTINF:-1,MAX Up HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2353
+#EXTINF:-1,MAX Up HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1505
+#EXTINF:-1,MAX Up SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1788
+#EXTINF:-1,MAX Up SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2177
+#EXTINF:-1,MAX Up SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1504
+#EXTINF:-1,Medabots [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2080
+#EXTINF:-1,MegaMan [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2032
+#EXTINF:-1,Megapix 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28656
+#EXTINF:-1,Megapix FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1983
+#EXTINF:-1,Megapix FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25436
+#EXTINF:-1,Megapix FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29408
+#EXTINF:-1,Megapix HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1785
+#EXTINF:-1,Megapix HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2352
+#EXTINF:-1,Megapix HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1503
+#EXTINF:-1,Megapix SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1786
+#EXTINF:-1,Megapix SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2176
+#EXTINF:-1,Megapix SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1502
+#EXTINF:-1,Miami [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2426
+#EXTINF:-1,MIB Homens de Preto [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2047
+#EXTINF:-1,Mortal Kombat [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2031
+#EXTINF:-1,Moscow [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2431
+#EXTINF:-1,Mr. Ben [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2045
+#EXTINF:-1,MTV FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1982
+#EXTINF:-1,MTV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25435
+#EXTINF:-1,MTV FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29454
 #EXTINF:-1,MTV HD
-http://lista.digitalgroup.me:80/Ciro/1234/5092
-#EXTINF:-1,MULTISHOW FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26017
-#EXTINF:-1,MULTISHOW HD
-http://lista.digitalgroup.me:80/Ciro/1234/2385
-#EXTINF:-1,MULTISHOW SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38731
-#EXTINF:-1,MULTISHOW SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38730
-#EXTINF:-1,MULTISHOW SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38729
-#EXTINF:-1,MULTISHOW SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1211
-#EXTINF:-1,MULTISHOW SD+
-http://lista.digitalgroup.me:80/Ciro/1234/24286
-#EXTINF:-1,MUSIC BOX BRASIL
-http://lista.digitalgroup.me:80/Ciro/1234/997
-#EXTINF:-1,NATGEO KIDS
-http://lista.digitalgroup.me:80/Ciro/1234/11965
-#EXTINF:-1,NATGEO KIDS HD
-http://lista.digitalgroup.me:80/Ciro/1234/11996
-#EXTINF:-1,NATGEO WILD
-http://lista.digitalgroup.me:80/Ciro/1234/995
-#EXTINF:-1,NATGEO WILD FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18022
-#EXTINF:-1,NATGEO WILD HD
-http://lista.digitalgroup.me:80/Ciro/1234/994
-#EXTINF:-1,NATIONAL GEOGRAPHICS
-http://lista.digitalgroup.me:80/Ciro/1234/991
-#EXTINF:-1,NATIONAL GEOGRAPHICS FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26016
-#EXTINF:-1,NATIONAL GEOGRAPHICS HD
-http://lista.digitalgroup.me:80/Ciro/1234/990
-#EXTINF:-1,NBR
-http://lista.digitalgroup.me:80/Ciro/1234/2494
-#EXTINF:-1,NHK
-http://lista.digitalgroup.me:80/Ciro/1234/2495
-#EXTINF:-1,NICK
-http://lista.digitalgroup.me:80/Ciro/1234/1206
-#EXTINF:-1,NICK FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26015
-#EXTINF:-1,NICK HD
-http://lista.digitalgroup.me:80/Ciro/1234/5093
-#EXTINF:-1,NICK JR
-http://lista.digitalgroup.me:80/Ciro/1234/986
-#EXTINF:-1,NICK JR HD
-http://lista.digitalgroup.me:80/Ciro/1234/16210
-#EXTINF:-1,NOVO TEMPO
-http://lista.digitalgroup.me:80/Ciro/1234/2496
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1783
+#EXTINF:-1,MTV HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2351
+#EXTINF:-1,MTV Live FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1981
+#EXTINF:-1,MTV Live FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25376
+#EXTINF:-1,MTV Live HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1676
+#EXTINF:-1,MTV Live SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1677
+#EXTINF:-1,MTV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1784
+#EXTINF:-1,Multishow 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28660
+#EXTINF:-1,Multishow FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1980
+#EXTINF:-1,Multishow FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25375
+#EXTINF:-1,Multishow FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29453
+#EXTINF:-1,Multishow HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1781
+#EXTINF:-1,Multishow HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2350
+#EXTINF:-1,Multishow SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1782
+#EXTINF:-1,Multishow SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2175
+#EXTINF:-1,Music Box Brasil FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1979
+#EXTINF:-1,Music Box Brasil HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1779
+#EXTINF:-1,Music Box Brasil SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1780
+#EXTINF:-1,Music Box Brazil FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25434
+#EXTINF:-1,Naruto [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2079
+#EXTINF:-1,Naruto Shippuuden [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2078
+#EXTINF:-1,NatGeo 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28659
+#EXTINF:-1,NatGeo FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1978
+#EXTINF:-1,NatGeo FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25433
+#EXTINF:-1,NatGeo FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29452
+#EXTINF:-1,NatGeo HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1777
+#EXTINF:-1,NatGeo HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2349
+#EXTINF:-1,NatGeo Kids FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1977
+#EXTINF:-1,NatGeo Kids FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25374
+#EXTINF:-1,NatGeo Kids FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29451
+#EXTINF:-1,NatGeo Kids HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1775
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2348
+#EXTINF:-1,NatGeo Kids SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1776
+#EXTINF:-1,NatGeo Kids SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2174
+#EXTINF:-1,NatGeo SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1778
+#EXTINF:-1,NatGeo SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2173
+#EXTINF:-1,NatGeo Wild FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1976
+#EXTINF:-1,NatGeo Wild FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25432
+#EXTINF:-1,NatGeo Wild FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29450
+#EXTINF:-1,NatGeo Wild HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1774
+#EXTINF:-1,NatGeo Wild HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2347
+#EXTINF:-1,NatGeo Wild SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1773
+#EXTINF:-1,NatGeo Wild SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2172
+#EXTINF:-1,NBR SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1772
+#EXTINF:-1,New York City [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2418
+#EXTINF:-1,Nick Jr FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1975
+#EXTINF:-1,Nick Jr FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25431
+#EXTINF:-1,Nick Jr FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29449
+#EXTINF:-1,Nick Jr HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1770
+#EXTINF:-1,Nick Jr HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2346
+#EXTINF:-1,Nick Jr SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1771
+#EXTINF:-1,Nick Jr SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2171
+#EXTINF:-1,Nickelodeon FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1974
+#EXTINF:-1,Nickelodeon FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25430
+#EXTINF:-1,Nickelodeon FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29407
+#EXTINF:-1,Nickelodeon HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1768
+#EXTINF:-1,Nickelodeon HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2345
+#EXTINF:-1,Nickelodeon SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1769
+#EXTINF:-1,Nickelodeon SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2170
+#EXTINF:-1,O Fantastico Mundo de Bobby [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2048
+#EXTINF:-1,O Inspetor [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2077
+#EXTINF:-1,O Maskara [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2076
+#EXTINF:-1,OFF FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1973
+#EXTINF:-1,OFF FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25429
+#EXTINF:-1,OFF FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29406
 #EXTINF:-1,OFF HD
-http://lista.digitalgroup.me:80/Ciro/1234/2471
-#EXTINF:-1,OFF SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38728
-#EXTINF:-1,OFF SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38727
-#EXTINF:-1,OFF SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38726
-#EXTINF:-1,OFF SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/1219
-#EXTINF:-1,OFF SD+
-http://lista.digitalgroup.me:80/Ciro/1234/28420
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://lista.digitalgroup.me:80/Ciro/1234/980
-#EXTINF:-1,PARAMOUNT CHANNEL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26014
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://lista.digitalgroup.me:80/Ciro/1234/2472
-#EXTINF:-1,PLAY TV
-http://lista.digitalgroup.me:80/Ciro/1234/2497
-#EXTINF:-1,PREMIERE 2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5062
-#EXTINF:-1,PREMIERE 2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1213
-#EXTINF:-1,PREMIERE 2 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38788
-#EXTINF:-1,PREMIERE 2 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38787
-#EXTINF:-1,PREMIERE 2 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38786
-#EXTINF:-1,PREMIERE 2 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/978
-#EXTINF:-1,PREMIERE 2 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/25254
-#EXTINF:-1,PREMIERE 3 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18023
-#EXTINF:-1,PREMIERE 3 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1214
-#EXTINF:-1,PREMIERE 3 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38791
-#EXTINF:-1,PREMIERE 3 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38790
-#EXTINF:-1,PREMIERE 3 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38789
-#EXTINF:-1,PREMIERE 3 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/977
-#EXTINF:-1,PREMIERE 3 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/25238
-#EXTINF:-1,PREMIERE 4 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5063
-#EXTINF:-1,PREMIERE 4 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1215
-#EXTINF:-1,PREMIERE 4 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38792
-#EXTINF:-1,PREMIERE 4 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38793
-#EXTINF:-1,PREMIERE 4 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38794
-#EXTINF:-1,PREMIERE 4 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/976
-#EXTINF:-1,PREMIERE 4 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/25250
-#EXTINF:-1,PREMIERE 5 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5064
-#EXTINF:-1,PREMIERE 5 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1216
-#EXTINF:-1,PREMIERE 5 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38797
-#EXTINF:-1,PREMIERE 5 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38796
-#EXTINF:-1,PREMIERE 5 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38795
-#EXTINF:-1,PREMIERE 5 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/975
-#EXTINF:-1,PREMIERE 5 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/25242
-#EXTINF:-1,PREMIERE 6 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18024
-#EXTINF:-1,PREMIERE 6 HD
-http://lista.digitalgroup.me:80/Ciro/1234/16211
-#EXTINF:-1,PREMIERE 6 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38800
-#EXTINF:-1,PREMIERE 6 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38799
-#EXTINF:-1,PREMIERE 6 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38798
-#EXTINF:-1,PREMIERE 6 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/974
-#EXTINF:-1,PREMIERE 6 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/25757
-#EXTINF:-1,PREMIERE 7 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18025
-#EXTINF:-1,PREMIERE 7 HD
-http://lista.digitalgroup.me:80/Ciro/1234/16213
-#EXTINF:-1,PREMIERE 7 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38803
-#EXTINF:-1,PREMIERE 7 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38802
-#EXTINF:-1,PREMIERE 7 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38801
-#EXTINF:-1,PREMIERE 7 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/973
-#EXTINF:-1,PREMIERE 7 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/30379
-#EXTINF:-1,PREMIERE 8 HD
-http://lista.digitalgroup.me:80/Ciro/1234/38359
-#EXTINF:-1,PREMIERE 8 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/41343
-#EXTINF:-1,PREMIERE 8 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/41344
-#EXTINF:-1,PREMIERE 8 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/41345
-#EXTINF:-1,PREMIERE 8 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/972
-#EXTINF:-1,PREMIERE 8 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38358
-#EXTINF:-1,PREMIERE 9 HD
-http://lista.digitalgroup.me:80/Ciro/1234/41353
-#EXTINF:-1,PREMIERE 9 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/41348
-#EXTINF:-1,PREMIERE 9 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/41349
-#EXTINF:-1,PREMIERE 9 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/41350
-#EXTINF:-1,PREMIERE 9 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/971
-#EXTINF:-1,PREMIERE 9 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/41351
-#EXTINF:-1,PREMIERE CLUBES FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5065
-#EXTINF:-1,PREMIERE CLUBES HD
-http://lista.digitalgroup.me:80/Ciro/1234/1714
-#EXTINF:-1,PREMIERE CLUBES HD+
-http://lista.digitalgroup.me:80/Ciro/1234/49943
-#EXTINF:-1,PREMIERE CLUBES SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38672
-#EXTINF:-1,PREMIERE CLUBES SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38673
-#EXTINF:-1,PREMIERE CLUBES SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38674
-#EXTINF:-1,PREMIERE CLUBES SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/970
-#EXTINF:-1,PREMIERE CLUBES SD+
-http://lista.digitalgroup.me:80/Ciro/1234/25246
-#EXTINF:-1,PRIME BOX BRASIL
-http://lista.digitalgroup.me:80/Ciro/1234/969
-#EXTINF:-1,RAI
-http://lista.digitalgroup.me:80/Ciro/1234/18044
-#EXTINF:-1,RECORD BA HD
-http://lista.digitalgroup.me:80/Ciro/1234/29367
-#EXTINF:-1,RECORD BA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38836
-#EXTINF:-1,RECORD BA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/29366
-#EXTINF:-1,RECORD BA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38431
-#EXTINF:-1,RECORD DF HD
-http://lista.digitalgroup.me:80/Ciro/1234/29364
-#EXTINF:-1,RECORD DF SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38780
-#EXTINF:-1,RECORD DF SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/29365
-#EXTINF:-1,RECORD DF SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38418
-#EXTINF:-1,RECORD GO HD
-http://lista.digitalgroup.me:80/Ciro/1234/47529
-#EXTINF:-1,RECORD GO SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/47532
-#EXTINF:-1,RECORD GO SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/47531
-#EXTINF:-1,RECORD GO SD+
-http://lista.digitalgroup.me:80/Ciro/1234/47530
-#EXTINF:-1,RECORD MG HD
-http://lista.digitalgroup.me:80/Ciro/1234/29369
-#EXTINF:-1,RECORD MG SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38782
-#EXTINF:-1,RECORD MG SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/29368
-#EXTINF:-1,RECORD MG SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38430
-#EXTINF:-1,RECORD NEWS HD
-http://lista.digitalgroup.me:80/Ciro/1234/2400
-#EXTINF:-1,RECORD NEWS SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38784
-#EXTINF:-1,RECORD NEWS SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/966
-#EXTINF:-1,RECORD NEWS SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38443
-#EXTINF:-1,RECORD PA HD
-http://lista.digitalgroup.me:80/Ciro/1234/47555
-#EXTINF:-1,RECORD PA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/47553
-#EXTINF:-1,RECORD PA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/47552
-#EXTINF:-1,RECORD PA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/47554
-#EXTINF:-1,RECORD RJ HD
-http://lista.digitalgroup.me:80/Ciro/1234/29371
-#EXTINF:-1,RECORD RJ SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38767
-#EXTINF:-1,RECORD RJ SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/29370
-#EXTINF:-1,RECORD RJ SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38419
-#EXTINF:-1,RECORD RS HD
-http://lista.digitalgroup.me:80/Ciro/1234/29373
-#EXTINF:-1,RECORD RS SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38838
-#EXTINF:-1,RECORD RS SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/29372
-#EXTINF:-1,RECORD RS SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38433
-#EXTINF:-1,RECORD SP FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26013
-#EXTINF:-1,RECORD SP HD
-http://lista.digitalgroup.me:80/Ciro/1234/1210
-#EXTINF:-1,RECORD SP SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38765
-#EXTINF:-1,RECORD SP SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/1710
-#EXTINF:-1,RECORD SP SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38429
-#EXTINF:-1,REDE TV
-http://lista.digitalgroup.me:80/Ciro/1234/963
-#EXTINF:-1,REDE TV HD
-http://lista.digitalgroup.me:80/Ciro/1234/2406
-#EXTINF:-1,REDE VIDA
-http://lista.digitalgroup.me:80/Ciro/1234/2499
-#EXTINF:-1,RIT TV
-http://lista.digitalgroup.me:80/Ciro/1234/37779
-#EXTINF:-1,RIT TV HD
-http://lista.digitalgroup.me:80/Ciro/1234/37780
-#EXTINF:-1,RIT TV SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38474
-#EXTINF:-1,SBT DIFUSORA
-http://lista.digitalgroup.me:80/Ciro/1234/37793
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1766
+#EXTINF:-1,OFF HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2344
+#EXTINF:-1,OFF SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1767
+#EXTINF:-1,OFF SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2169
+#EXTINF:-1,Os Anjinhos Rugrats [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2075
+#EXTINF:-1,Os Cavaleiros do Zodiaco [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2074
+#EXTINF:-1,Os Flintstones [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2073
+#EXTINF:-1,Os Simpsons [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2072
+#EXTINF:-1,Os Ursinhos Carinhosos [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2059
+#EXTINF:-1,Os Vingadores [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2037
+#EXTINF:-1,Papa Leguas [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2053
+#EXTINF:-1,Paramount Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1972
+#EXTINF:-1,Paramount Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25428
+#EXTINF:-1,Paramount Channel FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29448
+#EXTINF:-1,Paramount Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1764
+#EXTINF:-1,Paramount Channel HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2343
+#EXTINF:-1,Paramount Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1765
+#EXTINF:-1,Paramount Channel SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2168
+#EXTINF:-1,Paris [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2429
+#EXTINF:-1,Peppa Pig [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2033
+#EXTINF:-1,Pernalonga [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2071
+#EXTINF:-1,Phineas e Ferb [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2070
+#EXTINF:-1,Pink e Cerebro [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2046
+#EXTINF:-1,Play TV SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2167
+#EXTINF:-1,PlayKids FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1914
+#EXTINF:-1,PlayKids HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1668
+#EXTINF:-1,PlayKids SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1667
+#EXTINF:-1,Pokemon [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2051
+#EXTINF:-1,Polishop TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1652
+#EXTINF:-1,Popeye O Marinheiro [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2041
+#EXTINF:-1,Power Couple Brasil FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1908
+#EXTINF:-1,Power Couple Brasil HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1643
+#EXTINF:-1,Power Couple Brasil HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2308
+#EXTINF:-1,Prague [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2419
+#EXTINF:-1,Premiere 2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1939
+#EXTINF:-1,Premiere 2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25427
+#EXTINF:-1,Premiere 2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29447
+#EXTINF:-1,Premiere 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1762
+#EXTINF:-1,Premiere 2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2342
+#EXTINF:-1,Premiere 2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1763
+#EXTINF:-1,Premiere 2 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2165
+#EXTINF:-1,Premiere 3 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1938
+#EXTINF:-1,Premiere 3 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25426
+#EXTINF:-1,Premiere 3 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29446
+#EXTINF:-1,Premiere 3 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1760
+#EXTINF:-1,Premiere 3 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2341
+#EXTINF:-1,Premiere 3 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1761
+#EXTINF:-1,Premiere 3 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2164
+#EXTINF:-1,Premiere 4 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1937
+#EXTINF:-1,Premiere 4 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25373
+#EXTINF:-1,Premiere 4 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29445
+#EXTINF:-1,Premiere 4 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1758
+#EXTINF:-1,Premiere 4 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2340
+#EXTINF:-1,Premiere 4 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1759
+#EXTINF:-1,Premiere 4 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2163
+#EXTINF:-1,Premiere 5 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1936
+#EXTINF:-1,Premiere 5 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25425
+#EXTINF:-1,Premiere 5 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29444
+#EXTINF:-1,Premiere 5 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1756
+#EXTINF:-1,Premiere 5 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2339
+#EXTINF:-1,Premiere 5 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1757
+#EXTINF:-1,Premiere 5 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2162
+#EXTINF:-1,Premiere 6 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1935
+#EXTINF:-1,Premiere 6 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29443
+#EXTINF:-1,Premiere 6 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1754
+#EXTINF:-1,Premiere 6 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2338
+#EXTINF:-1,Premiere 6 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1755
+#EXTINF:-1,Premiere 6 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2161
+#EXTINF:-1,Premiere 7 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1934
+#EXTINF:-1,Premiere 7 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25372
+#EXTINF:-1,Premiere 7 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29442
+#EXTINF:-1,Premiere 7 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1752
+#EXTINF:-1,Premiere 7 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2337
+#EXTINF:-1,Premiere 7 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1753
+#EXTINF:-1,Premiere 7 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2160
+#EXTINF:-1,Premiere 8 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2159
+#EXTINF:-1,Premiere Clubes 4K
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1492
+#EXTINF:-1,Premiere Clubes 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28667
+#EXTINF:-1,Premiere Clubes FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1933
+#EXTINF:-1,Premiere Clubes FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25424
+#EXTINF:-1,Premiere Clubes FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29441
+#EXTINF:-1,Premiere Clubes HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1750
+#EXTINF:-1,Premiere Clubes HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2336
+#EXTINF:-1,Premiere Clubes SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1751
+#EXTINF:-1,Premiere Clubes SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2158
+#EXTINF:-1,Prime Box Brasil FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1971
+#EXTINF:-1,Prime Box Brasil HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1748
+#EXTINF:-1,Prime Box Brasil SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1749
+#EXTINF:-1,Prime Box Brazil FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25422
+#EXTINF:-1,Rambo [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2068
+#EXTINF:-1,RCI SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1651
+#EXTINF:-1,Record News FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1970
+#EXTINF:-1,Record News FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25354
+#EXTINF:-1,Record News HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1745
+#EXTINF:-1,Record News SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1746
+#EXTINF:-1,RecordTV BA FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1913
+#EXTINF:-1,RecordTV BA HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1665
+#EXTINF:-1,RecordTV BA SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1664
+#EXTINF:-1,RecordTV DF FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1912
+#EXTINF:-1,RecordTV DF HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1663
+#EXTINF:-1,RecordTV DF SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1662
+#EXTINF:-1,RecordTV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25371
+#EXTINF:-1,RecordTV Goiania FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29485
+#EXTINF:-1,RecordTV MG FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1916
+#EXTINF:-1,RecordTV MG HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1670
+#EXTINF:-1,RecordTV MG SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1669
+#EXTINF:-1,RecordTV RJ FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1915
+#EXTINF:-1,RecordTV RJ HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1672
+#EXTINF:-1,RecordTV RJ SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1671
+#EXTINF:-1,RecordTV RS FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1911
+#EXTINF:-1,RecordTV RS HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1661
+#EXTINF:-1,RecordTV RS SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1660
+#EXTINF:-1,RecordTV SP 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28666
+#EXTINF:-1,RecordTV SP FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1932
+#EXTINF:-1,RecordTV SP HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1743
+#EXTINF:-1,RecordTV SP SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1747
+#EXTINF:-1,Rede Brasil SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1742
+#EXTINF:-1,Rede TV 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28664
+#EXTINF:-1,Rede TV FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1918
+#EXTINF:-1,Rede TV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25353
+#EXTINF:-1,Rede TV FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29405
+#EXTINF:-1,Rede TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1740
+#EXTINF:-1,Rede TV HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2335
+#EXTINF:-1,Rede TV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1741
+#EXTINF:-1,Rede TV SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2116
+#EXTINF:-1,Rede Vida FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1917
+#EXTINF:-1,Rede Vida FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25421
+#EXTINF:-1,Rede Vida HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1673
+#EXTINF:-1,Rede Vida SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1739
+#EXTINF:-1,Rede Vida SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2110
+#EXTINF:-1,Rio de Janeiro [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2420
+#EXTINF:-1,Rit TV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1654
+#EXTINF:-1,Saipan [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2424
+#EXTINF:-1,SBT 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28658
+#EXTINF:-1,SBT FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1931
+#EXTINF:-1,SBT FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25370
 #EXTINF:-1,SBT HD
-http://lista.digitalgroup.me:80/Ciro/1234/1208
-#EXTINF:-1,SBT HD+
-http://lista.digitalgroup.me:80/Ciro/1234/38919
-#EXTINF:-1,SBT SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38920
-#EXTINF:-1,SBT SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38921
-#EXTINF:-1,SBT SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/955
-#EXTINF:-1,SBT SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38450
-#EXTINF:-1,SBT TV CIDADE VERDE
-http://lista.digitalgroup.me:80/Ciro/1234/37796
-#EXTINF:-1,SBT TV JORNAL
-http://lista.digitalgroup.me:80/Ciro/1234/37795
-#EXTINF:-1,SBT TV SERRA DOURADA
-http://lista.digitalgroup.me:80/Ciro/1234/37843
-#EXTINF:-1,SBT TV SERRA DOURADA HD
-http://lista.digitalgroup.me:80/Ciro/1234/37842
-#EXTINF:-1,SIC INTERNATIONAL
-http://lista.digitalgroup.me:80/Ciro/1234/952
-#EXTINF:-1,SONY
-http://lista.digitalgroup.me:80/Ciro/1234/1096
-#EXTINF:-1,SONY FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26012
-#EXTINF:-1,SONY HD
-http://lista.digitalgroup.me:80/Ciro/1234/2409
-#EXTINF:-1,SPACE
-http://lista.digitalgroup.me:80/Ciro/1234/2501
-#EXTINF:-1,SPACE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26011
-#EXTINF:-1,SPACE HD
-http://lista.digitalgroup.me:80/Ciro/1234/1327
-#EXTINF:-1,SPORTV 1 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5067
-#EXTINF:-1,SPORTV 1 HD
-http://lista.digitalgroup.me:80/Ciro/1234/1203
-#EXTINF:-1,SPORTV 1 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/47528
-#EXTINF:-1,SPORTV 1 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38706
-#EXTINF:-1,SPORTV 1 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38707
-#EXTINF:-1,SPORTV 1 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/943
-#EXTINF:-1,SPORTV 1 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/47527
-#EXTINF:-1,SPORTV 2 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26030
-#EXTINF:-1,SPORTV 2 HD
-http://lista.digitalgroup.me:80/Ciro/1234/2401
-#EXTINF:-1,SPORTV 2 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38710
-#EXTINF:-1,SPORTV 2 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38709
-#EXTINF:-1,SPORTV 2 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38708
-#EXTINF:-1,SPORTV 2 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/942
-#EXTINF:-1,SPORTV 2 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22450
-#EXTINF:-1,SPORTV 3 FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26010
-#EXTINF:-1,SPORTV 3 HD
-http://lista.digitalgroup.me:80/Ciro/1234/2402
-#EXTINF:-1,SPORTV 3 SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38713
-#EXTINF:-1,SPORTV 3 SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38712
-#EXTINF:-1,SPORTV 3 SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38711
-#EXTINF:-1,SPORTV 3 SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/941
-#EXTINF:-1,SPORTV 3 SD+
-http://lista.digitalgroup.me:80/Ciro/1234/22454
-#EXTINF:-1,STUDIO UNIVERSAL
-http://lista.digitalgroup.me:80/Ciro/1234/2384
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5094
-#EXTINF:-1,SUNDANCE FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26009
-#EXTINF:-1,SYFY
-http://lista.digitalgroup.me:80/Ciro/1234/939
-#EXTINF:-1,SYFY FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26008
-#EXTINF:-1,SYFY HD
-http://lista.digitalgroup.me:80/Ciro/1234/18087
-#EXTINF:-1,TBS
-http://lista.digitalgroup.me:80/Ciro/1234/937
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1737
+#EXTINF:-1,SBT HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2334
+#EXTINF:-1,SBT SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1738
+#EXTINF:-1,SBT SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2157
+#EXTINF:-1,SBT Serra Dourada FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29486
+#EXTINF:-1,SBT SP Interior SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1736
+#EXTINF:-1,Scooby Doo [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2067
+#EXTINF:-1,Smallville [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2030
+#EXTINF:-1,Smithsonian Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1909
+#EXTINF:-1,Smithsonian Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25352
+#EXTINF:-1,Smithsonian Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1657
+#EXTINF:-1,Smithsonian Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1656
+#EXTINF:-1,Sobrenatural [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2043
+#EXTINF:-1,South Park [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2066
+#EXTINF:-1,Space FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1969
+#EXTINF:-1,Space FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25420
+#EXTINF:-1,Space FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29440
+#EXTINF:-1,Space HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1732
+#EXTINF:-1,Space HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2333
+#EXTINF:-1,Space HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1501
+#EXTINF:-1,Space SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1733
+#EXTINF:-1,Space SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2156
+#EXTINF:-1,Space SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1500
+#EXTINF:-1,SporTV 2 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1930
+#EXTINF:-1,SporTV 2 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25419
+#EXTINF:-1,SporTV 2 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29439
+#EXTINF:-1,SporTV 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1729
+#EXTINF:-1,SporTV 2 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2332
+#EXTINF:-1,SporTV 2 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1730
+#EXTINF:-1,SporTV 2 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2155
+#EXTINF:-1,SporTV 3 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1929
+#EXTINF:-1,SporTV 3 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25418
+#EXTINF:-1,SporTV 3 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29438
+#EXTINF:-1,SporTV 3 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1727
+#EXTINF:-1,SporTV 3 HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2331
+#EXTINF:-1,SporTV 3 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1728
+#EXTINF:-1,SporTV 3 SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2131
+#EXTINF:-1,SporTV 4K
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1493
+#EXTINF:-1,SporTV 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28657
+#EXTINF:-1,SporTV FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1928
+#EXTINF:-1,SporTV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25417
+#EXTINF:-1,SporTV FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29437
+#EXTINF:-1,SporTV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1726
+#EXTINF:-1,SporTV HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2330
+#EXTINF:-1,SporTV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1731
+#EXTINF:-1,SporTV SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2154
+#EXTINF:-1,Steven Universe [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2065
+#EXTINF:-1,Studio Universal FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1968
+#EXTINF:-1,Studio Universal FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25416
+#EXTINF:-1,Studio Universal FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29436
+#EXTINF:-1,Studio Universal HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1724
+#EXTINF:-1,Studio Universal HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2329
+#EXTINF:-1,Studio Universal SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1725
+#EXTINF:-1,Studio Universal SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2153
+#EXTINF:-1,Superman [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2035
+#EXTINF:-1,SyFy FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1967
+#EXTINF:-1,SyFy FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25415
+#EXTINF:-1,SyFy FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29404
+#EXTINF:-1,SyFy HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1734
+#EXTINF:-1,SyFy HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2328
+#EXTINF:-1,SyFy SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1735
+#EXTINF:-1,SyFy SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2152
+#EXTINF:-1,TBS FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1966
+#EXTINF:-1,TBS FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25414
+#EXTINF:-1,TBS FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29435
 #EXTINF:-1,TBS HD
-http://lista.digitalgroup.me:80/Ciro/1234/2473
-#EXTINF:-1,TC ACTION
-http://lista.digitalgroup.me:80/Ciro/1234/935
-#EXTINF:-1,TC ACTION FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5069
-#EXTINF:-1,TC ACTION HD
-http://lista.digitalgroup.me:80/Ciro/1234/936
-#EXTINF:-1,TC CULT
-http://lista.digitalgroup.me:80/Ciro/1234/933
-#EXTINF:-1,TC CULT FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18026
-#EXTINF:-1,TC CULT HD
-http://lista.digitalgroup.me:80/Ciro/1234/5096
-#EXTINF:-1,TC FUN
-http://lista.digitalgroup.me:80/Ciro/1234/931
-#EXTINF:-1,TC FUN FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/18027
-#EXTINF:-1,TC FUN HD
-http://lista.digitalgroup.me:80/Ciro/1234/932
-#EXTINF:-1,TC PIPOCA
-http://lista.digitalgroup.me:80/Ciro/1234/929
-#EXTINF:-1,TC PIPOCA FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5070
-#EXTINF:-1,TC PIPOCA HD
-http://lista.digitalgroup.me:80/Ciro/1234/930
-#EXTINF:-1,TC PREMIUM
-http://lista.digitalgroup.me:80/Ciro/1234/2415
-#EXTINF:-1,TC PREMIUM FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5071
-#EXTINF:-1,TC PREMIUM HD
-http://lista.digitalgroup.me:80/Ciro/1234/928
-#EXTINF:-1,TC TOUCH
-http://lista.digitalgroup.me:80/Ciro/1234/926
-#EXTINF:-1,TC TOUCH HD
-http://lista.digitalgroup.me:80/Ciro/1234/927
-#EXTINF:-1,TCM
-http://lista.digitalgroup.me:80/Ciro/1234/925
-#EXTINF:-1,TERRA VIVA
-http://lista.digitalgroup.me:80/Ciro/1234/2504
-#EXTINF:-1,THE HISTORY CHANNEL
-http://lista.digitalgroup.me:80/Ciro/1234/923
-#EXTINF:-1,THE HISTORY CHANNEL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/16216
-#EXTINF:-1,THE HISTORY CHANNEL HD
-http://lista.digitalgroup.me:80/Ciro/1234/2468
-#EXTINF:-1,TLC
-http://lista.digitalgroup.me:80/Ciro/1234/922
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1722
+#EXTINF:-1,TBS HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2327
+#EXTINF:-1,TBS SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1723
+#EXTINF:-1,TBS SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2151
+#EXTINF:-1,TCM SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1721
+#EXTINF:-1,TCM SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2150
+#EXTINF:-1,Telecine Action FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1927
+#EXTINF:-1,Telecine Action FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25413
+#EXTINF:-1,Telecine Action FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29434
+#EXTINF:-1,Telecine Action HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1719
+#EXTINF:-1,Telecine Action HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2326
+#EXTINF:-1,Telecine Action HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1519
+#EXTINF:-1,Telecine Action SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1720
+#EXTINF:-1,Telecine Action SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2149
+#EXTINF:-1,Telecine Action SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1518
+#EXTINF:-1,Telecine Cult FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1965
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25412
+#EXTINF:-1,Telecine Cult FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29433
+#EXTINF:-1,Telecine Cult HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1717
+#EXTINF:-1,Telecine Cult HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2325
+#EXTINF:-1,Telecine Cult SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1718
+#EXTINF:-1,Telecine Cult SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2148
+#EXTINF:-1,Telecine Fun FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1926
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25411
+#EXTINF:-1,Telecine Fun FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29432
+#EXTINF:-1,Telecine Fun HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1715
+#EXTINF:-1,Telecine Fun HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2324
+#EXTINF:-1,Telecine Fun HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1517
+#EXTINF:-1,Telecine Fun SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1716
+#EXTINF:-1,Telecine Fun SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2147
+#EXTINF:-1,Telecine Fun SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1516
+#EXTINF:-1,Telecine Pipoca FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1925
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25410
+#EXTINF:-1,Telecine Pipoca FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29431
+#EXTINF:-1,Telecine Pipoca HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1713
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2323
+#EXTINF:-1,Telecine Pipoca HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1515
+#EXTINF:-1,Telecine Pipoca SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1714
+#EXTINF:-1,Telecine Pipoca SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2146
+#EXTINF:-1,Telecine Pipoca SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1514
+#EXTINF:-1,Telecine Premium FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1924
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25409
+#EXTINF:-1,Telecine Premium FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29430
+#EXTINF:-1,Telecine Premium HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1711
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2322
+#EXTINF:-1,Telecine Premium HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1513
+#EXTINF:-1,Telecine Premium SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1712
+#EXTINF:-1,Telecine Premium SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2145
+#EXTINF:-1,Telecine Premium SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1512
+#EXTINF:-1,Telecine Touch FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1923
+#EXTINF:-1,Telecine Touch FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25408
+#EXTINF:-1,Telecine Touch FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29429
+#EXTINF:-1,Telecine Touch HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1709
+#EXTINF:-1,Telecine Touch HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2321
+#EXTINF:-1,Telecine Touch HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1511
+#EXTINF:-1,Telecine Touch SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1710
+#EXTINF:-1,Telecine Touch SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2144
+#EXTINF:-1,Telecine Touch SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1510
+#EXTINF:-1,Terra Viva SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1708
+#EXTINF:-1,Terra Viva SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2103
+#EXTINF:-1,Tesouros da Disney [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2064
+#EXTINF:-1,Thundercats [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2055
+#EXTINF:-1,Timao e Pumba [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2063
+#EXTINF:-1,TLC FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1964
+#EXTINF:-1,TLC FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25351
+#EXTINF:-1,TLC FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29398
 #EXTINF:-1,TLC HD
-http://lista.digitalgroup.me:80/Ciro/1234/5097
-#EXTINF:-1,TNT
-http://lista.digitalgroup.me:80/Ciro/1234/921
-#EXTINF:-1,TNT FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5073
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1706
+#EXTINF:-1,TLC HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2319
+#EXTINF:-1,TLC SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1707
+#EXTINF:-1,TLC SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2142
+#EXTINF:-1,TNT 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28665
+#EXTINF:-1,TNT FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1963
+#EXTINF:-1,TNT FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25407
+#EXTINF:-1,TNT FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29428
 #EXTINF:-1,TNT HD
-http://lista.digitalgroup.me:80/Ciro/1234/2383
-#EXTINF:-1,TNT SERIES
-http://lista.digitalgroup.me:80/Ciro/1234/1204
-#EXTINF:-1,TNT SERIES FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/5074
-#EXTINF:-1,TNT SERIES HD
-http://lista.digitalgroup.me:80/Ciro/1234/2474
-#EXTINF:-1,TOONCAST
-http://lista.digitalgroup.me:80/Ciro/1234/919
-#EXTINF:-1,TRU TV
-http://lista.digitalgroup.me:80/Ciro/1234/917
-#EXTINF:-1,TV BRASIL
-http://lista.digitalgroup.me:80/Ciro/1234/915
-#EXTINF:-1,TV CAMARA
-http://lista.digitalgroup.me:80/Ciro/1234/18042
-#EXTINF:-1,TV EVANGELIZAR
-http://lista.digitalgroup.me:80/Ciro/1234/11974
-#EXTINF:-1,TV GERAL
-http://lista.digitalgroup.me:80/Ciro/1234/2413
-#EXTINF:-1,TV MUNDIAL
-http://lista.digitalgroup.me:80/Ciro/1234/11971
-#EXTINF:-1,TV RA TIM BUM
-http://lista.digitalgroup.me:80/Ciro/1234/2506
-#EXTINF:-1,TV5 MONDE
-http://lista.digitalgroup.me:80/Ciro/1234/18046
-#EXTINF:-1,TV5 MONDE HD
-http://lista.digitalgroup.me:80/Ciro/1234/37794
-#EXTINF:-1,TV5 MONDE SD+
-http://lista.digitalgroup.me:80/Ciro/1234/38478
-#EXTINF:-1,TVE
-http://lista.digitalgroup.me:80/Ciro/1234/2507
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://lista.digitalgroup.me:80/Ciro/1234/940
-#EXTINF:-1,UNIVERSAL CHANNEL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/26007
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://lista.digitalgroup.me:80/Ciro/1234/2475
-#EXTINF:-1,VH1 MEGA HITS
-http://lista.digitalgroup.me:80/Ciro/1234/898
-#EXTINF:-1,VIVA FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48796
-#EXTINF:-1,VIVA HD
-http://lista.digitalgroup.me:80/Ciro/1234/2476
-#EXTINF:-1,VIVA HD ALTERNATIVO
-http://lista.digitalgroup.me:80/Ciro/1234/48797
-#EXTINF:-1,VIVA SD 1
-http://lista.digitalgroup.me:80/Ciro/1234/38722
-#EXTINF:-1,VIVA SD 2
-http://lista.digitalgroup.me:80/Ciro/1234/38721
-#EXTINF:-1,VIVA SD 3
-http://lista.digitalgroup.me:80/Ciro/1234/38720
-#EXTINF:-1,VIVA SD 4
-http://lista.digitalgroup.me:80/Ciro/1234/897
-#EXTINF:-1,VIVA SD+
-http://lista.digitalgroup.me:80/Ciro/1234/23984
-#EXTINF:-1,WARNER CHANNEL
-http://lista.digitalgroup.me:80/Ciro/1234/896
-#EXTINF:-1,WARNER CHANNEL FULL HD
-http://lista.digitalgroup.me:80/Ciro/1234/48817
-#EXTINF:-1,WARNER CHANNEL HD
-http://lista.digitalgroup.me:80/Ciro/1234/2478
-#EXTINF:-1,WARNER CHANNEL HD ALTERNATIVO
-http://lista.digitalgroup.me:80/Ciro/1234/48818
-#EXTINF:-1,WOOHOO
-http://lista.digitalgroup.me:80/Ciro/1234/894
-#EXTINF:-1,WOOHOO HD
-http://lista.digitalgroup.me:80/Ciro/1234/16214
-#EXTINF:-1,ZOOMOO
-http://lista.digitalgroup.me:80/Ciro/1234/20833
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1704
+#EXTINF:-1,TNT HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2318
+#EXTINF:-1,TNT HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1509
+#EXTINF:-1,TNT SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1705
+#EXTINF:-1,TNT SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2141
+#EXTINF:-1,TNT SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1508
+#EXTINF:-1,TNT Series 4K [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28655
+#EXTINF:-1,TNT Series FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1962
+#EXTINF:-1,TNT Series FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25406
+#EXTINF:-1,TNT Series FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29427
+#EXTINF:-1,TNT Series HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1702
+#EXTINF:-1,TNT Series HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2317
+#EXTINF:-1,TNT Series HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1499
+#EXTINF:-1,TNT Series SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1703
+#EXTINF:-1,TNT Series SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2140
+#EXTINF:-1,TNT Series SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1498
+#EXTINF:-1,Todo Mundo Odeia o Cris [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2062
+#EXTINF:-1,Tom e Jerry [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2061
+#EXTINF:-1,Tooncast HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2316
+#EXTINF:-1,Tooncast SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1701
+#EXTINF:-1,Tooncast SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2139
+#EXTINF:-1,Toronto [Camera]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2427
+#EXTINF:-1,Travel Box Brazil FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25367
+#EXTINF:-1,Tres Espias Demais [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2034
+#EXTINF:-1,TruTV FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1961
+#EXTINF:-1,TruTV FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25350
+#EXTINF:-1,TruTV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1690
+#EXTINF:-1,TruTV SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1691
+#EXTINF:-1,TV Aparecida FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25349
+#EXTINF:-1,TV Aparecida SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1698
+#EXTINF:-1,TV Aparecida SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2108
+#EXTINF:-1,TV Brasil SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1697
+#EXTINF:-1,TV Camara SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1696
+#EXTINF:-1,TV Cultura FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1919
+#EXTINF:-1,TV Cultura FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25348
+#EXTINF:-1,TV Cultura HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1674
+#EXTINF:-1,TV Cultura SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1675
+#EXTINF:-1,TV Escola SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1695
+#EXTINF:-1,TV Gazeta FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25347
+#EXTINF:-1,TV Gazeta SP HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1694
+#EXTINF:-1,TV Gazeta SP HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2411
+#EXTINF:-1,TV Justica SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1699
+#EXTINF:-1,TV Justica SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2138
+#EXTINF:-1,TV Novo Tempo FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25366
+#EXTINF:-1,TV Ra Tim Bum FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1960
+#EXTINF:-1,TV Ra Tim Bum FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25405
+#EXTINF:-1,TV Ra Tim Bum HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1692
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2310
+#EXTINF:-1,TV Ra Tim Bum SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1693
+#EXTINF:-1,TV Ra Tim Bum SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2129
+#EXTINF:-1,TV Senado SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1700
+#EXTINF:-1,TV Senado SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2128
+#EXTINF:-1,Um Maluco No Pedaco [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2060
+#EXTINF:-1,Uma Familia da Pesada [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2042
+#EXTINF:-1,Universal Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1959
+#EXTINF:-1,Universal Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25404
+#EXTINF:-1,Universal Channel FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29426
+#EXTINF:-1,Universal Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1688
+#EXTINF:-1,Universal Channel HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2315
+#EXTINF:-1,Universal Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1689
+#EXTINF:-1,Universal Channel SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2137
+#EXTINF:-1,US: A&E HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28168
+#EXTINF:-1,US: ABC HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28155
+#EXTINF:-1,US: ABC News HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28156
+#EXTINF:-1,US: AMC HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28133
+#EXTINF:-1,US: American Heroes Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28278
+#EXTINF:-1,US: Animal Planet HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28209
+#EXTINF:-1,US: Bayern FC TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28273
+#EXTINF:-1,US: Bein Sports USA HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28230
+#EXTINF:-1,US: Bloomberg EU HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28208
+#EXTINF:-1,US: Bloomberg TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28194
+#EXTINF:-1,US: BNN HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28207
+#EXTINF:-1,US: Boomerang HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28206
+#EXTINF:-1,US: Bravo TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28157
+#EXTINF:-1,US: BYU TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28134
+#EXTINF:-1,US: C-Span 1 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28210
+#EXTINF:-1,US: C-Span 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28211
+#EXTINF:-1,US: C-Span 3 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28212
+#EXTINF:-1,US: Capital TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28193
+#EXTINF:-1,US: Cartoon Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28135
+#EXTINF:-1,US: CBS HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28158
+#EXTINF:-1,US: CBS Sports Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28271
+#EXTINF:-1,US: CBSN HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28136
+#EXTINF:-1,US: Cinemax 5Star Max hd
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28231
+#EXTINF:-1,US: Cinemax Action HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28213
+#EXTINF:-1,US: Cinemax Action Max East HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28232
+#EXTINF:-1,US: Cinemax East HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28233
+#EXTINF:-1,US: Cinemax More Max HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28205
+#EXTINF:-1,US: CNBC HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28137
+#EXTINF:-1,US: CNN HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28214
+#EXTINF:-1,US: Comedy Central HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28159
+#EXTINF:-1,US: CW Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28160
+#EXTINF:-1,US: Destination America HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28270
+#EXTINF:-1,US: Discovery Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28138
+#EXTINF:-1,US: Discovery Science HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28234
+#EXTINF:-1,US: Discovery Showcase HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28203
+#EXTINF:-1,US: Disney JR HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28280
+#EXTINF:-1,US: Disney XD HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28279
+#EXTINF:-1,US: DIY Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28235
+#EXTINF:-1,US: DW HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28139
+#EXTINF:-1,US: E! HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28282
+#EXTINF:-1,US: ESPN 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28215
+#EXTINF:-1,US: ESPN HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28161
+#EXTINF:-1,US: ESPN News HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28186
+#EXTINF:-1,US: ESPN SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28169
+#EXTINF:-1,US: ESPNU HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28185
+#EXTINF:-1,US: Fight HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28140
+#EXTINF:-1,US: Fight Sports HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28229
+#EXTINF:-1,US: Fine Living Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28202
+#EXTINF:-1,US: Food Network HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28236
+#EXTINF:-1,US: FOX 43 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28216
+#EXTINF:-1,US: FOX HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28130
+#EXTINF:-1,US: FOX News HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28162
+#EXTINF:-1,US: FOX Sports 1 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28170
+#EXTINF:-1,US: FOX Sports 2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28171
+#EXTINF:-1,US: FOX Sports 506 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28217
+#EXTINF:-1,US: Fuel TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28201
+#EXTINF:-1,US: FX HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28237
+#EXTINF:-1,US: FXX HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28141
+#EXTINF:-1,US: Grit TV HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28277
+#EXTINF:-1,US: H2 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28238
+#EXTINF:-1,US: Hallmark Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28239
+#EXTINF:-1,US: HBO Comedy HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28142
+#EXTINF:-1,US: HBO East HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28143
+#EXTINF:-1,US: HBO HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28144
+#EXTINF:-1,US: HBO Signature HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28145
+#EXTINF:-1,US: HBO Zone HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/28146
+#EXTINF:-1,VH1 FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1958
+#EXTINF:-1,VH1 FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25403
+#EXTINF:-1,VH1 FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29425
+#EXTINF:-1,VH1 HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1686
+#EXTINF:-1,VH1 MegaHits SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1685
+#EXTINF:-1,VH1 MegaHits SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2136
+#EXTINF:-1,VH1 SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1687
+#EXTINF:-1,Viva FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1922
+#EXTINF:-1,Viva FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25402
+#EXTINF:-1,Viva HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1683
+#EXTINF:-1,Viva HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2314
+#EXTINF:-1,Viva SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1684
+#EXTINF:-1,Viva SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2135
+#EXTINF:-1,Warner Channel FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1957
+#EXTINF:-1,Warner Channel FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25401
+#EXTINF:-1,Warner Channel FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29424
+#EXTINF:-1,Warner Channel HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1681
+#EXTINF:-1,Warner Channel HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2313
+#EXTINF:-1,Warner Channel HD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1497
+#EXTINF:-1,Warner Channel SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1682
+#EXTINF:-1,Warner Channel SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2134
+#EXTINF:-1,Warner Channel SD [Legendado]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1496
+#EXTINF:-1,WooHoo FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1956
+#EXTINF:-1,WooHoo FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25364
+#EXTINF:-1,WooHoo FHD [H265] [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/29397
+#EXTINF:-1,WooHoo HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1679
+#EXTINF:-1,WooHoo SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1680
+#EXTINF:-1,WooHoo SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2133
+#EXTINF:-1,X-Men [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2058
+#EXTINF:-1,Xena [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2028
+#EXTINF:-1,Yu Yu Hakusho [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2050
+#EXTINF:-1,Yu-Gi-Oh [24H]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2057
+#EXTINF:-1,ZooMoo SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1653
+#EXTINF:-1,ZooMoo SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2111
+#EXTINF:-1,[+18] Playboy FHD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1954
+#EXTINF:-1,[+18] Playboy FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25423
+#EXTINF:-1,[+18] Playboy HD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1649
+#EXTINF:-1,[+18] Playboy HD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2309
+#EXTINF:-1,[+18] Playboy SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1650
+#EXTINF:-1,[+18] Playboy SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2166
+#EXTINF:-1,[+18] Sextreme FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25368
+#EXTINF:-1,[+18] Sextreme SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1648
+#EXTINF:-1,[+18] Sextreme SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2105
+#EXTINF:-1,[+18] Sexy Hot FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25369
+#EXTINF:-1,[+18] Sexy Hot SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1647
+#EXTINF:-1,[+18] Sexy Hot SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2104
+#EXTINF:-1,[+18] Venus FHD [H265]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/25365
+#EXTINF:-1,[+18] Venus SD
+http://csrv.tv:80/mnbvcxz/zxcvbnm/1646
+#EXTINF:-1,[+18] Venus SD [Alter]
+http://csrv.tv:80/mnbvcxz/zxcvbnm/2102
