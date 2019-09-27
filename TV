@@ -32,7 +32,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 3[/COLOR][COLOR lime] ON[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 3[/COLOR][COLOR lime] ON[/COLOR][COLOR red] OFF[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%203</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 4[/COLOR][COLOR red] OFF[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 4[/COLOR][COLOR lime] ON[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%204</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
@@ -63,7 +63,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 5[/COLOR][COLOR lime] ON[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV 5[/COLOR][COLOR lime] ON[/COLOR][COLOR red] OFF[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SERV%205</externallink>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
