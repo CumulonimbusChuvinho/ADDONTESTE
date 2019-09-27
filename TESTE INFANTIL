@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,Os Simpsons [24h]
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/53051
 #EXTINF:-1,Pica Pau [24h]
@@ -28,8 +30,6 @@ http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/56834
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/56831
 #EXTINF:-1,Popeye 24h
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/56832
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/56908
-
 #EXTINF:-1,Dragon Ball Super [24h]
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/57186
 #EXTINF:-1,Kenan e Kel 24hs
@@ -52,7 +52,6 @@ http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/58095
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/58092
 #EXTINF:-1,Os Vingadores 24hs
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/58094
-
 #EXTINF:-1,Chapolin Colorado 24hs
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/59100
 #EXTINF:-1,Zé Buscapé 24h
