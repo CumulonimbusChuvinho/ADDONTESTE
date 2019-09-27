@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>[B] [COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]SERIES[/COLOR][COLOR red] TESTE - [/COLOR][COLOR yellow][/B]</title>                                            
+<title>[B] [COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]SERIES[/COLOR][COLOR red] TESTE - [/COLOR][/B]</title>                                            
 <link>http://ignorame</link>
 <thumbnail>https://ia801501.us.archive.org/0/items/filmesteste_201909/series%20teste.jpg</thumbnail>
 <fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
@@ -93,7 +93,7 @@
 </item>
  
 <item>
-<title>[B][COLOR blue]AMAZON[/COLOR] - Good Omens[/B] - [COLOR gold]DUBLADO(HD720)[/COLOR]</name>
+<title>[B][COLOR blue]AMAZON[/COLOR] - GOOD OMENS[/B] - [COLOR gold]DUBLADO(HD720)[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://www.moztudo.wizandroidmz.com/wp-content/uploads/2019/09/IMG_1839-1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20GOOD%20OMENS</externallink>
@@ -102,7 +102,7 @@
 </item>
  
 <item>
-<title>[B]Nos4a2[/B] - [COLOR gold]DUBLADO(HD720/1080)[/COLOR]</name>
+<title>[B]NOS4A2[/B] - [COLOR gold]DUBLADO(HD720/1080)[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTgwNjA4MDkwNl5BMl5BanBnXkFtZTgwMjE3NTgwODM@._V1_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/SERIE%20NOS4A2</externallink>
