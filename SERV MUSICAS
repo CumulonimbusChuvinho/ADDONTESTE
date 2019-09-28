@@ -1,308 +1,33 @@
-#EXTM3U
+channels>
+
+</channels><channel>
+<name>[B][COLOR pink] SHOWS[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR orange][B][COLOR white] SEUS ARTISTAS PREFERIDOS [/COLOR] IMDb IMDb 8.610/[/B]</info>
+   <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/MUS%20SHOWS</externallink>
 
 
-#EXTINF:-1,* Alternative
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
-#EXTINF:-1,Alt R&B
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
-#EXTINF:-1,Alternative
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8
-#EXTINF:-1,Brits + Hits
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8
-#EXTINF:-1,Dance/EDM
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8
-#EXTINF:-1,Hip-Hop and R&B
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8
-#EXTINF:-1,Hit List
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8
-#EXTINF:-1,Indie
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/chunklist.m3u8
-#EXTINF:-1,Love Songs
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8
-#EXTINF:-1,Metal
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8
-#EXTINF:-1,Music Choice Max
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8
-#EXTINF:-1,Pop & Country
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8
-#EXTINF:-1,Pop Hits
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8
-#EXTINF:-1,R&B Soul
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8
-#EXTINF:-1,Rap
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8
-#EXTINF:-1,Rap 2K
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8
-#EXTINF:-1,Reggae
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8
-#EXTINF:-1,Rock
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8
-#EXTINF:-1,Soft Rock
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-001/chunklist.m3u8
-#EXTINF:-1,Teen Beats
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-051/chunklist.m3u8
-#EXTINF:-1,Today’s Country
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-003/chunklist.m3u8
-#EXTINF:-1,Underground Hip-Hop
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-149/chunklist.m3u8
-#EXTINF:-1,’70s
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-036/chunklist.m3u8
-#EXTINF:-1,’80s
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-038/chunklist.m3u8
-#EXTINF:-1,’80s Rock
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-151/chunklist.m3u8
-#EXTINF:-1,’90s
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-039/chunklist.m3u8
-#EXTINF:-1,Classic Alternative
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-146/chunklist.m3u8
-#EXTINF:-1,Classic Country
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-027/chunklist.m3u8
-#EXTINF:-1,Classic Dance
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-162/chunklist.m3u8
-#EXTINF:-1,Classic Metal
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-153/chunklist.m3u8
-#EXTINF:-1,Classic Rock
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-006/chunklist.m3u8
-#EXTINF:-1,Country Hits
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-040/chunklist.m3u8
-#EXTINF:-1,Emo X Screamo
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-164/chunklist.m3u8
-#EXTINF:-1,Funk
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-161/chunklist.m3u8
-#EXTINF:-1,Hip-Hop Classics
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-019/chunklist.m3u8
-#EXTINF:-1,New Wave
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-166/chunklist.m3u8
-#EXTINF:-1,Punk
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-152/chunklist.m3u8
-#EXTINF:-1,R&B Classics
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-043/chunklist.m3u8
-#EXTINF:-1,Rock Hits
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-035/chunklist.m3u8
-#EXTINF:-1,Solid Gold Oldies
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-004/chunklist.m3u8
-#EXTINF:-1,Throwback Jamz
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-042/chunklist.m3u8
-#EXTINF:-1,Y2K
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-048/chunklist.m3u8
-#EXTINF:-1,Latin Jazz
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-157/chunklist.m3u8
-#EXTINF:-1,Mexicana
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-026/chunklist.m3u8
-#EXTINF:-1,Musica Urbana
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-034/chunklist.m3u8
-#EXTINF:-1,Pop Latino
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-041/chunklist.m3u8
-#EXTINF:-1,Rock Latino
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-155/chunklist.m3u8
-#EXTINF:-1,Romances
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-031/chunklist.m3u8
-#EXTINF:-1,Teen Ritmos
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-159/chunklist.m3u8
-#EXTINF:-1,Tropicales
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-025/chunklist.m3u8
-#EXTINF:-1,All Xmas
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
-#EXTINF:-1,Americana
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-147/chunklist.m3u8
-#EXTINF:-1,Bluegrass
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-148/chunklist.m3u8
-#EXTINF:-1,Blues
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-046/chunklist.m3u8
-#EXTINF:-1,Classical Masterpieces
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-017/chunklist.m3u8
-#EXTINF:-1,Contemporary Christian
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-016/chunklist.m3u8
-#EXTINF:-1,Easy Listening
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-009/chunklist.m3u8
-#EXTINF:-1,Folk
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/chunklist.m3u8
-#EXTINF:-1,Gospel
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-023/chunklist.m3u8
-#EXTINF:-1,Jazz
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-012/chunklist.m3u8
-#EXTINF:-1,Light Classical
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-008/chunklist.m3u8
-#EXTINF:-1,Lounge
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-150/chunklist.m3u8
-#EXTINF:-1,Opera
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-167/chunklist.m3u8
-#EXTINF:-1,Party Favorites
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-033/chunklist.m3u8
-#EXTINF:-1,Singers & Swing
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-018/chunklist.m3u8
-#EXTINF:-1,Smooth Jazz
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-007/chunklist.m3u8
-#EXTINF:-1,Sounds of The Seasons
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-032/chunklist.m3u8
-#EXTINF:-1,Soundscapes
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-045/chunklist.m3u8
-#EXTINF:-1,Stage & Screen
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-028/chunklist.m3u8
-#EXTINF:-1,Kids Movie Soundtracks
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-160/chunklist.m3u8
-#EXTINF:-1,Kidz Only!
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-021/chunklist.m3u8
-#EXTINF:-1,Toddler Tunes
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-020/chunklist.m3u8
-#EXTINF:-1,Brazilian Pop
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-135/chunklist.m3u8
-#EXTINF:-1,Filipino
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-136/chunklist.m3u8
-#EXTINF:-1,K-Pop
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/chunklist.m3u8
-#EXTINF:-1, Deluxe Music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+<channels>
 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 70
-http://192.99.150.31:8241/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 80
-http://192.99.150.31:8697/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 90
-http://192.99.150.31:8056/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 2000
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AXÉ
-http://192.99.150.31:8305/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,BREGA
-http://192.99.150.31:9007/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ELETRÔNICA
-http://192.99.150.31:9095/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FESTA
-http://6d9a.webradio.upx.net.br:9070/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FORRÓ
-http://192.99.150.31:9019/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FUNK
-http://192.99.150.31:9089/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,GOSPEL
-http://192.99.150.31:9101/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,HIP HOP
-http://192.99.150.31:8721/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,KIDS
-http://192.99.150.31:9431/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,JAZZ
-http://192.99.150.31:8042/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,LOUNGE
-http://6d9a.webradio.upx.net.br:9064/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,METAL
-http://6d9a.webradio.upx.net.br:9898/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,MPB
-http://192.99.150.31:8775/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,MÚSICA CLÁSSICA
-http://6d9a.webradio.upx.net.br:9970/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,NEW ROCK
-http://6d9a.webradio.upx.net.br:8028/stream? 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,PAGODE
-http://6d9a.webradio.upx.net.br:9061/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,POP HITS
-http://6d9a.webradio.upx.net.br:9046/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,POP ROCK
-http://6d9a.webradio.upx.net.br:8016/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSITÁRIO
-http://192.99.150.31:9191/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,TRILHAS SONORAS
-http://6d9a.webradio.upx.net.br:9896/stream?  
- #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
-http://192.99.150.31:9155/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, RAP NACIONAL
-http://192.99.150.31:8377/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, REGGAE
-http://192.99.150.31:8715/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, ROBERTO CARLOS
-http://192.99.150.31:9137/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, ROCK CLASSICO
-http://192.99.150.31:9125/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, RODEIO
-http://192.99.150.31:9473/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO
-http://192.99.150.31:9485/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SMOOTH JAZZ
-http://192.99.150.31:8042/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, TECHNO
-http://192.99.150.31:8301/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, TECNO BREGA
-http://192.99.150.31:8989/stream
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, STUDIO DO AMOR
-http://192.99.150.31:8962/stream
+</channels><channel>
+<name>[B][COLOR pink] RÁDIOS [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR orange][B][COLOR white]  RÁDIOS ON LINE . [/COLOR][/B]</info>
+   <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/MUS%20RADIOS</externallink>
 
-########################################################### RÁDIOS
+<channels>
 
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio34123_1447066982.jpg" TVG-NAME=''RADIO=TRUE, Radio Povo FM 87.9
-http://149.56.167.236:8079/.ogg
+</channels><channel>
+<name>[B][COLOR pink] ESTILOS [/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info>[COLOR orange][B][COLOR white] RÁDIOS SEPARADAS POR ESTILOS [/COLOR] IMDb IMDb 8.610/[/B]</info>
+   <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/MUS%20ESTILOS</externallink>
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10705_1483434697.jpg" TVG-NAME=''RADIO=TRUE, Radio Caicó AM 1290
-http://149.56.167.236:8089/.ogg
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14387_1439401460.JPG" TVG-NAME=''RADIO=TRUE, Rádio Rural 830 AM
-http://str.radiorural.com:8011/stream
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio17270_1439401503.JPG" TVG-NAME=''RADIO=TRUE, Rádio Rural 95 FM
-http://str.radiorural.com:8010/live
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14642_1516615140.png" TVG-NAME=''RADIO=TRUE, Rádio Solidariedade 106 FM
-http://149.56.167.236:8081/stream
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14474_1535454461.jpg" TVG-NAME=''RADIO=TRUE, Jovem Pan Seridó
-http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14216_1493299107.png" TVG-NAME=''RADIO=TRUE, Rádio Verdes Mares AM 810
-http://srv4.zoeweb.tv:1935/z18-live/stream/chunklist_w483075415.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11839_1481542862.png" TVG-NAME=''RADIO=TRUE, Rádio Clube 105.5 FM
-http://5940.live.upx.net.br:9082/stream
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13213_1489754950.png" TVG-NAME=''RADIO=TRUE, Rádio FM O Dia FM 100.5
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio25654_1466337048.png" TVG-NAME=''RADIO=TRUE, Rádio Coca Cola FM
-rtmp://s.imusicaradios.com.br/imusica_radio/brasil.stream
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" TVG-NAME=''RADIO=TRUE, Rádio Band FM 96.1
-http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1986330582.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio24477_1526479632.jpg" TVG-NAME=''RADIO=TRUE, Rádio Bandnews SP 96.9 FM
-https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w574835524.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c1/Logotipo_da_BH_FM.png/200px-Logotipo_da_BH_FM.png" TVG-NAME=''RADIO=TRUE, BH FM
-https://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio11886_1439401393.jpg" TVG-NAME=''RADIO=TRUE, Rádio Clube do Pará 690 AM
-http://ice01.kshost.com.br:8000/live
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14_1439400387.jpg" TVG-NAME=''RADIO=TRUE, Rádio Itatiaia 610 AM 95.7 FM
-http://1c3e26e6-c938-41ce-a27f-a6535039b307.8903.brasilstream.com.br:8903/stream
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio8829_1534247256.png" TVG-NAME=''RADIO=TRUE, Radio Jovempan 100.9 FM
-http://16843.live.streamtheworld.com/JP_SP_FMAAC.aac
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14040_1526481130.jpg" TVG-NAME=''RADIO=TRUE, Rádio Nativa FM 95.3
-http://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w453707469.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio10410_1526480127.jpg" TVG-NAME=''RADIO=TRUE, Rádio Bandeirantes AM 840 FM 90.9
-https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1714639095.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13955_1532353280.png" TVG-NAME=''RADIO=TRUE, Rádio Mix FM 106.3
-http://tuneinmix.crossradio.com.br:8008/stream
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio14742_1503923573.PNG" TVG-NAME=''RADIO=TRUE, Rádio Transamérica Hits FM 95.5
-http://ice11.crossradio.com.br:8206/live.mp3
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/R%C3%A1dio_Globo_logo_2017_vertical.svg/200px-R%C3%A1dio_Globo_logo_2017_vertical.svg.png" TVG-NAME=''RADIO=TRUE, Radio Globo FM
-http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/lg/radio13176_1484822550.jpg" TVG-NAME=''RADIO=TRUE, Rádio Gaúcha AM 600 FM 93.7
-https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_fa6b8cff-486f-42e1-8242-bf0823275256.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Logotipo_da_Mix_FM_Jo%C3%A3o_Pessoa.png" TVG-NAME=''RADIO=TRUE, MIX FM - JOÃO PESSOA
-http://158.69.117.161:8016/live
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://img.radios.com.br/radio/md/radio14655_1439401463.JPG" TVG-NAME=''RADIO=TRUE, 104 FM SOUSA
-http://stream.7br.com.br:10018/;
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://2.bp.blogspot.com/-n6jrftLBkns/T-5QghdGrLI/AAAAAAAAGKc/86f4QMz5i-A/s1600/RADIO_ARAPUAN_FM_CAJAZEIRAS.jpg" TVG-NAME=''RADIO=TRUE, ARAPUAN - PATOS
-http://centova6.ciclanohost.com.br:9312/;stream.nsv
+<channels>
