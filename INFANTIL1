@@ -1,15 +1,12 @@
  
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]DESENHOS[/COLOR][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR][/B][/COLOR]</title>                                            
-<link>http://ignorame</link>
+<item><title>[B][COLOR grey]|[/COLOR][COLOR blue]|[/COLOR][COLOR white]|[/COLOR] [COLOR white]DESENHOS[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR][COLOR gray]|[/COLOR][/B]</title<link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/DESENHOS</externallink>
 <info>[COLOR yellow]|[/COLOR] by EQUIPE CHUVINHO [COLOR yellow]|[/COLOR]</info>
 </item>
  
-<item>
-<title>[B][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]ANIMES[/COLOR][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR][/B][/COLOR]</title>                                            
+<item><title>[B][COLOR grey]|[/COLOR][COLOR blue]|[/COLOR][COLOR white]|[/COLOR] [COLOR white]ANIMES[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR][COLOR gray]|[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -18,7 +15,7 @@
 </item>
  
 <item>
-<title>[B][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]FILMES INFANTIS[/COLOR][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR][/B][/COLOR]</title>                                            
+<title>[B][COLOR grey]|[/COLOR][COLOR blue]|[/COLOR][COLOR white]|[/COLOR] [COLOR white]FILMES INFANTIS[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR][COLOR gray]|[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
