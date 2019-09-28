@@ -62,6 +62,21 @@
 
 <channels>
 <channel>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR black]|[/COLOR] [COLOR orange] CATEGORIAS[/COLOR] [COLOR black]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/FILMES%20CATEGORIA</externallink>
+<fanart>https://ia801403.us.archive.org/4/items/fanart_20190909_2250/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES POR CATEGORIAS  - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR black]|[/COLOR] [COLOR red]TESTE[/COLOR] [COLOR black]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
 <thumbnail>https://ia601501.us.archive.org/0/items/filmesteste_201909/filmes%20teste.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TESTE%20FILMES</externallink>
