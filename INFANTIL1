@@ -1,25 +1,27 @@
+ 
 <item>
-<title>[B][COLOR lime] DESENHOS[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]DESENHOS[/COLOR][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR][/B][/COLOR]</title>                                            
+<link>http://ignorame</link>
 <thumbnail></thumbnail>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/DESENHOS</externallink>
-<info>[COLOR blue][B]by [/B][/COLOR][COLOR blue][B]EQUIPE [/B][/COLOR][COLOR blue][B]CHUVINHO[/B][/COLOR]</info>
+<info>[COLOR yellow]|[/COLOR] by EQUIPE CHUVINHO [COLOR yellow]|[/COLOR]</info>
 </item>
-
-
+ 
 <item>
-<title>[B][COLOR pink] ANIMES[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]ANIMES[/COLOR][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR][/B][/COLOR]</title>                                            
+<link>http://ignorame</link>
 <thumbnail></thumbnail>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
+<fanart></fanart>
 <externallink>https://github.com/CumulonimbusChuvinho/CUMULONIMBUS/blob/master/ANIMES</externallink>
-<info>[COLOR blue][B]by [/B][/COLOR][COLOR blue][B]EQUIPE [/B][/COLOR][COLOR blue][B]CHUVINHO[/B][/COLOR]</info>
+<info>[COLOR yellow]|[/COLOR] by EQUIPE CHUVINHO [COLOR yellow]|[/COLOR]</info>
 </item>
-
-
+ 
 <item>
-<title>[B][COLOR tomato] FILMES INFANTIS[/COLOR][/B]</title>
+<title>[B][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR] [COLOR white]FILMES INFANTIS[/COLOR][COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR mediumblue]|[/COLOR][/B][/COLOR]</title>                                            
+<link>http://ignorame</link>
 <thumbnail></thumbnail>
-<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/FILMES%20INFANTIS</externallink>
-<info>[COLOR blue][B]by [/B][/COLOR][COLOR blue][B]EQUIPE [/B][/COLOR][COLOR blue][B]CHUVINHO[/B][/COLOR]</info>
+<info>[COLOR yellow]|[/COLOR] by EQUIPE CHUVINHO [COLOR yellow]|[/COLOR]</info>
 </item>
