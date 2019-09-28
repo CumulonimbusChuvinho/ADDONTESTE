@@ -1,283 +1,55 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS",GLOBO http://hvod.imirun.net:8080/GloboRJ/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ SD http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ HD https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ SD https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
-
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD SP. http://hvod.imirun.net:8080/RecordSP/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD SP http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="TVCATV",TELECINE ACTION http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-1_m.png" group-title="TVCATV",TELECINE PIPOCA http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="TVCATV",TELECINE PREMIUM http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch-1_m.png" group-title="TVCATV",TELECINE TOUCH http://playback.imirun.net:8080/TelecineTouchHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="TVCATV",TELECINE CULT http://playback.imirun.net:8080/TelecineCult/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE MEGAPIX" tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-pix-1_m.png" group-title="TVCATV",MEGAPIX http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png" group-title="TVCATV",FOX http://hvod.imirun.net:8080/FOX/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156020-750-750/cinemax.png?v=636446260713800000" group-title="TVCATV",CINEMAX http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://4.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhBw/iAESgIKgW9c/s1600/tnt_hd.png" group-title="TVCATV",TNT http://hvod.imirun.net:8080/TNT-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="SONY" tvg-logo="" group-title="TVCATV",CANAL SONY http://playback.imirun.net:8080/Canalsony/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="" group-title="TVCATV", Disney Channel http://hvod.imirun.net:8080/DisneyChannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ESPORTE",PREMIERE FC 6 http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" goup-title="TVCATV",PREMIERE FC 4 http://hvod.imirun.net:8080/Premiere-4-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 3 http://hvod.imirun.net:8080/Premiere-3-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 2 http://hvod.imirun.net:8080/Premiere-2-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC http://hvod.imirun.net:8080/Premiere-Clubes-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 5 http://hvod.imirun.net:8080/Premiere-5-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC http://hvod.imirun.net:8080/Premiere-Clubes-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",AXN http://hvod.imirun.net:8080/AXN-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN EXTRA http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , AXN HD http://hvod.imirun.net:8080/AXN/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , AMC http://hvod.imirun.net:8080/AMC-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , BAND SPORT http://hvod.imirun.net:8080/Band-Sports/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , BOOMERANG http://playback.imirun.net:8080/Boomerang/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , CANAL BRASIL http://hvod.imirun.net:8080/CanalBrasil/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , DISCOVERY H&H http://hvod.imirun.net:8080/DiscoveryH&H/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , DISCOVERY TURBO HD http://hvod.imirun.net:8080/DiscoveryTurbo-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV" , DISCOVERY SCIENCE http://hvod.imirun.net:8080/DiscoveryScience/index.m3u8
-
-#EXTINF:-1 tvg-logo="" goup-title="TVCATV",A&E http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",A&E. http://hvod.imirun.net:8080/A&E-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",AMC http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",ARTE1 http://hvod.imirun.net:8080/Arte1-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",CINEMAX http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",COMEDY CENTRAL http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Esportes",COMBATE http://playback.imirun.net:8080/Combate/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY CIVILIZATION http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY H&H http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY KIDS http://playback.imirun.net:8080//DiscoveryKids/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY SCIENCE http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY THEATER http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY TURBO http://playback.imirun.net:8080//DiscoveryTurbo-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY WORLD http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISNEY CHANNEL HD http://playback.imirun.net:8080//DisneyChannelHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISNEY JUNIOR http://playback.imirun.net:8080//DisneyJunior/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",E! http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN+ http://hvod.imirun.net:8080/ESPN+/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN http://hvod.imirun.net:8080/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOOD NETWORK http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",LIFETIME http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOX PREMIUM 1 http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOX PREMIUM 2 http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOX http://hvod.imirun.net:8080/FOX/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",FX http://hvod.imirun.net:8080/FX/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",GLOOB http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",GNT http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",H2 http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",HBO 2 http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",HBO http://hvod.imirun.net:8080/HBO-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",INVESTIGACAO DISCOVERY http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",LIFETIME http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",MAX UP http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",MAX PRIME http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",MEGA PIX http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",NATIONAL GEOGRAPHIC http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",NAT GEO WILD http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",MTV http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",MULTISHOW HD http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png" group-title="Aberto", Globo Rio http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8a3cffe5807eff927f1c0e8144a429876f3cfb24/playlist.m3u8#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png" group-title="Aberto", Globo Rio http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8a3cffe5807eff927f1c0e8144a429876f3cfb24/playlist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-3-100x100.png" group-title="Abertos", Globo nordeste http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_0590dde5f1a61afa9f5d329ca7360250898e5960.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="Abertos", Globo SP http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_430ccd2d0cc49bc02db908663c82c736b9a8bf44.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="Abertos", Band http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_91171fcfc68487fa07a3e96399d6cdbae4dc34a0/playlist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="Abertos", Record http://edge.aovivo.club/hls/s:155.138.227.45/record_3554dce5_7c0dbcc1a61f505df031ab69d7ade5eeabd44f32/410p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/historyhd.png" group-title="Variedades", History HD http://edge.aovivo.club/hls/s:155.138.226.22/historyopcao2_00a8a5c3_6257b0d2ebe5410b148bffe49b72824e58b0dd3d/410p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/history.png" group-title="Variedades", History http://edge.aovivo.club/hls/s:45.32.217.66/history_b7eb6c68_87f809fabe8b8f51b51bf85989b651d2ccdff464/410p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/natgeochannel.png" group-title="Variedades", National Geographic http://edge.aovivo.club/hls/s:45.32.217.66/nationalgeographic_2e01e174_d7ffb40556918834c5ae55131ee1d3badfa9e064/720p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremiumhd.png" group-title="Filmes e séries", Telecine premium HD http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_5a148dab0baacea2a345bf61e826046541c185cf/playlist.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="Filmes e séries", Telecine pipoca HD http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_1f9e64278389edf273f228469af97fa762b055d1.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="Filmes e séries", Telecine action HD http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_ab78b4c6d4445f6232beaae60bec6a5c35990e3e.m3u8 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="Filmes e Séries", HBO 1080p http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_45e27323160e7b1202d9c7eeee0abbc2b822c574.m3u8
-
-#EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png" group-title="Aberto", Globo Rio http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_8a3cffe5807eff927f1c0e8144a429876f3cfb24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",OFF http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE CLUBES http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 2 http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 3 http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 4 http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 5 http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 6 http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",PARAMOUNT http://hvod.imirun.net:8080/ParamountHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",RECORD NEWS http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TNT http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",RECORD SP http://hvod.imirun.net:8080/RecordSP/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",REDE TV http://hvod.imirun.net:8080/REDETVHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",SYFY http://hvod.imirun.net:8080/SyFyHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",SBT http://hvod.imirun.net:8080/SBTHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",SPACE http://hvod.imirun.net:8080/SpaceHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",CANAL SONY HD http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TBS http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE ACTION HD http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE PIPOCA HD http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE CULT HD http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE FUN HD http://playback.imirun.net:8080/TelecineFun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE PREMIUM HD http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE TOUCH HD http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TNT HD http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TCM http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TBS http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TVGAZETA http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",TNT SERIES http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",WARNER CHANNEL http://hvod.imirun.net:8080/WarnerChannel/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca http://stmv2.srvstm.com/16692/16692/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
-
-#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Novo Tempo http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="TV Musicas",VH1 MEGAHITS http://stream.1music.hu/stream/1music.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits http://www.djing.com/tv/04.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0 http://rtmp.one.by:1200
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD http://rtmp.one.by:2300
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids http://192.99.150.31:9431/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB http://192.99.150.31:8775/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova http://6d9a.webradio.upx.net.br:9974/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró http://192.99.150.31:9019/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode http://6d9a.webradio.upx.net.br:9061/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000 http://6d9a.webradio.upx.net.br:9940/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo http://192.99.150.31:9485/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk http://192.99.150.31:9089/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico http://192.99.150.31:9125/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge http://6d9a.webradio.upx.net.br:9064/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock http://6d9a.webradio.upx.net.br:8016/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70 http://192.99.150.31:8241/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80 http://192.99.150.31:8697/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90 http://192.99.150.31:8056/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas http://192.99.150.31:8962/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional http://192.99.150.31:8377/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica http://192.99.150.31:9095/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa http://6d9a.webradio.upx.net.br:9070/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel http://192.99.150.31:9101/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop http://192.99.150.31:8721/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz http://192.99.150.31:8042/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé http://192.99.150.31:8305/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega http://192.99.150.31:9007/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica http://6d9a.webradio.upx.net.br:9970/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock http://6d9a.webradio.upx.net.br:8028/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae http://192.99.150.31:8715/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário http://192.99.150.31:9191/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits http://6d9a.webradio.upx.net.br:9046/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal http://6d9a.webradio.upx.net.br:9898/stream #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras http://6d9a.webradio.upx.net.br:9896/stream
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA TV http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png" group-title="Radios",BIGMIX TV https://5c64355d4b57c.streamlock.net:1936/bigmix/bigmix/chunklist_w1815015955.m3u8
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png" group-title="Radios",BIGMIX https://servidor39-1.brlogic.com:8130/live
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
-
-#EXTINF:-1 tvg-logo="http://radiosatweb.com.br/images/184111d0e37ef988411217c0ed14431d.png" group-title="Radios",Estação SAT FM http://s32.maxcast.com.br:8022/live
-
-#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="Radios",Mix FM http://mixaac.crossradio.com.br:1100/live
-
-#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios", Coca Cola FM http://142.4.217.133:9278/stream
-
-#EXTINF:-1 tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/mobile/logo.png" group-title="Radios", Radio Mania Volta Redonda http://radio.servercsi.com.br:8601/;stream/1
-
-#EXTINF:-1 tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" group-title="Radios",Vibe FM http://servidor36.brlogic.com:8180/live
-
-#EXTINF:-1 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/609/8258b880a641ff4627d31d6b54cf25d7.png" group-title="Radios",CIDADE DO ACO http://ice1.crossradio.com.br:8184/live.mp3
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" group-title="Radios",Radio Maringa http://ice1.fabricahost.com.br:8010/live.128
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Vibe https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Funk https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Sertanejo Hits https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Pagode https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfhctHpdWrnU-xJDtqQc-FQiPiBl1qfxgoSTjOBBvBSa7GUjHbCKdBLNC4g" group-title="Radios",BH FM http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="Abertos", Globo SP
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_dd52cfd7d2e6cecafe68884bccf4870775b5e765/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png"Abertos", Globo rio
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_0be8dfc88c35a58e82e569b7df1c923907e94f59/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-3-100x100.png" group-title="Abertos", Globo nordeste
+http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_7dcc43f45e773485db940f5e27b29e0169e5e2d8.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png"Abertos", SBT
+http://edge.aovivo.club/hls/s:45.32.217.66/sbtsp_2a5ac580_aa188281d61fab01147882a36c8371881d543eb7/410p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="", SBT piaui
+http://edge.aovivo.club/hls/s:155.138.227.45/sbtpi_733b57ae_504e30d6734437d1825952dfd25907cd952a4949/1080p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="Abertos", Rede TV
+http://edge.aovivo.club/hls/s:155.138.227.45/redetv_45cbe19f_a174727542b3fa0f65999224bbcb7fc3aebb2204/270p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="Abertos", Record
+http://edge.aovivo.club/hls/s:155.138.227.45/record_3554dce5_efdd3330956a95c88f4470e0f0d7e82f0e169887/410p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="Abertos", Band
+http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_4a6dd9220b2416ffa7df71cb9076f8fc925fde61/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvcultura.png" group-title="Abertos", Cultura
+http://edge.aovivo.club/hls/s:155.138.226.22/tvculturahd_ef7de0b7_6715617223fb247209b67f1759153eb1086c8246/280p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvaparecida.png" group-title="Abertos", Tv aparecida
+http://edge.aovivo.club/hls/s:45.32.217.66/tvaparecida_be4d979e_16cc88785a662bf33e7323b94b8c72c9bc758751/1080p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cancaonova.png" group-title="Abertos", Cancão nova
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/ae.png" group-title="Filmes e Series", AeMundo
+http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_207e6b93a94e473b84da62b405e965cf78c8e067/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e series", FX
+http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_e0051a06313e03dd439874a73cf00128226e0e08/playlist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tctouch.png" group-title="Filmes e series", Telecine touch
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_f06df1b59f39c03cc859e40e7b89765f5e6db401.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremiumhd.png" group-title="Filmes de series", Telecine Premium HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_01b16800abcbf286cf57f03ef7c06c22e40c611f.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e series" Telecine Premmium
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749/480p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="Filmes e seies", Telecine Pipoca HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_26b76cd460733c8a8d7c7a8d3225c9ba56b96cb5.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="Filmes e series", Telecine Pipoca
+http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_3b57501b450a73f8f0038f9333a0e193dcda4b3c/410p/chunklist.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tccult.png" group-title="Filmes e series", Telecien Cult
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_1b3bb847c389e628ab54491e6f5a6759edc62c90.m3u8 HD
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="Filmes e Séries", Telecineaction
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_a5162f2ed863aab64d5e4c230ba8c3b2b16448f2.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcaction.png" group-title="Canais de filmes ", Telecine action
+http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_aebd6b11e1d13695aa09a514e2b23e22130f1a97.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="Canais de filmes ", HBO Signature
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_22d25251d0690443dded24019efaae8aa333bdb3.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="", HBO plus
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_c5ea1fbf0390d7a2118b0dbdefff432cd0f42d5e.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="Filmes e Séries", HBO plus HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_9a801485170e8ea0ad681d3287358b3fe38576af.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title="", HBO2 HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_724134d5116696f5b2a45b6e527990c0768ce15a.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="Filmes e Séries", HBO HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_875afcfcad6f6eb3fbab194b32f57d3ed533e49f.m3u8
+#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="Canais de filmes ", HBO Signature
+http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_22d25251d0690443dded24019efaae8aa333bdb3.m3u8
