@@ -1,55 +1,132 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
+https://paineliptvgratis.com/intro.mp4
 
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-2-100x100.png" group-title="Abertos", Globo SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=PhoenixReborn;url=http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_dd52cfd7d2e6cecafe68884bccf4870775b5e765/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-1-100x100.png"Abertos", Globo rio
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_0be8dfc88c35a58e82e569b7df1c923907e94f59/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/globo-3-100x100.png" group-title="Abertos", Globo nordeste
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_7dcc43f45e773485db940f5e27b29e0169e5e2d8.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png"Abertos", SBT
-http://edge.aovivo.club/hls/s:45.32.217.66/sbtsp_2a5ac580_aa188281d61fab01147882a36c8371881d543eb7/410p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/sbt-1-100x100.png" group-title="", SBT piaui
-http://edge.aovivo.club/hls/s:155.138.227.45/sbtpi_733b57ae_504e30d6734437d1825952dfd25907cd952a4949/1080p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/redetv.png" group-title="Abertos", Rede TV
-http://edge.aovivo.club/hls/s:155.138.227.45/redetv_45cbe19f_a174727542b3fa0f65999224bbcb7fc3aebb2204/270p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/rederecord.png" group-title="Abertos", Record
-http://edge.aovivo.club/hls/s:155.138.227.45/record_3554dce5_efdd3330956a95c88f4470e0f0d7e82f0e169887/410p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/band.png" group-title="Abertos", Band
-http://edge.aovivo.club/hls/s:95.216.15.44:81/band_49e3d046_4a6dd9220b2416ffa7df71cb9076f8fc925fde61/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvcultura.png" group-title="Abertos", Cultura
-http://edge.aovivo.club/hls/s:155.138.226.22/tvculturahd_ef7de0b7_6715617223fb247209b67f1759153eb1086c8246/280p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tvaparecida.png" group-title="Abertos", Tv aparecida
-http://edge.aovivo.club/hls/s:45.32.217.66/tvaparecida_be4d979e_16cc88785a662bf33e7323b94b8c72c9bc758751/1080p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/cancaonova.png" group-title="Abertos", Cancão nova
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/ae.png" group-title="Filmes e Series", AeMundo
-http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_207e6b93a94e473b84da62b405e965cf78c8e067/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/fx.png" group-title="Filmes e series", FX
-http://edge.aovivo.club/hls/s:95.216.15.44:81/fx_667be543_e0051a06313e03dd439874a73cf00128226e0e08/playlist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tctouch.png" group-title="Filmes e series", Telecine touch
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_f06df1b59f39c03cc859e40e7b89765f5e6db401.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremiumhd.png" group-title="Filmes de series", Telecine Premium HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_01b16800abcbf286cf57f03ef7c06c22e40c611f.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpremium.png" group-title="Filmes e series" Telecine Premmium
-http://edge.aovivo.club/hls/s:155.138.227.156/telecinepremium_a929eb33_40b1114532bbdc73ad5396d036141d86b774b749/480p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipocahd.png" group-title="Filmes e seies", Telecine Pipoca HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_26b76cd460733c8a8d7c7a8d3225c9ba56b96cb5.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcpipoca.png" group-title="Filmes e series", Telecine Pipoca
-http://edge.aovivo.club/hls/s:155.138.227.156/telecinepipoca_fd937516_3b57501b450a73f8f0038f9333a0e193dcda4b3c/410p/chunklist.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tccult.png" group-title="Filmes e series", Telecien Cult
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_1b3bb847c389e628ab54491e6f5a6759edc62c90.m3u8 HD
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcactionhd.png" group-title="Filmes e Séries", Telecineaction
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_a5162f2ed863aab64d5e4c230ba8c3b2b16448f2.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/tcaction.png" group-title="Canais de filmes ", Telecine action
-http://edge.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_aebd6b11e1d13695aa09a514e2b23e22130f1a97.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="Canais de filmes ", HBO Signature
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_22d25251d0690443dded24019efaae8aa333bdb3.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="", HBO plus
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_c5ea1fbf0390d7a2118b0dbdefff432cd0f42d5e.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hboplus-1.png" group-title="Filmes e Séries", HBO plus HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_9a801485170e8ea0ad681d3287358b3fe38576af.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbo2hd.png" group-title="", HBO2 HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_724134d5116696f5b2a45b6e527990c0768ce15a.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbohd.png" group-title="Filmes e Séries", HBO HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_875afcfcad6f6eb3fbab194b32f57d3ed533e49f.m3u8
-#EXTINF:-0 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/hbofamily.png" group-title="Canais de filmes ", HBO Signature
-http://edge.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_22d25251d0690443dded24019efaae8aa333bdb3.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvseriesfinale.com/wp-content/uploads/2015/11/fox14.png" group-title="Categorias", Fox (www.redecanais.com)
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist_w485269247.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/uPvJzrz.png" group-title="Categorias", Investigation Discovery [HD]
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/oi67.tinypic.com/2m4ss2f.jpg" group-title="Categorias", DISCOVERY CHANNEL
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvmagazine.com.br/imagens/icones/600/universalchannelb.png" group-title="Categorias", Universal Channel (www.redecanais.com)
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w1791554469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/74x9qj9ml/UNIVERSAL.png" group-title="Categorias", Universal Channel
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/playlist.m3u8?MIKADASERVAS
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/La7oRU" group-title="Categorias", UNIVERSAL CHANNEL
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w135200949.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/1896a88a166512d0d19d3414ba268ab9.png" group-title="Categorias", Universal Channel
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist_w1777124272.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/lFzs7cI.jpg" group-title="Categorias", MTV
+http://live.tvplayerlatino.com/streaming/src1/hzHHE?238e82&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/p2c8bPp.png" group-title="Categorias", MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/musica/2.png" group-title="Categorias", MTV Live HD
+http://ragnaroktv.com/hls/2/src2/4/7/MTV_Live_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/musica/4.png" group-title="Categorias", MTV HD
+http://ragnaroktv.com/hls/2/src2/4/7/MTV_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Multishow
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1290.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/yYmGNnQ.png" group-title="Categorias", Multishow HD
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1383.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Multishow HD
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1383.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", MULTISHOW
+http://maia.tvcast.stream/hls/multishow_5f573b82.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/infantiles/2.png" group-title="Categorias", Cartoon Network
+http://ragnaroktv.com/hls/2/src3/4/8/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/jjsijgj8t/og_Logo.png" group-title="Categorias", CARTOON NETWORK
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/S5PsDDR.png" group-title="Categorias", Cartoon Network HD
+http://painel.iptvmove.com:25461/live/Carsilva/123456/2257.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", GNT
+http://painel.iptvmove.com:25461/live/renato12/renato12/1309.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/a4pnqAH.png" group-title="Categorias", GNT
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1309.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", GNT HD
+http://painel.iptvmove.com:25461/live/renato12/renato12/1393.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", GNT HD
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1393.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Warner Channel HD
+http://m3u.iptvla.xyz/usuarios/src1/WarnerChannelHD/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iptv.gratis/imagens/upload/materias/382163e6ac24092661bcd7625ea10ec9.jpg" group-title="Categorias", WARNER CHANNEL
+http://lista.digitalgroup.me:80/live/car20016/20016/2478.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/xvZ66AU.png" group-title="Categorias", Warner Channel
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1227.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/xvZ66AU.png" group-title="Categorias", Warner Channel HD
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1355.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Action
+http://144.217.254.99:25461/live/deley/deley/1247.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Fun
+http://144.217.254.99:25461/live/deley/deley/1245.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Premium
+http://144.217.254.99:25461/live/deley/deley/1243.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Touch
+http://144.217.254.99:25461/live/deley/deley/1242.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Cult
+http://144.217.254.99:25461/live/deley/deley/1246.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Telecine Pipoca
+http://144.217.254.99:25461/live/deley/deley/1244.m3u8
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Comedy Central HD
+http://m3u.iptvla.xyz/usuarios/src1/ComedyCentralHD/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.totalplay.com.mx/images/logos/canales/can_hd/32.png" group-title="Categorias", Comedy Central
+http://iptvmexico.xyz/chavez/284.m3u8?COMEDY_CENTRAL_HD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/0956PZG.png" group-title="Categorias", Comedy Central
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1336.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", Comedy Central
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1336.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/puu.sh/msJjE/f96602e474.png" group-title="Categorias", NatGeo
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/QouD1hh.png" group-title="Categorias", NatGeo Wild
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1288.ts
+
+#EXTINF:-1 tvg-logo="https://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categorias", NatGeoWild HD
+http://painel.iptvmove.com:25461/live/diego2501/diego2501/1382.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Categorias", NatGeo Kids
+http://painel.iptvmove.com:25461/live/Carsilva/123456/1810.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s640/18881845_1689128821389050_7148178865498555867_n.png" group-title="Categorias", NatGeo Kids
+http://200.78.215.85:8010/play/a0at
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/cultura/7.png" group-title="Categorias", NATIONAL GEOGRAPHIC
+http://ragnaroktv.com/hls/2/src2/4/8/NAT_GEO.m3u8
