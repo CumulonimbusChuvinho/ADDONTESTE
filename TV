@@ -88,3 +88,19 @@
 [COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+
+
+<channels>
+<channel>
+<name>[COLOR blue]|[/COLOR][COLOR white]|[/COLOR][COLOR silver]|[/COLOR] [COLOR orange]SERV TESTE 2[/COLOR][COLOR lime]ON[/COLOR][COLOR red]OFF[/COLOR][COLOR silver]|[/COLOR][COLOR white]|[/COLOR][COLOR blue]|[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/20/items/lancae/TV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/CumulonimbusChuvinho/CUMULONIMBUS/master/TV%20SER%20TEST%202</externallink>
+<fanart>https://ia801507.us.archive.org/7/items/fanart_20190924/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - TV AO VIVO by EQUIPE CHUVINHO- [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
